@@ -1,0 +1,101 @@
+{
+  "key": "genesis",
+  "title": "Genesis Study",
+  "domain": "genesis.mybibleexplorer.com",
+  "totalVerses": 1533,
+  "totalChapters": 50,
+  "books": [
+    {
+      "slug": "genesis",
+      "name": "Genesis",
+      "verseCounts": [
+        31,
+        25,
+        24,
+        26,
+        32,
+        22,
+        24,
+        22,
+        29,
+        32,
+        32,
+        20,
+        18,
+        24,
+        21,
+        16,
+        27,
+        33,
+        38,
+        18,
+        34,
+        24,
+        20,
+        67,
+        34,
+        35,
+        46,
+        22,
+        35,
+        43,
+        55,
+        32,
+        20,
+        31,
+        29,
+        43,
+        36,
+        30,
+        23,
+        23,
+        57,
+        38,
+        34,
+        34,
+        28,
+        34,
+        31,
+        22,
+        33,
+        26
+      ]
+    }
+  ],
+  "backgroundSections": [
+    [
+      "mosaic-authorship",
+      "Mosaic Authorship"
+    ],
+    [
+      "date-and-setting",
+      "Date and Setting"
+    ],
+    [
+      "the-structure-of-genesis",
+      "The Structure of Genesis"
+    ],
+    [
+      "creation-and-the-sabbath",
+      "Creation and the Sabbath"
+    ],
+    [
+      "the-fall-and-the-flood",
+      "The Fall and the Flood"
+    ],
+    [
+      "the-patriarchs-in-the-story-of-redemption",
+      "The Patriarchs in the Story of Redemption"
+    ],
+    [
+      "genesis-and-the-great-controversy",
+      "Genesis and the Great Controversy"
+    ],
+    [
+      "the-book-at-a-glance",
+      "The Book at a Glance"
+    ]
+  ],
+  "timelineSection": "the-patriarchs-in-the-story-of-redemption",
+  "finalSection": "the-book-at-a-glance"
+}

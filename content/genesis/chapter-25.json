@@ -1,0 +1,1898 @@
+{
+  "chapterNumber": 25,
+  "title": "The Patriarch Dies, the Promise Continues",
+  "summary": "Abraham dies full of years, Ishmael’s line is recorded, and twins born to Isaac begin a struggle the birthright will define.",
+  "historicalContext": "The chapter spans more than a century. Abraham lived thirty-eight years beyond Sarah’s death, dying at one hundred seventy-five, when Jacob and Esau were already fifteen; Ishmael died at one hundred thirty-seven, when the twins were sixty-three. The narrator therefore arranges events by theme, closing each life before taking up the next. The world behind the text is that of pastoral clans in the Negev and the steppe lands to the south and east. Many names in the lists of Keturah’s and Ishmael’s sons reappear as tribes and oases of northern Arabia, peoples known for caravan trade in incense and spices and attested in later inscriptions. Inheritance customs gave the firstborn son leadership of the household and a larger share of property, yet a father could make other provision during his lifetime. In Abraham’s family the birthright carried more than goods: it marked the heir of the covenant promises of land, nationhood, and the Seed through whom all nations would be blessed.",
+  "literaryContext": "Genesis 25 is a hinge between the story of Abraham and the story of Jacob. Its first half settles accounts: the sons of Keturah are listed and sent east (vv. 1–6), Abraham dies and is buried (vv. 7–11), and the generations of Ishmael are traced and closed (vv. 12–18). This follows the book’s regular pattern, in which the line not chosen is summarized before the narrative returns to the line of promise. With the heading “these are the generations of Isaac” (v. 19), a new major section begins that runs to 35:29 and centers on Jacob. Its opening scene supplies the themes that drive the whole cycle: a barren wife and answered prayer, rivalry from the womb, a divine oracle reversing the expected order, names that foreshadow character, divided parental love, and a birthright treated with contempt by one brother and pursued by unworthy means by the other.",
+  "themes": [
+    "God’s faithfulness to every son of Abraham",
+    "The covenant line kept by grace, not by birth order",
+    "Death as rest with the fathers until the promise is fulfilled",
+    "Prayer that waits on God’s timing",
+    "Election and the overturning of human expectations",
+    "Spiritual inheritance despised for momentary appetite"
+  ],
+  "outline": [
+    {
+      "range": "25:1-6",
+      "title": "Abraham’s Other Sons and Isaac’s Inheritance",
+      "summary": "Keturah bears Abraham six sons, whose clans are listed; Abraham gives all he has to Isaac and sends the other sons east with gifts."
+    },
+    {
+      "range": "25:7-11",
+      "title": "The Death and Burial of Abraham",
+      "summary": "Abraham dies at one hundred seventy-five, satisfied with life, is buried by Isaac and Ishmael at Machpelah, and God blesses Isaac."
+    },
+    {
+      "range": "25:12-18",
+      "title": "The Generations of Ishmael",
+      "summary": "Ishmael’s twelve princes fulfill God’s promise to Hagar; Ishmael dies, and his descendants settle from Havilah to Shur."
+    },
+    {
+      "range": "25:19-26",
+      "title": "Answered Prayer and Struggling Twins",
+      "summary": "After twenty years of barrenness, Isaac’s prayer is answered; the LORD tells Rebekah that the elder shall serve the younger, and Esau and Jacob are born."
+    },
+    {
+      "range": "25:27-34",
+      "title": "The Birthright Sold for Pottage",
+      "summary": "The brothers grow apart, the parents divide their love, and famished Esau trades his birthright to calculating Jacob for a meal."
+    }
+  ],
+  "verses": [
+    {
+      "verse": "Genesis 25:1",
+      "bibleText": "Then again Abraham took a wife, and her name was Keturah.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 17:4-5",
+        "Genesis 24:67",
+        "1 Chronicles 1:32-33",
+        "Romans 4:19-21"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "With Sarah buried and Isaac married, the narrator turns to the last chapter of Abraham’s life. “Then again Abraham took a wife” uses the same verb that has just described Isaac taking Rebekah (24:67), so the two notices stand side by side: the son finds comfort after his mother’s death, and the father, too, does not finish his years alone. Abraham was one hundred thirty-seven when Sarah died and lived thirty-eight more years. The text gives no date for this marriage, and the flow of the narrative most naturally places it after Sarah’s death, though the brief notice does not settle the matter beyond question.\n\nKeturah’s name is connected with fragrant smoke or incense, a fitting association since several of the peoples descended from her became traders in frankincense and spices along the Arabian caravan routes. She is called a wife here, yet verse 6 and 1 Chronicles 1:32 class her among Abraham’s concubines. In the patriarchal period the two terms overlap; a concubine could be a true secondary wife whose children nevertheless did not share the main heir’s standing.\n\nThe verse also bears witness to God’s word. At ninety-nine Abraham was told he would be “a father of many nations” (17:4-5). Isaac alone would carry the covenant, yet the promise of many nations was larger than one line. The man who once laughed at the thought of a son at a hundred now sees further sons born to him. The renewal of strength that made Isaac’s birth possible had not been withdrawn, and Abraham’s closing years are marked by the same faithfulness of God that had shaped all the rest.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "קְטוּרָה (Qeturah) — Keturah",
+          "explanation": "The name is related to the vocabulary of incense, the fragrant smoke offered in worship (Exodus 30:7-8). The link fits the later history of her descendants, among whom were Midianite and Sheban traders who carried spices and incense northward (Isaiah 60:6). The meaning of a name in Genesis often hints at a person’s story without serving as a full definition of character.",
+          "scriptureReferences": [
+            "Exodus 30:7-8",
+            "Isaiah 60:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:2",
+      "bibleText": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Exodus 2:15-21",
+        "Exodus 18:1-12",
+        "Judges 6:1-6",
+        "Job 2:11"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Six sons are named: “Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.” Most of these names later designate clans and regions in the desert lands south and east of Canaan. Midian is by far the best known. The Midianites appear as caravan traders who buy Joseph (37:28, 36), as the people among whom Moses found refuge and a wife in the house of Jethro, a priest who acknowledged the LORD (Exodus 2:15-21; 18:10-12), and later as oppressors whom Gideon defeated (Judges 6–8). Shuah is probably the homeland of Bildad, one of Job’s friends (Job 2:11).\n\nThe list shows that Israel’s neighbors were kin. Peoples who would sometimes shelter Israel and sometimes fight her were descended from the same father, a reminder that God’s promise to make Abraham fruitful reached far beyond the chosen line. The list’s honesty is itself telling. A later writer would hardly have invented a family tie with Midian, a people Israel had good reason to resent, unless the kinship was simply remembered as fact.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "מִדְיָן (Midyan) — Midian",
+          "explanation": "Midian became a people living in the regions east of the Gulf of Aqaba and into the Sinai. Their history with Israel was mixed: Jethro the Midianite counseled Moses wisely, and his son Hobab was invited to guide Israel through the wilderness, yet Midian later joined Moab in seducing Israel and was a scourge in the days of the judges.",
+          "scriptureReferences": [
+            "Numbers 10:29-32",
+            "Numbers 25:16-18"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:3",
+      "bibleText": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 10:7",
+        "Isaiah 21:13",
+        "Ezekiel 27:20-22",
+        "Jeremiah 25:23"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The genealogy descends a generation through Jokshan, whose sons are “Sheba, and Dedan,” and then through Dedan to three peoples with plural, tribal-sounding names: “Asshurim, and Letushim, and Leummim.”\n\nSheba and Dedan also appear among the descendants of Ham (10:7). The same names were evidently borne by different groups in Arabia, where Hamitic and Abrahamic peoples lived side by side along the trade routes. Dedan became a well-known oasis people engaged in caravan commerce (Isaiah 21:13; Ezekiel 27:20). The Asshurim were a desert tribe that shared a name with the Assyrians of Mesopotamia. The variety of names shows how widely Abraham’s family spread across the trade routes of the south.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "לְאֻמִּים (le’ummim) — Leummim",
+          "explanation": "Elsewhere this plural noun is a common word for peoples or nations, used in parallel with “nations” in poetry. Here it serves as the name of a tribe. The same word reappears in the oracle to Rebekah, “two manner of people” (literally two peoples), linking the scattered clans of Abraham’s family with the destiny of Isaac’s sons.",
+          "scriptureReferences": [
+            "Psalm 2:1",
+            "Genesis 25:23"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:4",
+      "bibleText": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Isaiah 60:6",
+        "Numbers 31:8",
+        "1 Chronicles 1:33"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Midian’s five sons complete the list: “Ephah, and Epher, and Hanoch, and Abida, and Eldaah.” Ephah later appears with Midian in Isaiah’s picture of camel caravans bringing gold and incense to Zion (Isaiah 60:6).\n\nThe closing line, “All these were the children of Keturah,” frames the genealogy with her name, as verse 1 began with it. Sixteen descendants across three generations stand as evidence that God made Abraham fruitful, and Isaiah’s vision shows that even these distant kin were not outside the reach of the light that would rise over God’s people.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בְּנֵי קְטוּרָה (bene Qeturah) — the children of Keturah",
+          "explanation": "The phrase closes the list by naming the mother, an unusual feature in a genealogy that ordinarily follows fathers. Genesis repeatedly gives women their place in family records, as with Reumah and the mothers of Jacob’s sons, marking the households through which the clans descended.",
+          "scriptureReferences": [
+            "Genesis 22:24",
+            "Genesis 35:23-26"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:5",
+      "bibleText": "And Abraham gave all that he had unto Isaac.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 24:36",
+        "Genesis 21:12",
+        "Romans 9:7-8",
+        "Galatians 4:28-31"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Abraham gave all that he had unto Isaac.” The servant had already told Laban’s household that Isaac was the heir of everything (24:36), and here the narrator confirms the settlement. Isaac receives the household, the flocks, the servants, and above all the standing of heir to the covenant. The decision follows God’s own word: “in Isaac shall thy seed be called” (21:12), and “my covenant will I establish with Isaac” (17:21).\n\nAbraham’s handling of his estate also models faithful stewardship at the close of life. He did not leave his affairs to chance or to the goodwill of others after his death. He made his decisions plainly and in his own lifetime, guided by what God had revealed. The settlement protected Isaac, provided for the other sons, and kept the family’s future aligned with God’s stated purpose. Faith that rests on God’s promises also takes practical care for those who will come after.\n\nThe point is more than legal. Abraham acts while he still lives to make the line of promise unmistakable, so that no dispute among his many sons can confuse the matter after his death. He shows a faith that plans for the next generation. Paul later draws on this family history to teach that it is the children of promise who are counted as the seed (Romans 9:7-8), and that the inheritance comes by promise rather than by natural right (Galatians 4:28-31).\n\nIsaac contributed nothing to earn his position; he had been born by promise when his parents were past hope (21:1-2). The flocks and servants he received would sustain the family as sojourners in Canaan until God gave the land itself. Believers in Christ stand in a similar place, called “heirs of God, and joint-heirs with Christ” (Romans 8:17), receiving by grace an inheritance they could never have earned.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אֶת־כָּל־אֲשֶׁר־לוֹ (et-kol-asher-lo) — all that he had",
+          "explanation": "The idiom means everything belonging to a person, his whole estate. It is the same phrase used of Joseph being made master over all that Potiphar had. Applied to Isaac, it makes him principal heir of Abraham’s wealth and, more importantly, of the promises attached to his household.",
+          "scriptureReferences": [
+            "Genesis 24:36",
+            "Genesis 39:4"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:6",
+      "bibleText": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 21:14",
+        "Genesis 13:11",
+        "Galatians 3:16",
+        "Judges 6:3"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The other sons were not dismissed empty-handed. “Unto the sons of the concubines, which Abraham had, Abraham gave gifts.” The plural “concubines” most likely includes both Hagar and Keturah, so that Ishmael is counted with Keturah’s sons. A father of Abraham’s wealth, with hundreds of servants and great flocks (13:2; 14:14), could give each son enough livestock and people to establish a household without diminishing the inheritance of the heir.\n\nThe timing matters: Abraham sent them away “while he yet lived.” Disputes over inheritance were most likely to erupt after a father’s death, when brothers contended for land and leadership. By settling his sons at a distance during his lifetime, Abraham protected Isaac’s claim to Canaan and spared his family the strife that so often followed a patriarch’s funeral. The direction is also significant. They went “eastward, unto the east country,” the broad desert lands stretching toward the Euphrates and Arabia. In Genesis, movement east often marks departure from the place of blessing: Adam and Eve were driven east of Eden, Cain dwelt east of Eden, and Lot chose the plain toward the east (3:24; 4:16; 13:11).\n\nThe verse holds two truths together. Abraham’s care for every son reflects God’s own kindness to the families outside the chosen line; Ishmael had been promised a blessing, and the Keturah clans became nations. Yet the line of promise is kept distinct, because God had chosen to bring the world’s blessing through one Seed (Galatians 3:16). Those sent east are not abandoned by God, and the prophets foresee descendants of these very clans coming to worship the LORD (Isaiah 60:6-7).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "הַפִּילַגְשִׁים (happilagshim) — the concubines",
+          "explanation": "A concubine was a secondary wife, recognized as belonging to the household but without the full status of a principal wife; her sons depended on the father’s goodwill for any inheritance. Hagar, Keturah, and Bilhah are each called both wife and concubine in Genesis, showing that the terms overlapped in the patriarchal period.",
+          "scriptureReferences": [
+            "Genesis 16:3",
+            "Genesis 35:22",
+            "1 Chronicles 1:32"
+          ]
+        },
+        {
+          "term": "אֶרֶץ קֶדֶם (erets qedem) — the east country",
+          "explanation": "The phrase refers broadly to the lands east of Canaan, from the Syrian desert to northern Arabia. Its inhabitants were called “the children of the east,” a phrase used of desert peoples renowned for wisdom and of raiders who joined Midian against Israel.",
+          "scriptureReferences": [
+            "Judges 6:3",
+            "1 Kings 4:30",
+            "Job 1:3"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:7",
+      "bibleText": "And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 12:4",
+        "Genesis 23:1",
+        "Genesis 35:28",
+        "Psalm 90:10"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The formal death notice begins with a solemn count: “these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.” The wording echoes the notice of Sarah’s years (23:1) and anticipates those of Isaac and Jacob (35:28; 47:28). Abraham left Haran at seventy-five (12:4), so he lived exactly a century as a sojourner in the land God promised, without owning more of it than a field and a cave.\n\nThe chronology reveals that the narrator has arranged his material by theme. Isaac was seventy-five at this point, and Jacob and Esau were fifteen (21:5; 25:26). The boys knew their grandfather and could have heard from his own lips the story of the call, the covenant, and Moriah. Genesis closes Abraham’s account first, then goes back to tell of the twins’ birth, so that each life is told without interruption.\n\nA century is a long time to wait. Abraham arrived childless and landless; he died with one son of promise, two grandsons, and a burial plot. By outward measure the promises of a great nation and a land had barely begun to unfold. Yet the narrator presents the sum of his years as complete. God’s faithfulness is not measured by how much of the promise one believer sees in a lifetime, and Abraham’s years were full because they were spent walking before God (17:1).\n\nThe numbers also trace the gradual shortening of human life after the Flood. Noah lived 950 years, Shem 600, and Terah 205 (9:29; 11:10-11, 32). Abraham’s 175 years, long by later standards, fall far below those of the early fathers, and the downward trend continues through Jacob at 147 and Joseph at 110. The record reflects the steady weight of sin upon the human family, even as God still granted long life as a mark of blessing.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "יְמֵי שְׁנֵי־חַיֵּי (yeme shene-ḥayye) — the days of the years of the life",
+          "explanation": "This stacked phrase, piling “days,” “years,” and “life” upon one another, is a formal way of summing up a complete lifespan in Genesis. Jacob uses similar language before Pharaoh when he calls his years few and evil compared with his fathers’.",
+          "scriptureReferences": [
+            "Genesis 47:8-9",
+            "Genesis 47:28"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:8",
+      "bibleText": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 15:15",
+        "Hebrews 11:13",
+        "Ecclesiastes 9:5",
+        "Daniel 12:2",
+        "1 Thessalonians 4:16-17"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Three verbs describe the end of Abraham’s life: he “gave up the ghost,” he “died,” and he “was gathered to his people.” The first means simply that he breathed his last; the old English “ghost” here means breath, and the Hebrew verb describes life expiring. Nothing in it suggests a conscious entity departing the body. The phrase “in a good old age” recalls God’s word at the covenant ceremony decades earlier: “thou shalt go to thy fathers in peace; thou shalt be buried in a good old age” (15:15). The promise was kept to the letter.\n\nAbraham died “an old man, and full of years.” The Hebrew word behind “full” means satisfied or sated, as one who has eaten enough. Abraham did not die grasping for more. His life had been marked by long waiting, failures, and severe tests, yet he came to its close content with what God had given. Ecclesiastes describes a man who lives many years but whose soul is never satisfied (Ecclesiastes 6:3); Abraham is the opposite picture. He died still a stranger in the land, with most of the promise unfulfilled, and yet at rest in the faithfulness of the One who had promised.\n\n“Gathered to his people” is a Hebrew idiom for death and for being laid to rest among those who had died before. Abraham was not buried with his ancestors in Ur or Haran, so the expression does not require a shared family tomb; it speaks of joining the generations of the dead. Scripture uses parallel phrases, “go to thy fathers,” “sleep with thy fathers,” for the same reality (15:15; 1 Kings 2:10). It does not describe a conscious reunion of souls in another realm. The dead “know not any thing” (Ecclesiastes 9:5), and Scripture repeatedly calls death a sleep from which God’s people will be awakened (Daniel 12:2; John 11:11-14).\n\nThis is precisely how the New Testament reads Abraham’s death. Hebrews says the patriarchs “died in faith, not having received the promises,” but saw them from afar (Hebrews 11:13), and that God has arranged that they should not be made perfect apart from us (Hebrews 11:39-40). Abraham rests in the grave, awaiting the resurrection at Christ’s return, when the dead in Christ shall rise and the promise of an inheritance will finally be his (1 Thessalonians 4:16-17).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וַיֵּאָסֶף אֶל־עַמָּיו (vayye’asef el-ammav) — and was gathered to his people",
+          "explanation": "This idiom appears only in the Pentateuch and always at the point of death. It is used of Aaron and Moses, who died on mountains far from any family tomb, which shows it refers to joining the company of the dead generally rather than to a particular grave. Parallel expressions such as “gathered unto their fathers” and “slept with his fathers” describe the same event, and Scripture elsewhere teaches that the dead rest unconscious until the resurrection.",
+          "scriptureReferences": [
+            "Numbers 20:24-26",
+            "Deuteronomy 32:50",
+            "Judges 2:10",
+            "Psalm 146:4"
+          ]
+        },
+        {
+          "term": "וְשָׂבֵעַ (vesave’a) — and full",
+          "explanation": "The adjective means satisfied or filled, used of people who have eaten their fill. Applied to old age it describes contentment with the span God has given. The Greek Old Testament reads “full of days,” making the sense explicit. The same description is later given to Isaac, David, and Job.",
+          "scriptureReferences": [
+            "Genesis 35:29",
+            "1 Chronicles 29:28",
+            "Job 42:17"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:9",
+      "bibleText": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 23:17-20",
+        "Genesis 35:29",
+        "Genesis 49:29-32",
+        "Acts 7:5"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And his sons Isaac and Ishmael buried him.” Isaac is named first as the heir, though Ishmael was fourteen years older. The two half-brothers had been separated when Ishmael and Hagar were sent away (21:14), and Ishmael’s descendants would live in tension with their kin (16:12). Yet at the graveside they stand together. Their shared act of honoring their father suggests at least a measure of reconciliation, a pattern repeated when Esau and Jacob together bury Isaac (35:29). Grief over a parent often draws estranged children back to one place, if only for a day. The sons of Keturah are not mentioned; living far to the east, they may not have arrived in time.\n\nThe burial place is described with legal precision: “the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre.” The details recall the careful purchase of Genesis 23, conducted before witnesses at the city gate. Abraham, who owned no other land in Canaan, was laid in the one plot he had bought outright. That grave was a small, real pledge that God’s promise of the land was not forgotten (Acts 7:5). Machpelah would receive Isaac, Rebekah, Leah, and Jacob in turn (49:29-32; 50:13), so that the patriarchs lie together in the land, waiting.\n\nIshmael’s presence also shows that the sending away of chapter 21 had not erased the bond of sonship. God had heard the boy’s voice in the wilderness and had been with him as he grew (21:17, 20). The son who once mocked at Isaac’s weaning feast now stands beside him at their father’s grave. Families torn by conflict are not beyond the healing that grief and grace can bring.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "מְעָרַת הַמַּכְפֵּלָה (me’arat hammakhpelah) — the cave of Machpelah",
+          "explanation": "Machpelah is the name of the field and the cave near Mamre at Hebron. The name may relate to a word for double, which led to a later tradition of a double cave, though this cannot be confirmed. Its importance in Genesis lies in being the family’s purchased burial ground in Canaan, mentioned at every patriarchal burial.",
+          "scriptureReferences": [
+            "Genesis 23:9",
+            "Genesis 50:13"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:10",
+      "bibleText": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 23:3-4",
+        "Genesis 23:19",
+        "Hebrews 11:9-10",
+        "Isaiah 26:19"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The verse repeats what Genesis 23 recorded: this was “the field which Abraham purchased of the sons of Heth.” The repetition is deliberate. Abraham’s claim to a burial place rested on a lawful, witnessed purchase, not on a gift that could later be disputed. In a land where he was “a stranger and a sojourner” (23:4), this was the only ground he could call his own.\n\n“There was Abraham buried, and Sarah his wife.” Husband and wife, who had shared the call from Ur, the long journeys, the waiting, and the laughter of Isaac’s birth, are laid together. Their burial in Canaan expresses faith that the land belonged to their descendants by God’s gift. Hebrews explains that they looked for a city with foundations whose builder and maker is God (Hebrews 11:10). Their grave in the promised land points forward to the day when God will raise his sleeping people and give them the inheritance he swore.\n\nThe grave held their bodies; it did not cancel their hope. When the Sadducees questioned the resurrection, Jesus pointed to God’s words at the burning bush, “I am the God of Abraham,” spoken centuries after Abraham’s burial, and drew the conclusion that God is the God of the living (Matthew 22:31-32). Because God had bound himself to these sleeping patriarchs by covenant, they must rise again to receive what he promised.\n\nMachpelah also stood as a testimony to later generations. When Jacob lay dying in Egypt, he insisted on burial there beside Abraham and Sarah, Isaac and Rebekah, and Leah (49:29-32), and Joseph made his brothers swear to carry his bones out of Egypt (50:25). The family tomb in Hebron kept the hope of the land alive through centuries of bondage, reminding each generation that Egypt was not home. Joshua finally buried those bones at Shechem, in the land God had sworn to give (Joshua 24:32).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "קָנָה (qanah) — purchased",
+          "explanation": "The verb means to acquire, most often by purchase. Its use here underlines that Abraham’s one possession in Canaan was bought at full price. Jeremiah’s purchase of a field during the Babylonian siege is a similar act of faith that God would restore the land to his people.",
+          "scriptureReferences": [
+            "Genesis 23:16",
+            "Jeremiah 32:9-15"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:11",
+      "bibleText": "And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai-roi.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 12:2-3",
+        "Genesis 16:13-14",
+        "Genesis 24:62",
+        "Genesis 26:3-5"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And it came to pass after the death of Abraham, that God blessed his son Isaac.” The patriarch is gone, but the blessing is not buried with him. God’s first words to Abraham had promised, “I will bless thee” and “in thee shall all families of the earth be blessed” (12:2-3). Now that same blessing rests on Isaac. The narrator gives God the last word over Abraham’s life, and that word looks forward. Later, God will speak directly to Isaac and confirm that the oath sworn to his father now belongs to him (26:3-5, 24).\n\nNo servant of God is indispensable to God’s purposes. Abraham’s long life ends, yet the program of blessing continues in the next generation, as it would continue from Moses to Joshua and from Elijah to Elisha. The verse reassures every believer who fears that faithful work will be lost when the faithful worker dies.\n\nIsaac lived “by the well Lahai-roi.” This was the spring in the southern desert where the Angel of the LORD had met Hagar in her distress and where she named the God who sees (16:13-14). Isaac had been living there when Rebekah arrived (24:62). It was a place associated with God’s attentive care for the helpless, and the son of promise made his home there. That Isaac chose the well named by Ishmael’s mother may also hint that the two lines of Abraham’s family were not entirely estranged. Isaac’s choice of this remote spring in the Negev, far from the cities of Canaan, suggests a life lived close to the wells and pastures that sustained the family flocks. There he would plead for his barren wife, and the God who had seen Hagar would see Isaac and Rebekah too.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בְּאֵר לַחַי רֹאִי (be’er laḥay ro’i) — the well Lahai-roi",
+          "explanation": "The name is usually understood as “the well of the Living One who sees me,” given by Hagar after the Angel of the LORD found her by the spring on the road to Shur. Its precise sense is debated, but the connection with God’s seeing is clear. The place became a memorial that the LORD notices the afflicted.",
+          "scriptureReferences": [
+            "Genesis 16:13-14",
+            "Genesis 24:62"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:12",
+      "bibleText": "Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 16:1-3",
+        "Genesis 16:10",
+        "Genesis 21:13",
+        "Genesis 36:1"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“Now these are the generations of Ishmael, Abraham’s son.” This is one of the structural headings that divide Genesis, each introduced by the word toledot. Before following the chosen line of Isaac, the narrator gives a brief account of the son who was not chosen to carry the covenant but who was nevertheless promised a future. The same pattern will recur when Esau’s descendants are listed before the story turns to Jacob’s sons (36:1; 37:2).\n\nThe verse carefully identifies Ishmael’s mother: “whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham.” The description recalls the whole history of Genesis 16, when Sarah gave her servant to Abraham in an attempt to secure an heir by human arrangement. The narrator neither hides that history nor holds it against Ishmael. He is “Abraham’s son,” and the record that follows shows that God kept his word to the frightened slave woman who fled into the desert, promising that her son would become a great nation (16:10; 21:18).\n\nIshmael’s place in the record also shows the scope of God’s concern. Genesis tells the story of the chosen family, yet it never forgets the nations around it. The table of nations in Genesis 10, the genealogies of Keturah and Ishmael here, and Esau’s line in Genesis 36 keep in view the peoples whom the promise to Abraham was ultimately meant to bless (12:3).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "תֹּלְדֹת (toledot) — generations",
+          "explanation": "The noun comes from the verb meaning to beget and refers to what issues from a person: descendants, and by extension the account of what became of them. In Genesis it introduces each major section, from the account of the heavens and the earth onward. The heading names the ancestor, while the section itself tells the story of his offspring.",
+          "scriptureReferences": [
+            "Genesis 2:4",
+            "Genesis 11:27",
+            "Genesis 37:2"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:13",
+      "bibleText": "And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "1 Chronicles 1:29-31",
+        "Isaiah 60:7",
+        "Psalm 120:5",
+        "Isaiah 21:16-17"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The sons are listed “by their names, according to their generations,” that is, in birth order. The firstborn is Nebajoth, followed by Kedar, Adbeel, and Mibsam. Nebajoth and Kedar appear together in Isaiah’s vision of the nations bringing their flocks to the house of the LORD (Isaiah 60:7).\n\nKedar became the most prominent of the Ishmaelite tribes, a people of black tents and archers in the Syrian and Arabian desert, mentioned in psalm, prophecy, and song (Psalm 120:5; Song of Solomon 1:5). Adbeel is likely a tribe named in Assyrian records near the Egyptian frontier. The list is concrete history, not legend; these were peoples Israel knew as neighbors. Birth order mattered for tribal precedence, which is why the firstborn is named first. Yet the same chapter that records these orderly lists closes with God overturning birth order between Esau and Jacob.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "קֵדָר (Qedar) — Kedar",
+          "explanation": "Kedar became the name of a leading Arabian tribe, famed for flocks, tents, and bowmen. The prophets announce both judgment on Kedar’s pride and a future in which Kedar’s villages lift up their voices in praise to the LORD.",
+          "scriptureReferences": [
+            "Jeremiah 49:28-29",
+            "Isaiah 42:11"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:14",
+      "bibleText": "And Mishma, and Dumah, and Massa,",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Isaiah 21:11-12",
+        "1 Chronicles 1:30",
+        "Genesis 17:20"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Three more sons follow: “Mishma, and Dumah, and Massa.” Dumah is probably the great oasis of northern Arabia that later bore the name Dumat al-Jandal, the subject of a brief oracle in Isaiah 21:11. Massa was a tribe in the region of Tema, perhaps connected with the Massa of Proverbs 30:1 and 31:1, though that identification is uncertain. Each name marks a people descended from Ishmael.\n\nLittle else is known of Mishma, yet his inclusion matters. Each of these obscure names stands as a small proof that God remembered the son of the Egyptian handmaid and kept his word to multiply his seed (16:10).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "דּוּמָה (Dumah) — Dumah",
+          "explanation": "The name means silence and became attached to a desert oasis. Isaiah’s short oracle on Dumah, in which a voice calls to the watchman asking how much of the night remains, plays on that sense of silence and waiting.",
+          "scriptureReferences": [
+            "Isaiah 21:11"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:15",
+      "bibleText": "Hadar, and Tema, Jetur, Naphish, and Kedemah:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Job 6:19",
+        "Isaiah 21:14",
+        "1 Chronicles 5:19",
+        "Luke 3:1"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The list closes with “Hadar, and Tema, Jetur, Naphish, and Kedemah.” Many Hebrew manuscripts and 1 Chronicles 1:30 read Hadad, the letters for d and r being easily confused in Hebrew script. Tema was an important oasis and trading center in northwestern Arabia, known to Job and the prophets (Job 6:19; Isaiah 21:14).\n\nJetur and Naphish later appear as tribes that fought against the Transjordanian Israelites (1 Chronicles 5:19), and Jetur probably gave its name to Ituraea, mentioned in Luke 3:1. Kedemah, “eastward,” fittingly ends a list of peoples who lived east of the promised land.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "תֵּימָא (Tema) — Tema",
+          "explanation": "Tema was a caravan oasis on the route between Arabia and the north. Job speaks of its caravans looking for water, and Isaiah pictures its people bringing bread and water to fugitives. It remained a significant city long after patriarchal times.",
+          "scriptureReferences": [
+            "Job 6:19",
+            "Jeremiah 25:23"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:16",
+      "bibleText": "These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 17:20",
+        "Genesis 21:13",
+        "Genesis 22:20-24",
+        "Genesis 35:22-26"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.” The summary turns the list of sons into a map of peoples. Each son became the founder of a tribe, and each tribe was known by its settlements. The “towns” were unwalled villages or enclosures for herds, and the “castles” were the circular encampments of desert clans. These were pastoral peoples, not city-builders.\n\nThe number twelve is the climax. When Abraham prayed, “O that Ishmael might live before thee!” God answered, “twelve princes shall he beget, and I will make him a great nation” (17:18-20). The verse records the fulfillment word for word. Ishmael was not the son of the covenant, yet God kept every promise he had made concerning him. Twelve tribes from Ishmael mirror the twelve sons of Nahor (22:20-24) and anticipate the twelve tribes of Israel (35:22-26), showing that God’s faithfulness is not limited to the chosen line, even as the covenant is carried through Isaac alone.\n\nThe pairing of villages and encampments points to the mobility of these peoples, who moved between seasonal pastures and fixed watering places and lived on the margins of settled kingdoms for centuries. The Ishmaelite traders who carried Joseph to Egypt were such travelers (37:25-28). Through their caravans God’s providence would preserve the very family that had once sent their ancestor away.\n\nGod’s faithfulness to Ishmael is a pledge of his faithfulness to all his promises. If he kept his word concerning the son born of Sarah’s impatience, he would surely keep the covenant sworn with an oath to Isaac and his seed. Paul reasons in a similar direction when he says that the gifts and calling of God are without repentance (Romans 11:29). Read in faith, the list of twelve princes becomes a reason for confidence.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "נְשִׂיאִם (nesi’im) — princes",
+          "explanation": "The word designates a chief or leader, one lifted up above others. It is used of tribal heads in Israel and of foreign rulers. Here it matches exactly the term God used in his promise to Abraham about Ishmael’s twelve sons.",
+          "scriptureReferences": [
+            "Genesis 17:20",
+            "Numbers 1:16"
+          ]
+        },
+        {
+          "term": "טִירֹתָם (tirotam) — their castles",
+          "explanation": "The noun denotes an encampment, a ring of tents or a stone enclosure, rather than a fortified castle. The same word is used of the encampments of Midianite chiefs and of nomadic settlements, matching the pastoral life of the Ishmaelite tribes.",
+          "scriptureReferences": [
+            "Numbers 31:10",
+            "Ezekiel 25:4"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:17",
+      "bibleText": "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 16:16",
+        "Genesis 35:29",
+        "Psalm 89:48",
+        "Job 14:10-12"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Ishmael’s death notice follows the same pattern as his father’s: “an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.” It is unusual for Genesis to give the lifespan of someone outside the chosen line, and the inclusion honors him as Abraham’s son. He outlived his father by forty-eight years and died when Jacob and Esau were sixty-three.\n\nThe repeated formula carries the same meaning here as in verse 8. Ishmael breathed his last, died, and joined the generations of the dead. The phrase speaks of death and the grave, not of a conscious passage to a gathering of souls. No burial place is recorded for him; unlike Abraham, he was not laid in the purchased cave in Canaan. The silence fits his story. He received the blessings promised him: long life, many descendants, princes and nations. Yet he lived and died outside the land of promise, and the covenant line passed him by. The record shows both God’s generosity to all of Abraham’s sons and the distinctiveness of the line through which the Messiah would come.\n\nIshmael’s long life was itself part of God’s kindness. The boy who nearly died of thirst under a shrub in the wilderness of Beersheba (21:15-16) lived to see his sons become princes. Read alongside Isaac’s story, his shows that God’s grace reaches those outside the covenant line, even while that line is set apart for a unique purpose.\n\nThe phrase “gave up the ghost and died” is repeated for father and son with the same sober simplicity. Scripture does not soften death or describe it as a release into a higher existence. Death is an enemy, the wages of sin (Romans 6:23), and the last enemy that Christ will destroy (1 Corinthians 15:26). The patriarchs’ hope, and ours, rests in the resurrection morning when that enemy is abolished.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וַיִּגְוַע (vayyigva’) — and he gave up the ghost",
+          "explanation": "The verb means to expire or breathe one’s last. It is used of those who perished in the Flood and of Jacob at his death. The English “ghost” in older usage meant breath or spirit in the sense of life. Job places this verb beside the question of where a person is after death, and he answers with the hope of waking only when the heavens are no more.",
+          "scriptureReferences": [
+            "Genesis 7:21",
+            "Genesis 49:33",
+            "Job 14:10"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:18",
+      "bibleText": "And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 16:7",
+        "Genesis 16:12",
+        "1 Samuel 15:7",
+        "Judges 7:12"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The final verse of Ishmael’s account maps his descendants’ territory: “they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria.” Shur lay on Egypt’s northeastern frontier, the wilderness where the Angel of the LORD had found Hagar (16:7). Havilah, perhaps in the region of central or northern Arabia, cannot be located precisely. The phrase “toward Assyria” gives a general direction northeast across the desert rather than claiming that Ishmael’s people reached Mesopotamia. Later Saul would strike the Amalekites across this same stretch, “from Havilah until thou comest to Shur” (1 Samuel 15:7).\n\nThe closing clause, “he died in the presence of all his brethren,” is better understood as “he settled over against all his brethren.” The verb here usually means to fall, but it can describe a people encamping or settling, as when the Midianites lay along the valley (Judges 7:12). The words deliberately echo the angel’s prophecy to Hagar before Ishmael’s birth: “he shall dwell in the presence of all his brethren” (16:12). The same preposition can carry a sense of opposition, and the history of the desert tribes bordering Israel shows that the prophecy pointed to independence and frequent hostility.\n\nThe Ishmael account thus ends as it began, with fulfilled prophecy. The word spoken to a runaway servant at a desert spring proved true across generations. God’s promises about the nations are as reliable as his promises about Israel, and that same reliability undergirds the gospel’s promise that blessing will reach “all the families of the earth” through Abraham’s Seed, a blessing into which the prophets foresaw Kedar and Nebajoth being gathered (Isaiah 60:7).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "נָפָל (nafal) — he died (literally, he fell)",
+          "explanation": "The basic sense is to fall, but the verb also describes a people lying encamped or settling in a place, and even a portion falling to someone as an inheritance. Here the context and the echo of the prophecy to Hagar favor the sense of settling or encamping opposite his kin rather than a second report of death.",
+          "scriptureReferences": [
+            "Judges 7:12",
+            "Psalm 78:55",
+            "Genesis 16:12"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:19",
+      "bibleText": "And these are the generations of Isaac, Abraham's son: Abraham begat Isaac:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 21:1-3",
+        "Genesis 21:12",
+        "Matthew 1:2",
+        "Romans 9:7"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And these are the generations of Isaac, Abraham’s son: Abraham begat Isaac.” A new toledot heading opens the longest unit in the second half of Genesis, running through Isaac’s death in 35:29. Though it bears Isaac’s name, the section is mainly the story of Jacob, since the heading always introduces what came from the named ancestor.\n\nThe emphatic repetition is striking. Isaac is “Abraham’s son,” and then, as if that needed confirming, “Abraham begat Isaac.” Ishmael was introduced as the son “whom Hagar the Egyptian bare” (v. 12), but Isaac needs no qualifying description. He is simply the son, the heir in whom the seed would be called (21:12). The repetition presses home that the promise moves from father to son in an unbroken line, and that this son owes his existence to God’s miraculous gift to a couple past age (21:1-2).\n\nThe narrative now steps back in time. The events that follow begin some thirty-five years before Abraham’s death, which the narrator has already recorded so that the story of Jacob and Esau can be told without interruption. Matthew’s genealogy of Jesus begins with the same link: “Abraham begat Isaac; and Isaac begat Jacob” (Matthew 1:2).\n\nThe heading also reminds readers that the story of Jacob, with all its deceit and conflict, belongs to the account of God’s faithfulness to Abraham. Whatever failures follow, the line of promise is anchored in God’s oath rather than in the character of Isaac’s sons.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "הוֹלִיד (holid) — begat",
+          "explanation": "The causative form of the verb to bear means to father or beget. It is the standard verb in the genealogies of Genesis and in the opening of Matthew’s genealogy, where the Greek uses a corresponding verb. Its use here ties Isaac’s account directly to the genealogical chain that leads to Christ.",
+          "scriptureReferences": [
+            "Genesis 5:3",
+            "Genesis 11:27",
+            "Matthew 1:1-2"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:20",
+      "bibleText": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 22:20-23",
+        "Genesis 24:10",
+        "Genesis 28:2",
+        "Deuteronomy 26:5"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“Isaac was forty years old when he took Rebekah to wife.” The age notice will be paired with another at the end of this scene, when Isaac is sixty at the birth of his sons (v. 26). Only by setting the two numbers side by side does the reader learn that the couple waited twenty years for a child.\n\nRebekah’s family is identified with care: she is “the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian.” “Syrian” translates the Hebrew for Aramean. Bethuel was Abraham’s nephew (22:20-23), descended like Abraham from Shem through Arphaxad, but the family had settled among the Arameans of upper Mesopotamia and came to be known by the name of the region. Padan-aram, meaning something like “the plain” or “field of Aram,” is the region around Haran, also called Aram-naharaim (24:10). Laban is mentioned because he will become central when Jacob flees to this same country (28:2; 29:5). Centuries later Israel would confess at the altar, “A Syrian ready to perish was my father” (Deuteronomy 26:5), remembering that the family’s roots lay among these Aramean kin.\n\nThe mention of Rebekah’s homeland also recalls her faith. She had left kin and country to marry a man she had never seen, trusting that the LORD had guided the servant’s journey (24:50-58). The woman who now faces years of barrenness had already shown that she could follow God into the unknown.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "פַּדַּן אֲרָם (paddan aram) — Padan-aram",
+          "explanation": "The name designates the district of northern Mesopotamia around Haran where Abraham’s relatives lived. The first element may mean field or plain, and Hosea alludes to it when he recalls that Jacob fled into “the country of Syria” and served there for a wife. The name occurs only in Genesis.",
+          "scriptureReferences": [
+            "Genesis 28:5",
+            "Hosea 12:12"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:21",
+      "bibleText": "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 11:30",
+        "Genesis 16:1-4",
+        "1 Samuel 1:10-20",
+        "Luke 1:13",
+        "James 5:16"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Isaac intreated the LORD for his wife, because she was barren.” For the second generation in a row, the woman chosen to carry the promised line cannot conceive. Sarah’s barrenness had been announced at the very start of Abraham’s story (11:30), and later Rachel too would be barren (29:31). The repetition is not accidental. God was teaching each generation that the children of promise come by his gift, not by natural ability alone. The line that would lead to Christ was, at each critical point, a line of miracles.\n\nIsaac’s response contrasts with his parents’. When Sarah remained childless, she and Abraham turned to Hagar and tried to secure an heir by human arrangement (16:1-4). Isaac did not take a second wife or a concubine; he is the one patriarch who remained with a single wife. Instead he brought the need to God. The verb suggests earnest, repeated pleading, and the twenty years between verse 20 and verse 26 show that his prayer was sustained intercession over many years. The narrator compresses those decades into one sentence, so that the answer appears immediately: “and the LORD was intreated of him, and Rebekah his wife conceived.” Only later does the reader discover how long the waiting was.\n\nThe verse teaches that God’s promises do not make prayer unnecessary; they make it confident. Isaac knew that the seed was to come through him (21:12), yet he still asked. He received the promise as a reason to pray, not a reason to scheme or to sit idle. Hannah, Zacharias, and Elisabeth would later walk the same path of long, faithful asking (1 Samuel 1:10-20; Luke 1:13). James reminds believers that the earnest prayer of a righteous person is powerful in its working (James 5:16).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וַיֶּעְתַּר (vayye’tar) — and he intreated",
+          "explanation": "The verb denotes earnest supplication, especially intercession on behalf of another. It is used repeatedly when Moses pleads with the LORD to remove the plagues from Egypt. Here the same root occurs twice in one sentence, once of Isaac praying and once of the LORD letting himself be moved by that prayer, so that the answer mirrors the request.",
+          "scriptureReferences": [
+            "Exodus 8:30",
+            "Exodus 10:18",
+            "2 Samuel 24:25"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:22",
+      "bibleText": "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 32:24-28",
+        "Psalm 62:8",
+        "Hosea 12:3",
+        "Philippians 4:6"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The answered prayer brought a new trouble. “The children struggled together within her.” The verb is a strong one, meaning to crush or to batter, and its reflexive form pictures blows exchanged back and forth. The movement was violent enough to alarm the mother. Rebekah’s cry, “If it be so, why am I thus?” is terse and broken in Hebrew, roughly “If so, why this, I?” She had received the long-awaited gift, yet it felt as though the gift were tearing her apart. Perhaps she wondered whether the pregnancy would survive or whether she would.\n\nHer response is exemplary: “she went to enquire of the LORD.” The verb is used for seeking a revelation of God’s will. The text does not say where she went, and there is no need to imagine an intermediary such as a priest or prophet; the simplest reading is that she brought her question to God in prayer, perhaps at one of the family altars. The God who heard Isaac’s plea also heard Rebekah’s.\n\nThe scene sets a pattern for the whole Jacob story, which is marked by struggle from beginning to end, culminating when Jacob wrestles with God himself at the Jabbok (32:24-28). It also reminds believers that answered prayer does not always bring ease. Sometimes the fulfillment of a promise opens new perplexities, and those, too, are to be taken to God. Rebekah did not hide her distress or pretend she understood; she asked. Her faith appears in the very act of asking, in her confidence that the One who had opened her womb could also explain what was happening within it.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וַיִּתְרֹצְצוּ (vayyitrotsetsu) — and they struggled together",
+          "explanation": "The root means to crush or shatter, used of a millstone breaking a skull and of a bruised reed. The reflexive form here suggests a mutual battering. The vivid verb foreshadows the hostility between the brothers and the nations that would come from them.",
+          "scriptureReferences": [
+            "Judges 9:53",
+            "Isaiah 42:3"
+          ]
+        },
+        {
+          "term": "לִדְרֹשׁ אֶת־יְהוָה (lidrosh et-YHWH) — to enquire of the LORD",
+          "explanation": "This expression describes seeking God for direction or for an answer to a specific question. Later it is used of the people coming to Moses to inquire of God, and of kings seeking the LORD’s word through prophets.",
+          "scriptureReferences": [
+            "Exodus 18:15",
+            "1 Kings 22:8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:23",
+      "bibleText": "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Romans 9:10-13",
+        "Malachi 1:2-3",
+        "Numbers 20:14-21",
+        "Obadiah 1:10-12",
+        "2 Samuel 8:14"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The LORD answered Rebekah in four lines of poetry: “Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.” Her struggle was explained. Within her were two children who would become two peoples, and their rivalry had already begun.\n\nThe first two lines announce division. The two peoples would part from the moment of birth, and the separation would mark their whole history. Esau became the father of Edom (36:1, 8), Jacob the father of Israel, and the two nations were frequently at odds. Edom refused Israel passage on the way to Canaan (Numbers 20:14-21), David subdued Edom (2 Samuel 8:14), and the prophets condemned Edom’s violence against his brother Jacob.\n\nThe last two lines announce reversal. “The elder shall serve the younger” overturned the custom that gave the firstborn precedence. Genesis repeatedly shows God passing over the firstborn: Isaac rather than Ishmael, Ephraim rather than Manasseh. God’s purposes are not bound by birth order, rank, or natural strength. The line about one people being “stronger” is ambiguous in Hebrew, not specifying which; Esau seemed the stronger for a time, yet the weaker brother would prevail by God’s purpose.\n\nPaul cites this oracle in Romans 9:10-13 to show that God’s purpose of election stands “not of works, but of him that calleth.” The choice was announced before either child had done good or evil, so Jacob could never claim the birthright as a reward for merit. Paul’s concern there is God’s freedom to choose the line through which the promise and the Messiah would come, and his right to show mercy beyond Israel’s boundaries. Malachi’s phrase “Jacob I loved, and Esau I hated” (Malachi 1:2-3), which Paul also quotes, speaks of the nations of Israel and Edom and uses a Hebrew idiom of preference, as when Jacob is said to have “hated” Leah, meaning he loved her less (29:31).\n\nThe oracle is therefore not a decree that Esau was created for eternal loss. God, who knows the end from the beginning, foresaw the characters of both sons and chose Jacob for the birthright and the messianic line (Romans 8:29). Esau’s later history shows that he freely despised what was offered (v. 34; Hebrews 12:16-17). Salvation itself remained open to Esau and his descendants, as it is to all who come to God through Christ (Amos 9:11-12; Acts 15:16-17).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וְרַב יַעֲבֹד צָעִיר (verav ya’avod tsa’ir) — and the elder shall serve the younger",
+          "explanation": "The word for elder here is unusual, meaning the great or older one, and the younger is literally the small one. The clause reverses the expected order of precedence within a family. Isaac’s blessing later echoes it when he tells Jacob that his mother’s sons will bow down to him, and Paul quotes it from the Greek Old Testament to show that election rests on God’s calling rather than on human works.",
+          "scriptureReferences": [
+            "Genesis 27:29",
+            "Genesis 27:40",
+            "Romans 9:12"
+          ]
+        },
+        {
+          "term": "שְׁנֵי גֹיִים (shene goyim) — two nations",
+          "explanation": "The word goyim means nations or peoples, a term often used of the nations other than Israel. Here it includes Israel itself, both future peoples being in view. God had promised Abraham and Sarah that nations would come from them, and Rebekah now learns that two nations will issue from her one pregnancy.",
+          "scriptureReferences": [
+            "Genesis 17:16",
+            "Deuteronomy 23:7"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:24",
+      "bibleText": "And when her days to be delivered were fulfilled, behold, there were twins in her womb.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 38:27-30",
+        "Luke 1:57",
+        "Psalm 139:13-16"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And when her days to be delivered were fulfilled, behold, there were twins in her womb.” The word “behold” draws the reader into the moment of discovery, as if the attendants at the birth saw what the oracle had already announced. The same phrasing will describe the birth of Judah’s twins, Pharez and Zarah, where a struggle over who comes first also takes place (38:27-30). The oracle’s “two nations” are now two infants, and the struggle that troubled Rebekah’s pregnancy will soon be visible in their very manner of birth. What God said privately to Rebekah is confirmed publicly by the event.\n\nFor Rebekah, two sons after twenty barren years fulfilled both long prayer and a word from God. Every detail of the birth would now be read in light of that word, and the parents would have to decide whether they would honor it.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "תוֹמִם (tomim) — twins",
+          "explanation": "The word for twins comes from a root meaning to be paired or doubled. It appears again at the birth of Pharez and Zarah, and in poetic form in the Song of Solomon, where it describes matching pairs.",
+          "scriptureReferences": [
+            "Genesis 38:27",
+            "Song of Solomon 4:2"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:25",
+      "bibleText": "And the first came out red, all over like an hairy garment; and they called his name Esau.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 27:11",
+        "Genesis 36:8",
+        "1 Samuel 16:12",
+        "Genesis 32:3"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And the first came out red, all over like an hairy garment; and they called his name Esau.” The firstborn is described entirely by his appearance. “Red” is probably a ruddy complexion or reddish hair; the same word describes the young David (1 Samuel 16:12), so it is not in itself unfavorable. The child was covered with hair as though wrapped in a hairy cloak, a feature that would remain his most distinctive mark and that Jacob and Rebekah would later imitate with goatskins (27:11, 16, 23).\n\nThe narrator weaves wordplay into the description. “Red” anticipates the name Edom (v. 30), and “hairy” sounds like Seir, the hill country where Esau’s descendants would settle (32:3; 36:8). Thus the newborn’s body already bears the names of the nation and the territory that would come from him. The exact meaning of the name Esau itself is unknown, though the context suggests a link with his hairy appearance.\n\nThe parents “called his name” together, it seems, and nothing in the text suggests disapproval at this stage. Yet the emphasis on outward, physical features is telling. Esau is introduced by what can be seen and touched; Jacob, in the next verse, by what he does. Throughout the story, Esau will be a man of the body, of strength, appetite, and the immediate. Edom’s later history would show the same pattern on a national scale: strength, independence, and pride in what could be seen, with little regard for the God of their fathers (Obadiah 1:3-4).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אַדְמוֹנִי (admoni) — red, ruddy",
+          "explanation": "The adjective describes a reddish complexion or coloring and is used of David as a handsome youth. Its sound links Esau’s appearance at birth with his later name Edom and with the red stew he would crave.",
+          "scriptureReferences": [
+            "1 Samuel 17:42",
+            "Genesis 25:30"
+          ]
+        },
+        {
+          "term": "כְּאַדֶּרֶת שֵׂעָר (ke’adderet se’ar) — like an hairy garment",
+          "explanation": "An adderet was a cloak or mantle, sometimes made of hair. Elijah wore such a garment, and later false prophets put on a rough mantle to look the part. The comparison pictures the infant covered with hair as though clothed in a mantle.",
+          "scriptureReferences": [
+            "2 Kings 2:13",
+            "Zechariah 13:4"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:26",
+      "bibleText": "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 27:36",
+        "Genesis 32:26-28",
+        "Hosea 12:3-4",
+        "Jeremiah 9:4"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob.” The second twin emerges gripping the first, as though even at birth he were trying to pull his brother back and take his place. The action gave him his name. Jacob sounds like the Hebrew word for heel, and the related verb can mean to grasp by the heel, to overreach, or to supplant. Esau would later say bitterly, “Is not he rightly named Jacob? for he hath supplanted me these two times” (27:36).\n\nThe name likely had a more honorable sense as well. Names formed like Jacob are known elsewhere in the ancient world as a short form of a prayer meaning something like “may God protect.” If so, the name holds two possibilities: a man protected by God, and a man who grasps at what he wants. Much of Jacob’s life will be the story of God turning the grasping heel-holder into Israel, one who strives with God and prevails through clinging in dependence rather than through trickery (32:26-28). Hosea recalls both scenes: “He took his brother by the heel in the womb, and by his strength he had power with God” (Hosea 12:3).\n\nThe verse closes with Isaac’s age: “Isaac was threescore years old when she bare them.” Forty at his marriage, sixty at the birth of his sons, Isaac had waited and prayed for twenty years. The patience the narrator hid in verse 21 is now revealed. The man often seen as the quietest of the patriarchs proves persistent in prayer, and his long waiting is answered with a double gift.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "עָקֵב / יַעֲקֹב (aqev / ya’aqov) — heel / Jacob",
+          "explanation": "The name Jacob echoes the noun for heel, and the related verb means to take by the heel, to follow closely, or to supplant. Jeremiah uses the verb in a warning that every brother will utterly supplant, a direct play on Jacob’s name. Yet the name may also have carried the sense of divine protection, and God would later give Jacob a new name reflecting his changed relationship with God.",
+          "scriptureReferences": [
+            "Jeremiah 9:4",
+            "Genesis 32:28",
+            "Genesis 27:36"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:27",
+      "bibleText": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 10:9",
+        "Genesis 21:20",
+        "Job 1:1",
+        "Hebrews 11:9"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And the boys grew.” Years pass in three words, and the twins emerge as two very different men. “Esau was a cunning hunter, a man of the field.” “Cunning” in older English meant skillful; Esau knew game, terrain, and weapons, and he thrived in the open country beyond the camp. Scripture does not condemn hunting as such; the law later made provision for eating clean wild animals (Leviticus 17:13; Deuteronomy 14:5). Yet the Bible’s first famous hunter was Nimrod (10:9), and Ishmael also became an archer of the wilderness (21:20). The description places Esau among the restless, self-reliant men of the open land, men who live by strength and skill.\n\n“Jacob was a plain man, dwelling in tents.” The word translated “plain” is the Hebrew tam, which elsewhere describes the upright and blameless: Job was “perfect and upright” (Job 1:1), and the same family of words describes Noah (6:9). Here it marks Jacob as steady, orderly, and settled, someone at home in the life of the camp and the care of flocks. It should not be pressed to mean that Jacob was without fault, since the very next scene shows him calculating and hard. Rather, it sets his temperament against Esau’s: one man dwells, the other roams.\n\n“Dwelling in tents” places Jacob in the pattern of Abraham and Isaac, who lived as sojourners in tents in the land of promise (Hebrews 11:9). The contrast is not between a spiritual brother and a worldly one in every respect, for both are flawed, but it prepares for the birthright scene by showing which brother had his heart in the life of the household that carried the promise.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אִישׁ תָּם (ish tam) — a plain man",
+          "explanation": "The adjective tam means complete, whole, or sound, and in moral contexts blameless or upright. It describes Job, and it is used of the integrity the psalmist commends. Applied to Jacob it most likely depicts a settled, steady, well-ordered man in contrast with the wild hunter. The word does not claim sinlessness; Jacob’s conduct in the following verses is far from blameless.",
+          "scriptureReferences": [
+            "Job 1:8",
+            "Psalm 37:37",
+            "Proverbs 29:10"
+          ]
+        },
+        {
+          "term": "יֹדֵעַ צַיִד (yodea’ tsayid) — a cunning hunter",
+          "explanation": "Literally “one knowing game,” the phrase describes expertise in hunting. Isaac later sends Esau out with quiver and bow to take venison for him, and the same noun for game appears in that request.",
+          "scriptureReferences": [
+            "Genesis 27:3",
+            "Genesis 10:9"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:28",
+      "bibleText": "And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 27:1-4",
+        "Genesis 37:3-4",
+        "Matthew 4:3-4",
+        "James 2:1-4"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.” The family divides along the line of the twins. The narrator gives a reason for Isaac’s preference, and it is not flattering: Isaac loved Esau because of what Esau put in his mouth. The Hebrew literally says “for game was in his mouth.” Isaac, who had once submitted himself on the altar at Moriah, let his appetite shape his affections and, eventually, his judgment. He favored the son whose skills pleased his palate, apparently with little regard for that son’s spiritual character or for the oracle that had declared the younger would rule.\n\nNo reason is given for Rebekah’s love for Jacob. The verb form may suggest a continuing attachment. She had received the oracle directly and perhaps saw in Jacob the son through whom God had said the promise would pass. Yet her favoritism also bore bitter fruit, for it would lead her to plan the deception of her blind husband (27:5-17).\n\nThis single verse plants the seeds of the family’s later tragedy. Favoritism breeds rivalry, resentment, and division; it teaches each child that love must be earned and competed for. The pattern would repeat itself when Jacob favored Joseph and provoked his brothers’ hatred (37:3-4). Isaac’s failure also shows how indulged appetite can cloud spiritual perception. The first sin in Eden came through eating, and the tempter later approached Christ in the wilderness through hunger (Matthew 4:3-4). Christ’s answer, that one lives by every word from God’s mouth, stands in contrast with a father whose heart followed what was in his son’s hand.\n\nParents may have different temperaments that connect more easily with different children, and that is natural. The danger lies in allowing such preferences to become partiality, especially when it overrides what God has revealed.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "כִּי־צַיִד בְּפִיו (ki-tsayid befiv) — because he did eat of his venison",
+          "explanation": "Literally “for game was in his mouth.” The phrase ties Isaac’s affection directly to his appetite. Proverbs warns against desiring a ruler’s dainties because they are deceitful food, and Paul speaks of those whose god is their belly; Isaac’s weakness lies along the same path.",
+          "scriptureReferences": [
+            "Proverbs 23:1-3",
+            "Philippians 3:19"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:29",
+      "bibleText": "And Jacob sod pottage: and Esau came from the field, and he was faint:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 18:6-8",
+        "Judges 8:4-5",
+        "Proverbs 25:21"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Jacob sod pottage: and Esau came from the field, and he was faint.” The scene is ordinary: one brother at the tents cooking, the other returning from the open country. “Sod” is the old past tense of seethe, meaning to boil; Jacob was simmering a stew, which verse 34 identifies as lentils. Red lentils cooked with bread remain a staple of the region.\n\nEsau arrived “faint,” exhausted and hungry. The word describes real weariness, as of Gideon’s men pursuing the Midianites. The narrator does not suggest that Esau’s need was imaginary; he had been hunting, possibly without success, and was depleted. That matters for both brothers. Esau’s hunger was a real test, and Jacob’s response to a brother in need would reveal his heart as surely as Esau’s response would reveal his. Abraham had run to feed strangers (18:6-8); Jacob would bargain with his own brother.\n\nMeals carry weight throughout Genesis. They mark hospitality and covenant fellowship, as when Abraham fed the heavenly visitors and Isaac later made a feast for Abimelech (18:8; 26:30). Here a meal becomes the setting of a transaction that divides brothers, and food that should have been shared freely is turned into a price.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "עָיֵף (ayef) — faint",
+          "explanation": "The adjective means weary or exhausted, used of physical depletion from toil, hunger, or thirst. Gideon’s band was faint yet pursuing, and the psalmist compares longing for God to a thirsty, weary land.",
+          "scriptureReferences": [
+            "Judges 8:4",
+            "Psalm 63:1"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:30",
+      "bibleText": "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 36:1",
+        "Genesis 36:8",
+        "Matthew 4:2-4",
+        "Proverbs 23:2"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint.” Esau’s words are coarse and urgent. The verb translated “feed me” appears only here in the Old Testament and pictures gulping down or swallowing greedily, the way animals are fed. He does not even name the dish; he calls it “the red, this red,” pointing at the pot. His speech reveals a man ruled by what he sees and craves in the moment.\n\n“Therefore was his name called Edom.” The narrator pauses to explain a second name. Edom means red, and it now connects to Esau’s ruddy appearance at birth (v. 25) and to the red stew he demanded. The nation that descended from him bore this name, and its territory south and east of the Dead Sea, with its reddish sandstone hills, fit it well. That the name of a whole people should recall this moment of appetite is itself a sobering commentary. Esau’s descendants carried in their very name the memory of the day their ancestor traded the inheritance for a meal.\n\nThe contrast with Christ is instructive. When Jesus was hungry after forty days, he refused to use his power to satisfy his appetite at the cost of trust in his Father (Matthew 4:2-4). Esau, hungry after a day, let his appetite make the decision. Esau’s hunger was real, yet the language he used shows that appetite had become his master instead of his servant.\n\nThe double naming of Esau as Edom echoes through later Scripture. Moses commands Israel not to abhor an Edomite, “for he is thy brother” (Deuteronomy 23:7), and Amos condemns Edom for pursuing his brother with the sword and casting off all pity (Amos 1:11). The bond of kinship remained even when the nations forgot it. The red stew of one afternoon gave its name to a people whose history showed the same appetite for the immediate and the same disregard for a brother.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "הַלְעִיטֵנִי (hal’iteni) — feed me",
+          "explanation": "This verb occurs nowhere else in the Old Testament. Later Hebrew uses it for feeding animals by stuffing food into their mouths, which suggests a sense like “let me gulp.” The rare, crude verb captures Esau’s urgency and his lack of restraint.",
+          "scriptureReferences": [
+            "Proverbs 23:20-21",
+            "1 Corinthians 9:27"
+          ]
+        },
+        {
+          "term": "אֱדוֹם (Edom) — Edom",
+          "explanation": "The name means red. It became the name of Esau’s descendants and their land, the region of Mount Seir southeast of the Dead Sea. Isaiah plays on the name when he pictures one coming from Edom in garments dyed red.",
+          "scriptureReferences": [
+            "Genesis 36:9",
+            "Isaiah 63:1"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:31",
+      "bibleText": "And Jacob said, Sell me this day thy birthright.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Deuteronomy 21:17",
+        "Exodus 4:22",
+        "Galatians 6:7",
+        "Romans 3:8"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Jacob said, Sell me this day thy birthright.” Jacob answers his brother’s plea for food with a demand. The swiftness of the reply, with no hesitation or negotiation, suggests that he had considered this possibility before. He knew of the oracle given to his mother, and he valued what Esau held. “This day” insists on an immediate transaction, before the hunger passes and Esau thinks better of it.\n\nThe birthright was no small thing. The firstborn normally succeeded his father as head of the family and received a double portion of the inheritance (Deuteronomy 21:17). Before the Levitical priesthood was established, he also led the family in worship. In Abraham’s household, the birthright carried far more: succession to the covenant promises of the land, of becoming a great nation, and of being the ancestor of the Seed in whom all nations would be blessed. Jacob wanted that heritage, and in valuing it he showed more spiritual perception than his brother.\n\nYet his method was wrong. He exploited his brother’s exhaustion, offering no hospitality without a price. His grandfather had fed strangers freely; Jacob made his own brother pay for bread. He also showed a lack of trust in God. The oracle had already declared that the elder would serve the younger, and God was able to bring it to pass in his own time and way. Like Abraham with Hagar, Jacob reached for a divine promise by human scheming. The end he sought was good, but a right end does not justify wrong means.\n\nGod did not approve Jacob’s conduct, but he overruled it. Jacob would later reap what he sowed, deceived by his uncle and his own sons, before being humbled and transformed at Peniel. Grace works through flawed people without excusing their flaws.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בְּכֹרָה (bekhorah) — birthright",
+          "explanation": "The noun denotes the rights and status of the firstborn son: leadership of the family and a double share of the father’s estate. Reuben later lost his birthright through sin, and it passed to Joseph’s sons. Israel as a nation is called God’s firstborn, and Hebrews applies the language to the whole assembly of those enrolled in heaven.",
+          "scriptureReferences": [
+            "1 Chronicles 5:1-2",
+            "Hebrews 12:23"
+          ]
+        },
+        {
+          "term": "כַיּוֹם (khayyom) — this day",
+          "explanation": "The phrase means “right now” or “first,” requiring that the matter be settled at once. Jacob repeats it in his demand for an oath, pressing Esau to a binding decision before his hunger subsides.",
+          "scriptureReferences": [
+            "1 Samuel 2:16",
+            "1 Kings 1:51"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:32",
+      "bibleText": "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Matthew 16:26",
+        "2 Corinthians 4:17-18",
+        "Romans 8:18",
+        "Philippians 3:7-8"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?” His words can be read two ways. He may mean that he is dying of hunger, so that a birthright is useless to a dead man. Or he may mean that he will die someday anyway, and a promise whose fulfillment lies in the distant future is worth nothing to him now. The second reading fits the narrator’s verdict that Esau “despised” the birthright (v. 34). A hunter returning from the field, with food simmering a few steps away, was hardly at death’s door. His exaggeration exposes his outlook.\n\nEsau measured value by immediate profit. The birthright’s privileges were largely future and spiritual: leadership after Isaac’s death, the covenant promises of land and nation, a place in the line of the coming Seed. None of these could be eaten that evening. To a man who lived for the moment, such things seemed unreal. His question, “what profit?” is the question of every person who weighs eternal realities on the scale of present comfort.\n\nJesus asked the opposite question: “what is a man profited, if he shall gain the whole world, and lose his own soul?” (Matthew 16:26). Paul learned to count present losses as nothing compared with the glory to be revealed (Romans 8:18), and to look at the things which are not seen (2 Corinthians 4:18). Esau stands as a warning of how easily spiritual inheritance can be traded away when the appetites of the body are allowed to judge its worth.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "הוֹלֵךְ לָמוּת (holekh lamut) — at the point to die",
+          "explanation": "Literally “going to die,” the phrase can describe either imminent death or the general certainty that one will die. It is used of an aged person nearing the end, which supports the reading that Esau dismissed a future inheritance because his own life would end.",
+          "scriptureReferences": [
+            "Genesis 48:21",
+            "Genesis 50:24"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:33",
+      "bibleText": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 27:36",
+        "Hebrews 12:17",
+        "Ecclesiastes 5:2",
+        "Numbers 30:2"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.” Jacob takes no chances. A casual agreement made in hunger might be retracted on a full stomach, so he demands an oath that would make the transfer binding. Oaths in the ancient world invoked God as witness and were regarded as irrevocable. Esau swears without hesitation, and the narrator states the result plainly: “he sold his birthright.”\n\nThe exchange is recorded without comment on Jacob, but his premeditation is evident. He had thought through how to secure the birthright and pressed every advantage. The text neither praises his cleverness nor hides it. It is a dangerous thing to run ahead of God’s providence and to secure by pressure what God has promised to give. Yet Esau, too, is fully responsible. No one forced him to swear. He made a solemn, deliberate choice, and he would later find that a decision made lightly cannot always be undone (Hebrews 12:17).\n\nThe oath also links this scene with the theft of the blessing in Genesis 27. Isaac and Esau would act as though the birthright and the blessing could be separated, as if Esau could still receive the father’s chief blessing after selling his rights as firstborn. What Esau had sworn away could not be reclaimed by a father’s preference. God held the family to the word sworn that day, and to the oracle spoken before the twins were born.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "הִשָּׁבְעָה לִּי (hishave’ah li) — swear to me",
+          "explanation": "The verb to swear an oath is related to the number seven and was used for solemn, binding commitments. Abraham made Abimelech swear at Beersheba, and he required his servant to swear concerning Isaac’s wife. Such an oath made Esau’s transfer of the birthright legally and morally final.",
+          "scriptureReferences": [
+            "Genesis 21:23-24",
+            "Genesis 24:3"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 25:34",
+      "bibleText": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Hebrews 12:16-17",
+        "Hebrews 11:24-26",
+        "1 Peter 1:3-4",
+        "Genesis 3:6"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way.” The bargain completed, Jacob serves the meal. The narrator now reveals what the red stew was: lentils, a common and inexpensive food. The birthright of Abraham’s heir was exchanged for a bowl of beans and some bread.\n\nThen comes a rapid string of four verbs: he ate, he drank, he rose, he went. The staccato rhythm mirrors Esau’s behavior. There is no pause, no reflection, no regret, no word to his brother. He satisfied his appetite and walked away as though nothing of consequence had happened. A similar quick sequence of verbs described Eve in Eden when she saw, took, ate, and gave (3:6); in both scenes, a momentary desire is followed by a costly loss.\n\nThe chapter ends with the narrator’s verdict: “thus Esau despised his birthright.” This is the key to the whole scene. Jacob’s scheming is not excused, but the deeper problem lay with Esau, who regarded with contempt what God had attached to the birthright. To despise is to count as worthless. The New Testament draws out the lesson: Esau was a “profane person,” one who treated holy things as common, “who for one morsel of meat sold his birthright,” and who afterward sought the blessing with tears but “found no place of repentance” (Hebrews 12:16-17). His later grief was regret over the loss, not sorrow over the contempt that caused it.\n\nThe warning is pointed for believers. Every person who belongs to Christ has been offered an inheritance “incorruptible, and undefiled, and that fadeth not away” (1 Peter 1:4). That inheritance can be held lightly and bartered away for comfort, pleasure, or convenience, often in a single moment of weakness that reveals what the heart has long valued. The willingness to give up present desire for future good is a mark of spiritual maturity. Moses chose to suffer affliction with God’s people rather than enjoy the pleasures of sin for a season, because he looked to the reward (Hebrews 11:25-26). Esau chose the season. The difference lies in what each man saw as real.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וַיִּבֶז (vayyivez) — and he despised",
+          "explanation": "The verb means to regard as worthless, to treat with contempt. It is used of Goliath despising young David and of priests who despised God’s name by offering polluted sacrifices. Esau’s act was not simply poor judgment under pressure but a revealing contempt for holy things, which Hebrews describes with the word profane.",
+          "scriptureReferences": [
+            "1 Samuel 17:42",
+            "Malachi 1:6",
+            "2 Samuel 12:9"
+          ]
+        },
+        {
+          "term": "עֲדָשִׁים (adashim) — lentiles",
+          "explanation": "Lentils were a cheap, ordinary staple, easily grown and cooked. They appear among the provisions brought to David in the wilderness and in the bread Ezekiel was commanded to bake. The humble food underscores how little Esau received in exchange for so great an inheritance.",
+          "scriptureReferences": [
+            "2 Samuel 17:28",
+            "Ezekiel 4:9"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    }
+  ],
+  "symbols": [],
+  "charts": [],
+  "images": [],
+  "crossReferences": [
+    "Genesis 17:20-21",
+    "Romans 9:10-13",
+    "Hebrews 12:16-17",
+    "Hebrews 11:9-13",
+    "Malachi 1:2-3",
+    "Hosea 12:3-4"
+  ],
+  "relatedConnections": [
+    {
+      "sourceText": "Genesis 25:8",
+      "relatedText": "Hebrews 11:13",
+      "sources": []
+    },
+    {
+      "sourceText": "Genesis 25:23",
+      "relatedText": "Romans 9:10-13",
+      "sources": []
+    },
+    {
+      "sourceText": "Genesis 25:34",
+      "relatedText": "Hebrews 12:16-17",
+      "sources": []
+    }
+  ],
+  "teachingNotes": {
+    "openingQuestion": "What do you value so highly that you would refuse to trade it, even when you are exhausted and hungry?",
+    "mainPoint": "God carries his promise forward across death and family conflict by his own choice and grace, and he calls each generation to value that spiritual inheritance above the appetites of the moment.",
+    "keyVerses": [
+      "Genesis 25:8",
+      "Genesis 25:21",
+      "Genesis 25:23",
+      "Genesis 25:34"
+    ],
+    "importantTerms": [
+      "gathered to his people",
+      "generations (toledot)",
+      "intreated",
+      "the elder shall serve the younger",
+      "birthright",
+      "despised"
+    ],
+    "discussionQuestions": [
+      "Why does Genesis record the descendants of Keturah and Ishmael at all, if the story will follow Isaac’s line?",
+      "What does Isaac’s twenty years of waiting and praying teach about faith that does not take shortcuts?",
+      "How do Paul’s words in Romans 9 help us read the oracle to Rebekah, and what do they not mean?",
+      "In what ways do both Esau and Jacob fall short in the birthright scene?",
+      "How can favoritism within a family damage the very people it claims to love?"
+    ],
+    "commonMisunderstandings": [
+      "“Gathered to his people” does not describe Abraham’s soul joining his ancestors in conscious life; it is a Hebrew way of speaking of death and burial with those who have gone before.",
+      "The oracle that the elder would serve the younger concerns God’s choice of the line that would carry the promise; it is not a decree that Esau was created for eternal loss.",
+      "Jacob’s right valuation of the birthright does not justify the way he obtained it; Scripture records his scheming without approving it.",
+      "Esau’s fault was not merely being hungry; the narrator judges that he despised what God had attached to the birthright."
+    ],
+    "emphasis": "Hold together God’s sovereign faithfulness and human responsibility: God keeps his word to Abraham, Hagar, Isaac, and Rebekah, while Esau answers for his contempt and Jacob will answer for his grasping.",
+    "closingAppeal": "Do not trade the inheritance Christ offers for anything this day can put on the table; receive it by faith, and trust God to give it in his way rather than seizing it by your own."
+  },
+  "evangelisticNotes": {
+    "mainDoctrinalTheme": "God’s promises outlast death, and the inheritance he offers in Christ is received by valuing it above every passing appetite.",
+    "keyBibleTexts": [
+      "Genesis 25:8",
+      "Hebrews 11:13-16",
+      "Hebrews 12:16-17",
+      "Matthew 16:26"
+    ],
+    "flow": [
+      "Even Abraham, the friend of God, died and was laid in the grave, still waiting for the promise.",
+      "God did not let his promise die with Abraham; he carried it forward through Isaac by grace.",
+      "Esau shows how a person can hold a priceless inheritance and trade it for momentary satisfaction.",
+      "Christ offers an eternal inheritance to all who will receive it, raised to life at his coming.",
+      "The choice is urgent: what we value today reveals whether we prize that inheritance."
+    ],
+    "simpleIllustrations": [
+      "A person who sells a deed to valuable land for one hot meal has not merely made a bad bargain; he has shown what he thought the land was worth.",
+      "A runner who stops to chase every passing distraction may finish nowhere; the one who keeps the prize in view runs differently."
+    ],
+    "appealQuestion": "Will you treasure the inheritance God offers you in Christ more than anything the present moment can offer?",
+    "cautions": [
+      "Do not use the oracle to Rebekah to suggest that some people are born beyond the reach of God’s mercy.",
+      "Do not present Jacob’s methods as a model; the gospel calls for trust in God’s timing, not manipulation.",
+      "Do not suggest that the dead are already enjoying their reward; the patriarchs await the resurrection."
+    ],
+    "sources": []
+  },
+  "reflectionQuestions": [
+    "What spiritual privilege have I been treating as remote or unreal because a present need feels louder?",
+    "Where am I tempted to grasp at something God has promised instead of waiting for him to give it?",
+    "How does the hope of resurrection shape the way I think about my own aging and death?",
+    "Is there favoritism or unspoken rivalry in my family that I need to bring to God?",
+    "Have I prayed with Isaac’s persistence about the need that has gone unanswered longest in my life?"
+  ],
+  "sources": []
+}

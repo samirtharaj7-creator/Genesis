@@ -1,0 +1,1961 @@
+{
+  "chapterNumber": 49,
+  "title": "Jacob Blesses the Twelve Tribes",
+  "summary": "On his deathbed Jacob foretells the future of each son’s tribe, promises the sceptre to Judah until Shiloh comes, blesses Joseph richly, and dies.",
+  "historicalContext": "Jacob had lived seventeen years in Egypt and was a hundred and forty-seven years old when he died (47:28). Joseph had already sworn to bury him in Canaan (47:29-31), and Ephraim and Manasseh had been adopted as Jacob’s own (48:5). Deathbed words of a father carried legal and spiritual weight in the ancient Near East, settling inheritance and leadership within the family, and Genesis has already shown how Isaac’s last blessing shaped the destinies of Jacob and Esau (27:27-40). Jacob’s sons were still a single household in Goshen, with no land, no king, and no priesthood. Yet the tribal histories that unfold from Joshua to the kings match these sayings closely: Reuben fades, Simeon is absorbed, Levi is scattered in priestly towns, Judah receives the crown in David, Zebulun and Asher settle the northern coastlands, Dan drifts into idolatry, and the house of Joseph becomes the strongest power in the north.",
+  "literaryContext": "Genesis 49 is the longest poem in the book and the climax of the Joseph story’s closing frame. Jacob’s charge about his burial in 47:29-31 and his repeated instructions in 49:29-32 surround the adoption of Joseph’s sons and the blessing of all twelve. The sons are addressed by mother: Leah’s six, then the four sons of the handmaids, then Rachel’s two. The sayings are not uniform; the first three are rebukes for past sins, while Judah and Joseph receive the longest and richest words, and many oracles build on wordplay with the son’s name and on animal imagery. A short prayer in verse 18 stands near the middle of the poem. The phrase “in the last days” links the chapter with Balaam’s oracles (Numbers 24:14) and Moses’ farewell (Deuteronomy 31:29), and Moses’ own blessing of the tribes in Deuteronomy 33 echoes it. The narrative closes with Jacob drawing his feet into the bed and being gathered to his people.",
+  "themes": [
+    "Prophecy of the tribes’ future",
+    "The royal sceptre and the coming Shiloh",
+    "Consequences of sin and the reach of grace",
+    "Waiting for the LORD’s salvation",
+    "God as Shepherd and Stone of Israel",
+    "Death as rest awaiting the promise"
+  ],
+  "outline": [
+    {
+      "range": "49:1-2",
+      "title": "The Summons",
+      "summary": "Jacob gathers his sons to hear what will befall them in the last days."
+    },
+    {
+      "range": "49:3-7",
+      "title": "Three Sons Rebuked",
+      "summary": "Reuben loses the firstborn’s pre-eminence for defiling his father’s bed, and Simeon and Levi are to be scattered for their violence at Shechem."
+    },
+    {
+      "range": "49:8-12",
+      "title": "Judah and the Coming Ruler",
+      "summary": "Judah receives praise, victory, and the sceptre until Shiloh comes, to whom the peoples will gather, in an age of overflowing plenty."
+    },
+    {
+      "range": "49:13-21",
+      "title": "The Middle Sons and a Prayer",
+      "summary": "Zebulun, Issachar, Dan, Gad, Asher, and Naphtali receive short sayings, and Jacob breaks off to wait for the LORD’s salvation."
+    },
+    {
+      "range": "49:22-27",
+      "title": "Rachel’s Sons",
+      "summary": "Joseph, attacked yet upheld by the Mighty One of Jacob, receives abundant blessing, and Benjamin is pictured as a ravening wolf."
+    },
+    {
+      "range": "49:28-33",
+      "title": "Burial Charge and Death",
+      "summary": "Jacob blesses all twelve tribes, charges his sons to bury him in Machpelah, and is gathered to his people."
+    }
+  ],
+  "verses": [
+    {
+      "verse": "Genesis 49:1",
+      "bibleText": "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 27:1-4",
+        "Numbers 24:14",
+        "Deuteronomy 33:1",
+        "Isaiah 2:2",
+        "Hebrews 11:21"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Jacob had already sat up in his bed to bless Joseph’s sons (48:2). Now he summons all twelve. The contrast with the blessing scene of chapter 27 is striking: there Isaac tried to bless one son behind closed doors, and Jacob himself stole the blessing by disguise. Here the old patriarch calls every son into the room, and nothing is hidden. The one who once grasped a blessing for himself now distributes blessing to others, openly and under the guidance of God.\n\nHe says he will tell them “that which shall befall you,” and the verb he uses often describes events that come upon a person unbidden (42:4, 38). What follows is prophecy, not merely a father’s wishes. Jacob speaks of his sons, but the sayings plainly reach beyond twelve individuals to the tribes that descend from them; verse 28 will call them “the twelve tribes of Israel.” Their characters are the starting point, and the Spirit of God opens to the dying man how those characters would play out in the nation’s history.\n\n“In the last days” renders a phrase that means the latter part or outcome of days. Its primary sense here is the future in which the tribes would settle Canaan and live out their destinies, from the conquest to the kings. Yet the same phrase introduces Balaam’s oracle of the star and sceptre (Numbers 24:14, 17) and Moses’ warning song (Deuteronomy 31:29), and the prophets use it for the age when God’s kingdom comes (Isaiah 2:2; Daniel 10:14). Jacob’s horizon stretches from Joshua’s allotments to the coming of Shiloh in verse 10, the point where Israel’s history reaches its goal. Hebrews uses the same language when it says God “hath in these last days spoken unto us by his Son” (Hebrews 1:2).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בְּאַחֲרִית הַיָּמִים (be’acharit hayyamim) — in the last days",
+          "explanation": "Literally “in the latter part of the days.” The phrase points to the future outcome of the present course of events. In the Pentateuch it can describe Israel’s later history in general (Deuteronomy 4:30; 31:29), while the prophets use it for the climactic age of God’s reign (Isaiah 2:2; Micah 4:1) and Daniel for events reaching to the time of the end (Daniel 10:14). Here it embraces the tribes’ settlement in the land while reaching toward the coming ruler of verse 10.",
+          "scriptureReferences": [
+            "Deuteronomy 4:30",
+            "Micah 4:1",
+            "Daniel 10:14"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:2",
+      "bibleText": "Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 32:28",
+        "Genesis 35:10",
+        "Isaiah 48:14",
+        "Proverbs 4:1"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The summons is repeated in poetic form, with two pairs of verbs: “gather yourselves together, and hear,” “hearken unto Israel your father.” The doubling marks the start of the poem and gives the scene the tone of a prophet calling an assembly. Isaiah uses the same kind of language when the LORD gathers his people to listen (Isaiah 48:14).\n\nThe speaker is named twice, as “Jacob” and as “Israel.” The sons are “ye sons of Jacob,” the children of a man whose life was marked by struggle and scheming; they are told to listen to “Israel your father,” the name God gave him at Peniel (32:28). The man who wrestled and was blessed now speaks with the authority of that new name. Whatever his failures as a father, and they were many, he addresses his sons as the bearer of God’s covenant, and they are to receive his words as more than family advice.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "הִקָּבְצוּ וְשִׁמְעוּ (hiqqavtsu veshim‘u) — gather yourselves together, and hear",
+          "explanation": "Qavats means to assemble a group, and shama‘ to hear with attention that leads to response. The pairing echoes verse 1 and frames the poem as a solemn address. The prophets later use “gather” and “hear” together when calling Israel to receive God’s word (Isaiah 45:20; Joel 3:11). Listening, in Scripture, is meant to issue in obedience (Deuteronomy 6:4-5).",
+          "scriptureReferences": [
+            "Isaiah 45:20",
+            "Joel 3:11",
+            "Deuteronomy 6:4-5"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:3",
+      "bibleText": "Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 29:32",
+        "Deuteronomy 21:17",
+        "Psalm 78:51",
+        "Genesis 37:21-22"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Reuben is addressed first, as the eldest, and Jacob begins by heaping up what birth had given him. He is “my firstborn, my might, and the beginning of my strength.” The phrase “beginning of my strength” calls him the first fruit of Jacob’s manhood, the choicest portion, the same expression later used of Egypt’s firstborn (Psalm 78:51; 105:36). He is also “the excellency of dignity, and the excellency of power”: pre-eminent in rank and pre-eminent in strength.\n\nIn Israel the firstborn normally received a double share of the inheritance and the leadership of the family (Deuteronomy 21:17). Reuben had shown flashes of responsibility, trying to rescue Joseph from the pit (37:21-22) and offering his own sons as surety for Benjamin (42:37). The list of titles in this verse sets up the reversal that follows. Everything that made Reuben first is about to be measured against what he did with it.\n\nReuben’s very name carried his mother’s longing. Leah called him Reuben because the LORD had looked on her affliction, and she hoped, “now therefore my husband will love me” (29:32). He was the child of a mother’s hope and a father’s first strength. Privilege of birth, however, is a trust and never a guarantee. Esau had already shown that a firstborn can despise what birth gave him and lose it beyond recovery (25:34; Hebrews 12:16-17). Reuben is about to hear that the same can happen through unbridled passion.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "רֵאשִׁית אוֹנִי (reshit oni) — the beginning of my strength",
+          "explanation": "Reshit means the first or best part, as in the firstfruits offered to God (Exodus 23:19). On refers to vigour, here a father’s procreative strength. The same pair describes the firstborn of Egypt struck at the Passover (Psalm 105:36) and appears in the law of the firstborn’s double portion (Deuteronomy 21:17). Reuben was the first evidence of Jacob’s fruitfulness and held the place of honour that went with it.",
+          "scriptureReferences": [
+            "Exodus 23:19",
+            "Psalm 105:36",
+            "Deuteronomy 21:17"
+          ]
+        },
+        {
+          "term": "יֶתֶר שְׂאֵת וְיֶתֶר עָז (yeter se’et veyeter ‘az) — the excellency of dignity, and the excellency of power",
+          "explanation": "Yeter means what is over and above, surpassing. Se’et is literally “lifting up,” hence exalted rank, and ‘az is strength or might. The same root returns in verse 4 in the verb “thou shalt not excel,” so the blessing’s vocabulary is turned against him. What was his by birth would be removed because of his conduct (1 Chronicles 5:1).",
+          "scriptureReferences": [
+            "Genesis 49:4",
+            "1 Chronicles 5:1"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:4",
+      "bibleText": "Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiledst thou it: he went up to my couch.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 35:22",
+        "1 Chronicles 5:1-2",
+        "Judges 5:15-16",
+        "Deuteronomy 33:6",
+        "Numbers 16:1"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The praise of verse 3 turns into judgment. “Unstable as water” describes water boiling over or rushing unchecked; the related word is used of reckless men hired by Abimelech (Judges 9:4) and of Jerusalem’s light and treacherous prophets (Zephaniah 3:4). Reuben lacked restraint. His desire ran where it would, and a man without self-control cannot steady a family or lead a nation. “Thou shalt not excel” answers the double “excellency” of the previous line: the one who was over and above would no longer have the pre-eminence.\n\nJacob names the cause: “thou wentest up to thy father’s bed; then defiledst thou it.” The reference is to Reuben’s sin with Bilhah, his father’s concubine (35:22). At the time, the narrative recorded only that “Israel heard it,” with no response. Jacob had not forgotten. Taking a father’s concubine was also a bid for the father’s place, as Absalom and Adonijah later showed (2 Samuel 16:21-22; 1 Kings 2:22), so the act was both immorality and a grasp at leadership. Then Jacob turns from addressing Reuben to speaking about him: “he went up to my couch.” The shift from “thou” to “he” is like a father turning his face away in grief and disgust.\n\nThe tribe’s history bears out the word. The birthright passed to Joseph and the leadership to Judah (1 Chronicles 5:1-2). Reuben produced no judge, king, or prophet. Dathan and Abiram, Reubenites, joined Korah’s rebellion (Numbers 16:1). When Deborah summoned the tribes, Reuben stayed among the sheepfolds with “great searchings of heart” (Judges 5:15-16), and Moses could pray only, “Let Reuben live, and not die” (Deuteronomy 33:6). Yet Reuben is never cast out of Israel. His name stands first among the tribes and is written on one of the gates of the holy city (Revelation 21:12).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "פַּחַז כַּמַּיִם (pachaz kammayim) — unstable as water",
+          "explanation": "Pachaz describes the turbulence of water that boils over or surges uncontrolled. Its verbal and adjectival forms describe reckless, undisciplined people: the “light persons” hired by Abimelech (Judges 9:4) and the prophets of Jerusalem who were “light and treacherous” (Zephaniah 3:4). The image fits Reuben’s impulsive character, unpredictable and lacking the steadiness required of a leader.",
+          "scriptureReferences": [
+            "Judges 9:4",
+            "Zephaniah 3:4"
+          ]
+        },
+        {
+          "term": "אַל־תּוֹתַר (al-totar) — thou shalt not excel",
+          "explanation": "The verb comes from the same root as yeter, “excellency,” in verse 3. Reuben, who surpassed his brothers by birth, would not surpass them in history. The firstborn’s double portion went to Joseph, whose two sons became tribes (48:5), while leadership passed to Judah (1 Chronicles 5:2).",
+          "scriptureReferences": [
+            "Genesis 48:5",
+            "1 Chronicles 5:2"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:5",
+      "bibleText": "Simeon and Levi are brethren; instruments of cruelty are in their habitations.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 34:25-29",
+        "Genesis 34:30",
+        "Genesis 6:11",
+        "Proverbs 1:15-16"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Simeon and Levi are taken together because they acted together. They “are brethren,” sons of the same mother, but the word carries the further sense of partners or accomplices. They were the brothers who answered Shechem’s outrage against Dinah with deceit and slaughter, killing every male of the city while the men were weak from circumcision (34:25-29).\n\n“Instruments of cruelty are in their habitations” is hard to translate. The word rendered “habitations” occurs only here, and it has been understood as dwellings, plans, or swords; many modern versions read “weapons of violence are their swords.” Whatever the exact sense, the point is clear. These brothers were characterised by chamas, violence, the same word used of the corrupt world before the flood (6:11, 13). At the time of the massacre Jacob’s rebuke centred on the danger to his own standing among the Canaanites (34:30). Now, at the end of his life, he names the deed for what it was. The brothers’ zeal for their sister’s honour was not righteous anger; it was cruelty dressed up as justice.\n\nThe two were Dinah’s full brothers, sons of Leah, which explains the heat of their anger. What made their act so grave was the method. They invoked the covenant sign of circumcision as a condition of peace, then used the men’s weakness after the rite to slaughter them (34:13-15, 25). A sign of belonging to God became a tool of deception. Jacob’s words expose not only bloodshed but the misuse of holy things to cover it.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "כְּלֵי חָמָס (kele chamas) — instruments of cruelty",
+          "explanation": "Kele means vessels, tools, or weapons, and chamas is violence, especially violence that wrongs others. Chamas filled the earth before the flood (Genesis 6:11) and is later condemned by the prophets (Habakkuk 1:2-3). Calling the brothers’ weapons “instruments of violence” stamps their act at Shechem as lawless bloodshed rather than lawful retribution.",
+          "scriptureReferences": [
+            "Genesis 6:11",
+            "Habakkuk 1:2-3"
+          ]
+        },
+        {
+          "term": "מְכֵרֹתֵיהֶם (mekherotehem) — their habitations",
+          "explanation": "This word appears nowhere else in the Hebrew Bible, so its meaning is uncertain. Some relate it to a root meaning “to dig” or “to cut,” yielding “swords” or “knives,” perhaps the blades used against Shechem (Genesis 34:25). Others connect it with plotting or counsel, which would match “their secret” in verse 6. The KJV’s “habitations” follows another tradition. Each option keeps the focus on violence planned and carried out.",
+          "scriptureReferences": [
+            "Genesis 34:25",
+            "Genesis 49:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:6",
+      "bibleText": "O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Psalm 1:1",
+        "Genesis 34:28",
+        "Joshua 11:6",
+        "James 1:20"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Jacob separates himself from what his sons did. “O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united.” Their “secret” is their council, the place where the plan was hatched; their “assembly” is the company that carried it out. Jacob wants no part in either. “My soul” here means his own self, his whole person, and “mine honour” stands in parallel as his dignity or inner being. He is saying, in the most personal terms, that he will not be identified with their deed.\n\nThe reason follows: “in their anger they slew a man, and in their selfwill they digged down a wall.” “A man” is collective; they killed the men of Shechem. The KJV’s “digged down a wall” follows one way of reading the Hebrew consonants, but the more likely sense is “they hamstrung an ox,” crippling animals by cutting their tendons (Joshua 11:6). Genesis 34 records that they seized the livestock (34:28) and does not mention maiming, so Jacob may be adding a detail that showed how wanton the violence was. Men and beasts alike suffered from their rage.\n\nThe pairing “anger” and “selfwill” describes violence driven by passion and by pleasing oneself. Scripture repeatedly warns that human anger does not accomplish God’s righteousness (James 1:20). Jacob’s refusal to join their counsel echoes the opening of the Psalms: blessed is the man who “walketh not in the counsel of the ungodly” (Psalm 1:1).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "נַפְשִׁי ... כְּבֹדִי (nafshi ... kevodi) — my soul ... mine honour",
+          "explanation": "Nefesh here is the self, the living person, not an immortal part separate from the body; “my soul” is a poetic way of saying “I” (Psalm 103:1). Kavod, “honour” or “glory,” stands in parallel and likewise refers to the person in his dignity (Psalm 16:9). Together they express Jacob’s whole-hearted refusal to be associated with his sons’ violence.",
+          "scriptureReferences": [
+            "Psalm 103:1",
+            "Psalm 16:9"
+          ]
+        },
+        {
+          "term": "עִקְּרוּ־שׁוֹר (‘iqqeru-shor) — they digged down a wall",
+          "explanation": "The consonants can be read shur, “wall,” as the KJV takes it, or shor, “ox,” which most translations prefer. The verb ‘aqar means to uproot or to hamstring, cutting the tendons of an animal’s legs to cripple it, as Joshua and David did to enemy horses (Joshua 11:9; 2 Samuel 8:4). “Hamstrung an ox” forms a better parallel with “slew a man” and portrays senseless cruelty.",
+          "scriptureReferences": [
+            "Joshua 11:9",
+            "2 Samuel 8:4"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:7",
+      "bibleText": "Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Joshua 19:1",
+        "Numbers 26:14",
+        "Joshua 21:41",
+        "Exodus 32:26-29",
+        "Numbers 18:20"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Jacob does not curse his sons; he curses “their anger, for it was fierce; and their wrath, for it was cruel.” The distinction matters. The men remain his sons and will remain tribes of Israel, but the passion that drove them stands under God’s judgment. Then comes the sentence: “I will divide them in Jacob, and scatter them in Israel.” The first person is striking. Jacob speaks as the mouthpiece of God, who alone can determine where tribes will live centuries later. Because the brothers joined together in violence, their descendants would be pulled apart.\n\nBoth halves of the prophecy came true, in very different ways. Simeon dwindled. It numbered 59,300 fighting men at the first census (Numbers 1:23) but only 22,200 at the second (Numbers 26:14), after Zimri, a Simeonite prince, led the sin at Baal-peor (Numbers 25:14). Moses passed over Simeon entirely in his blessing (Deuteronomy 33). The tribe received no territory of its own, only towns inside Judah’s inheritance (Joshua 19:1, 9), and was largely absorbed into Judah.\n\nLevi was scattered too, receiving forty-eight towns spread through all the tribes and no block of land (Joshua 21:41). Yet the scattering became an honour. When Israel worshipped the golden calf, the Levites alone rallied to Moses’ call, “Who is on the LORD’s side?” (Exodus 32:26-29), and they were set apart for the service of the sanctuary. Phinehas, a Levite, turned away God’s wrath by his zeal (Numbers 25:11-13). The tribe that had no portion was told, “I am thy part and thine inheritance” (Numbers 18:20), and its scattered towns put teachers of the law within reach of every tribe (Deuteronomy 33:10). The same judgment fell on both brothers, but Levi’s response to God at Sinai turned the curse into a blessing. Grace did not cancel the sentence; it redeemed it.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אָרוּר אַפָּם (arur appam) — cursed be their anger",
+          "explanation": "Arur is the solemn word of curse first spoken over the serpent and the ground (Genesis 3:14, 17). Here it falls on the brothers’ anger rather than on their persons. Af, “anger,” is literally the nose or nostrils, a picture of flaring rage, and it is paired with ‘evrah, overflowing wrath. Scripture condemns uncontrolled human anger while reserving righteous wrath to God (Proverbs 29:22).",
+          "scriptureReferences": [
+            "Genesis 3:14",
+            "Proverbs 29:22"
+          ]
+        },
+        {
+          "term": "אֲחַלְּקֵם ... וַאֲפִיצֵם (achallqem ... va’afitsem) — I will divide them ... and scatter them",
+          "explanation": "Chalaq means to divide or apportion, the same root used for Simeon’s “part” within Judah’s territory (Joshua 19:9). Puts, “scatter,” is the verb used when God dispersed the builders of Babel (Genesis 11:8) and when he warned Israel of exile (Deuteronomy 4:27). Those who combined in violence would be dispersed.",
+          "scriptureReferences": [
+            "Joshua 19:9",
+            "Genesis 11:8",
+            "Deuteronomy 4:27"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:8",
+      "bibleText": "Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 29:35",
+        "Genesis 44:33",
+        "Numbers 2:3",
+        "2 Samuel 5:1-3",
+        "Philippians 2:10"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "With Judah the tone changes completely. Three older brothers have been passed over for their sins; the fourth son receives the first unqualified blessing. The opening words, “Judah, thou art he,” place emphasis on the name: you are the one. What Reuben was meant to be by birth, Judah would become by God’s choice.\n\n“Whom thy brethren shall praise” is a play on Judah’s name. When he was born Leah said, “Now will I praise the LORD” (29:35), and the name sounds like the Hebrew for praise. The verb for “praise” sounds like the word for “hand” as well, so the line moves from praise to power: “thy hand shall be in the neck of thine enemies.” Grasping a fleeing enemy by the neck, or setting a foot on the neck of a defeated king, was a picture of complete victory (Joshua 10:24; Psalm 18:40). Finally, “thy father’s children shall bow down before thee.” Not just Leah’s sons, but all the tribes of Israel would honour Judah.\n\nThe Judah who had once proposed selling Joseph (37:26-27) and had fallen into sin with Tamar (38:15-26) was a changed man by the end of the story. He offered himself as surety for Benjamin and pleaded to be made a slave in his place (43:9; 44:33). Grace, not natural merit, explains his elevation. The blessing began to be fulfilled when Judah led Israel’s march through the wilderness (Numbers 2:3) and was chosen to go up first against the Canaanites (Judges 1:2), and it reached a high point when all the tribes came to David at Hebron and anointed him king (2 Samuel 5:1-3). Its full scope is reached in the Son of David before whom “every knee should bow” (Philippians 2:10).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "יוֹדוּךָ (yodukha) — shall praise thee",
+          "explanation": "From yadah, “to praise, give thanks,” the root behind the name Yehudah, Judah (Genesis 29:35). Outside this verse the exact form appears only in the Psalms, where the object of praise is God (Psalm 138:4; 145:10). Its use here hints that Judah’s honour would one day belong to a ruler worthy of more than human praise.",
+          "scriptureReferences": [
+            "Genesis 29:35",
+            "Psalm 138:4",
+            "Psalm 145:10"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:9",
+      "bibleText": "Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 24:9",
+        "Ezekiel 19:1-9",
+        "Hosea 11:10",
+        "Revelation 5:5",
+        "Hebrews 1:3"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Judah is pictured as a lion. Three words for lion appear in the verse: gur, a young lion or cub; aryeh, the common word for lion; and lavi’, a poetic synonym, rendered “old lion” in the KJV. They describe one lion rather than several stages of life, and their accumulation builds an impression of strength and majesty. “From the prey, my son, thou art gone up”: the lion has made its kill and climbed back to its lair. “He stooped down, he couched as a lion”: now it lies at rest, and “who shall rouse him up?” No one dares disturb it. The picture is of a victor whose wars are over and whose security is unchallenged.\n\nThe lion was the emblem of royal power across the ancient world, and Scripture uses it for kings (Proverbs 19:12) and even for the LORD himself (Hosea 11:10). Balaam took up these very words when he blessed Israel and spoke of Israel’s king (Numbers 24:9), and Ezekiel used the lion and its cubs to lament the last kings of Judah (Ezekiel 19:1-9).\n\nThe image finds its fullest meaning in Revelation 5. When no one in heaven or earth was found worthy to open the sealed book, John was told, “the Lion of the tribe of Juda, the Root of David, hath prevailed” (Revelation 5:5). He turned and saw “a Lamb as it had been slain.” The conquering Lion of Jacob’s blessing gains his victory by sacrifice. The rest of a lion who has finished his work, “who shall rouse him up?”, finds its answer in the Christ who, having made purification for sins, “sat down on the right hand of the Majesty on high” (Hebrews 1:3).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "גּוּר אַרְיֵה (gur aryeh) — a lion’s whelp",
+          "explanation": "Gur is a young lion, strong and growing, and aryeh the ordinary word for lion. Moses applies the same phrase to Dan (Deuteronomy 33:22), and Nahum uses it of Assyria’s predatory kings (Nahum 2:11). Here it portrays Judah as a rising power whose strength would mature into royal supremacy.",
+          "scriptureReferences": [
+            "Deuteronomy 33:22",
+            "Nahum 2:11"
+          ]
+        },
+        {
+          "term": "לָבִיא (lavi’) — old lion",
+          "explanation": "A poetic synonym for lion, sometimes thought to mean “lioness,” though the word itself does not require that sense. It appears alongside aryeh in Balaam’s oracle (Numbers 24:9) and in Job’s description of the lion’s strength (Job 4:11). The KJV’s “old lion” expresses the idea of a beast in full maturity.",
+          "scriptureReferences": [
+            "Numbers 24:9",
+            "Job 4:11"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:10",
+      "bibleText": "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 24:17",
+        "Ezekiel 21:27",
+        "Hebrews 7:14",
+        "Revelation 5:5",
+        "Luke 1:32-33"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "This is the heart of Judah’s blessing and one of the great messianic prophecies of the Old Testament. “The sceptre shall not depart from Judah, nor a lawgiver from between his feet.” The sceptre was the staff of royal authority; ancient reliefs show kings enthroned with the staff resting between their feet. “Lawgiver” can also be rendered “ruler’s staff,” a parallel symbol of command. Judah is promised continuing rule among the tribes, a promise that took visible shape when God chose David from Judah (1 Chronicles 28:4) and pledged that his throne would be established for ever (2 Samuel 7:16).\n\nThe rule continues “until Shiloh come.” The Hebrew “until” here does not imply that Judah’s authority will end in failure when Shiloh arrives; it marks the point toward which the whole line moves, its goal and climax. The name Shiloh has been explained in several ways. Many ancient versions read it as “he to whom it belongs,” and Ezekiel appears to echo the verse in exactly that sense when he announces that the crown will be overturned “until he come whose right it is; and I will give it him” (Ezekiel 21:27). Others connect the word with the Hebrew for rest and peace, so that Shiloh is the one who brings rest. On any of these readings the verse points to a person, a ruler from Judah who would receive the sceptre as his own. Early Jewish interpreters understood it of the Messiah, and the Aramaic paraphrase read, “until the Messiah comes, whose is the kingdom.”\n\nThe final line widens the horizon: “unto him shall the gathering of the people be.” The word means obedience, and “people” is plural: the peoples, the nations. No tribal chief is in view. This ruler will command the willing allegiance of the nations, fulfilling the promise to Abraham that in his seed all nations would be blessed (22:18). Isaiah foresaw the root of Jesse standing as an ensign “to it shall the Gentiles seek” (Isaiah 11:10), and Jesus said, “I, if I be lifted up from the earth, will draw all men unto me” (John 12:32).\n\nThe New Testament leaves no doubt about who Shiloh is. “It is evident that our Lord sprang out of Juda” (Hebrews 7:14); Matthew traces his line through Judah and David (Matthew 1:2-6); and the heavenly elder names Jesus “the Lion of the tribe of Juda” (Revelation 5:5). Judah’s identity outlasted the division of the kingdom and the exile, until the promised Son of David came, the Messiah to whom the sceptre belongs, the giver of rest who says, “Come unto me … and I will give you rest” (Matthew 11:28). The peoples now gather to him from every nation, and his kingdom will have no end (Luke 1:32-33).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "שֵׁבֶט ... מְחֹקֵק (shevet ... mechoqeq) — sceptre ... lawgiver",
+          "explanation": "Shevet is a rod or staff, used of a shepherd’s rod, of a tribe, and of a royal sceptre; Balaam’s parallel prophecy uses it for the king who rises from Israel (Numbers 24:17). Mechoqeq, from a root meaning “to inscribe, decree,” can denote either the commander who issues decrees or the staff he holds (Numbers 21:18). The parallel lines picture lasting royal authority vested in Judah, confirmed in the covenant with David (Psalm 60:7).",
+          "scriptureReferences": [
+            "Numbers 24:17",
+            "Numbers 21:18",
+            "Psalm 60:7"
+          ]
+        },
+        {
+          "term": "עַד כִּי־יָבֹא שִׁילֹה (‘ad ki-yavo shiloh) — until Shiloh come",
+          "explanation": "The expression ‘ad ki can mean “until” in the sense of reaching a goal, not only an end (Genesis 26:13). Shiloh is read in several ways: as a personal name, perhaps linked to shalah, “to be at rest”; as she-lo, “whose it is,” the sense followed by many ancient versions and echoed in Ezekiel 21:27; or, less plausibly, as the town of Shiloh (Joshua 18:1). The parallel “unto him” confirms that a person is meant, the Messiah to whom kingship rightly belongs (Isaiah 9:6-7).",
+          "scriptureReferences": [
+            "Genesis 26:13",
+            "Ezekiel 21:27",
+            "Joshua 18:1",
+            "Isaiah 9:6-7"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:11",
+      "bibleText": "Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Zechariah 9:9",
+        "Matthew 21:1-9",
+        "Isaiah 63:1-3",
+        "Revelation 19:13",
+        "Amos 9:13"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The coming ruler’s age is painted in images of extravagant plenty. He binds “his foal unto the vine, and his ass’s colt unto the choice vine.” A donkey tethered to a vine will eat it, grapes and all. Only someone whose vineyards were so vast that the loss meant nothing would do such a thing. In the same way, “he washed his garments in wine, and his clothes in the blood of grapes”: wine is so abundant that it can be used like water for laundering. Judah’s hill country was indeed vine country, around Hebron and Bethlehem, but the picture goes beyond agriculture to the abundance of the messianic age, when “the mountains shall drop sweet wine” (Amos 9:13).\n\nThe donkey is significant. In Israel’s early history judges and their sons rode donkeys as a sign of rank (Judges 10:4; 12:14), and David’s heir Solomon rode the royal mule to his anointing (1 Kings 1:33). The donkey was the mount of a ruler coming in peace, not the warhorse of a conqueror. Zechariah took up Jacob’s very words when he announced Zion’s king, “lowly, and riding upon an ass, and upon a colt the foal of an ass” (Zechariah 9:9). Jesus fulfilled it when he sent his disciples to untie a colt and rode it into Jerusalem amid shouts of “Hosanna to the Son of David” (Matthew 21:1-9).\n\n“The blood of grapes” also carries a darker note. Isaiah pictures the LORD coming from Edom with garments red like one who treads the winepress, stained with the blood of his enemies (Isaiah 63:1-3), and Revelation shows the rider called the Word of God clothed in “a vesture dipped in blood” (Revelation 19:13). The ruler from Judah brings joy and plenty to his people and judgment to those who resist him. Between those pictures stands the cross, where his own blood was poured out; those who trust him have “washed their robes, and made them white in the blood of the Lamb” (Revelation 7:14).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "עִירֹה ... בְּנִי אֲתֹנוֹ (‘iroh ... beni atono) — his foal ... his ass’s colt",
+          "explanation": "‘Ayir is a young male donkey used for riding, and “son of his she-ass” is a poetic parallel. Zechariah 9:9 uses both terms, ‘ayir and “son of she-asses,” for the humble king coming to Zion. Donkeys were the mounts of leaders in peacetime (Judges 10:4), and the Gospels show Jesus deliberately fulfilling the picture (John 12:14-15).",
+          "scriptureReferences": [
+            "Zechariah 9:9",
+            "Judges 10:4",
+            "John 12:14-15"
+          ]
+        },
+        {
+          "term": "דַּם־עֲנָבִים (dam-‘anavim) — the blood of grapes",
+          "explanation": "A poetic name for red wine, also used in Moses’ song for the wine God gave Israel (Deuteronomy 32:14). The image of garments soaked in grape-juice recalls the treader in the winepress and is taken up in prophetic scenes of judgment (Isaiah 63:2; Revelation 14:20).",
+          "scriptureReferences": [
+            "Deuteronomy 32:14",
+            "Isaiah 63:2",
+            "Revelation 14:20"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:12",
+      "bibleText": "His eyes shall be red with wine, and his teeth white with milk.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Psalm 45:2",
+        "Isaiah 55:1",
+        "John 2:9-11",
+        "Proverbs 23:29-30"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Judah’s blessing ends with a portrait of the ruler himself: “His eyes shall be red with wine, and his teeth white with milk.” The Hebrew can also be read as a comparison, “his eyes darker than wine, and his teeth whiter than milk,” and the word for “red” probably describes eyes that sparkle with vigour. In either case the language describes health, strength, and the fullness of life that comes from abundance. Wine and milk were staples of a land “flowing with milk and honey” (Exodus 3:8), and the coming ruler embodies the plenty of his kingdom.\n\nThe image should not be pressed into a picture of drunkenness. Scripture elsewhere condemns red eyes from lingering over wine (Proverbs 23:29-30). Here the contrast between red and white is a poetic way of describing a beautiful and vigorous figure, like the royal bridegroom of Psalm 45, who is “fairer than the children of men” (Psalm 45:2). Isaiah calls the thirsty to come and buy “wine and milk without money and without price” (Isaiah 55:1), and Jesus revealed his glory first by turning water into wine in abundance (John 2:9-11). The King from Judah gives freely from the fullness of his kingdom.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "חַכְלִילִי (chakhlili) — red",
+          "explanation": "This adjective is rare; the related noun appears in Proverbs 23:29 for the bleary “redness of eyes” of the drunkard. In Jacob’s blessing it more likely describes eyes that are dark and lustrous, shining with vigour, as the parallel with “white” teeth suggests. The image is of health and beauty, comparable to the description of the beloved in the Song (Song of Solomon 5:12).",
+          "scriptureReferences": [
+            "Proverbs 23:29",
+            "Song of Solomon 5:12"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:13",
+      "bibleText": "Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 30:20",
+        "Joshua 19:10-16",
+        "Deuteronomy 33:18-19",
+        "Judges 5:18",
+        "Matthew 4:13-16"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Zebulun, Leah’s sixth son, is named before Issachar, her fifth. Moses’ blessing keeps the same order (Deuteronomy 33:18), and in the later history Zebulun is generally the more prominent of the pair. The saying is wholly geographical: “Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon.” Zebulun’s name had been linked to the idea of dwelling (30:20), and the verse plays on it.\n\nThe allotment given under Joshua lay in lower Galilee, between the Sea of Galilee and the Mediterranean, but touching neither directly; Asher lay along the coast and Naphtali along the lake (Joshua 19:10-16). The prophecy therefore cannot be a later description read back into Jacob’s mouth. Zebulun’s territory straddled the trade routes running from the coast inland, and its people evidently profited from seaborne commerce through the Phoenician ports. Sidon, the leading Phoenician city, stands for that whole coastal world (Joshua 11:8). Moses spoke of Zebulun and Issachar sucking “of the abundance of the seas” (Deuteronomy 33:19). Scripture does not record every step of the fulfilment, but what it does record fits the outline.\n\nZebulun also proved loyal and brave. Its men “jeoparded their lives unto the death” under Deborah and Barak (Judges 5:18), and later sent fifty thousand warriors “not of double heart” to make David king (1 Chronicles 12:33). Centuries afterward Isaiah named “the land of Zabulon” as a region in darkness that would see a great light, and Matthew records that Jesus made his home at Capernaum “in the borders of Zabulon and Nephthalim” (Matthew 4:13-16).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "לְחוֹף יַמִּים (lechof yammim) — at the haven of the sea",
+          "explanation": "Chof means a shore or coast, the land where the sea meets it (Joshua 9:1). Yammim is plural, “seas,” perhaps a poetic plural or a reference to both the Mediterranean and the Sea of Galilee. The preposition le can mean “toward” or “near,” which suits a tribe whose land reached toward the coast without lying on it (Deuteronomy 33:19).",
+          "scriptureReferences": [
+            "Joshua 9:1",
+            "Deuteronomy 33:19"
+          ]
+        },
+        {
+          "term": "וְיַרְכָתוֹ עַל־צִידֹן (veyarkhato ‘al-tsidon) — and his border shall be unto Zidon",
+          "explanation": "Yerekh is literally the thigh or flank, here the side or outer edge of a territory. Sidon, one of the oldest Phoenician cities and a son of Canaan in the table of nations (Genesis 10:15), often stands for Phoenicia as a whole (1 Kings 5:6). The line pictures Zebulun’s flank reaching toward the Phoenician coastal sphere.",
+          "scriptureReferences": [
+            "Genesis 10:15",
+            "1 Kings 5:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:14",
+      "bibleText": "Issachar is a strong ass couching down between two burdens:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Judges 5:15-16",
+        "Deuteronomy 33:18",
+        "Genesis 30:18",
+        "Proverbs 6:9-11"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Issachar is likened to “a strong ass couching down between two burdens.” The donkey is a working animal, sturdy and able to carry heavy loads. The word for “strong” literally means bony, a beast of solid frame. The animal, however, is lying down. The word rendered “two burdens” is uncertain; it may mean a pair of saddlebags, or the sheepfolds where flocks rested (Judges 5:16 uses a similar word). Either way, the image is of a strong creature content to rest rather than to rise and press forward.\n\nThe picture is double-edged. Issachar would be physically capable and would settle in good land, but its strength would be spent in labour for others rather than in leadership. The next verse explains how that would come about. Jacob’s comparison of a son to a donkey is not an insult in itself; the donkey was valued and useful. The question the saying raises is what Issachar would do with its strength.\n\nIssachar’s name recalls Leah’s words at his birth, “God hath given me my hire” (30:18); the name sounds like “there is reward” or “hired man.” The tribe that bore the name of wages would end up as a hired labourer for others. Moses’ later blessing is gentler, bidding Issachar rejoice in his tents (Deuteronomy 33:18), but the warning here stands: strength without initiative can be harnessed by anyone.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "חֲמֹר גָּרֶם (chamor garem) — a strong ass",
+          "explanation": "Chamor is the ordinary working donkey, used for burdens and ploughing (Deuteronomy 22:10). Garem means bone, so the phrase is literally “a donkey of bone,” a strong, rawboned animal. The related word appears in Proverbs for the bones dried up by a broken spirit (Proverbs 17:22). The image stresses physical hardiness suited to toil.",
+          "scriptureReferences": [
+            "Deuteronomy 22:10",
+            "Proverbs 17:22"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:15",
+      "bibleText": "And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Joshua 19:17-23",
+        "Joshua 16:10",
+        "1 Chronicles 12:32",
+        "Matthew 11:29-30"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The second line explains the first. Issachar “saw that rest was good, and the land that it was pleasant.” The phrasing echoes the creation account, where God “saw” that his work “was good” (1:10, 12). Issachar would look over its inheritance and find it desirable. Its allotment lay in the fertile Valley of Jezreel and the plain of lower Galilee, some of the richest farmland in the country (Joshua 19:17-23).\n\nBut the attraction of rest and plenty would shape the tribe’s choices. Issachar “bowed his shoulder to bear, and became a servant unto tribute.” Rather than risk its comfort in fighting for freedom, it would accept the yoke. The phrase “servant unto tribute” is the language later used for forced labour gangs (Joshua 16:10; 1 Kings 9:21). Issachar is missing from the account of the tribes’ campaigns in Judges 1, and its land lay along the great international road where Canaanite and foreign powers could easily demand labour and tribute. Prosperity bought at the cost of liberty is a poor bargain.\n\nThe picture is not wholly negative. Issachar’s princes stood with Deborah in battle (Judges 5:15), and in David’s day its men “had understanding of the times, to know what Israel ought to do” (1 Chronicles 12:32). Character is not fate. Yet the warning of the saying remains: a people or a person who values ease above everything will eventually carry someone else’s load. Jesus offered a different rest and a different yoke, one that is “easy” and brings rest to the soul (Matthew 11:29-30).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "מְנֻחָה (menuchah) — rest",
+          "explanation": "Menuchah is a resting place or state of quiet security. It is used of the rest God promised Israel in Canaan (Deuteronomy 12:9) and of the “still waters,” literally waters of rest, in the shepherd psalm (Psalm 23:2). Issachar saw the goodness of rest but bought it at the price of servitude, whereas God’s true rest is a gift of freedom (Hebrews 4:9).",
+          "scriptureReferences": [
+            "Deuteronomy 12:9",
+            "Psalm 23:2",
+            "Hebrews 4:9"
+          ]
+        },
+        {
+          "term": "לְמַס־עֹבֵד (lemas-‘oved) — a servant unto tribute",
+          "explanation": "Mas denotes forced labour or corvée, the compulsory service demanded by an overlord. Israel imposed it on conquered Canaanites (Joshua 16:10), and Solomon later used it on a large scale (1 Kings 9:21). The phrase pictures Issachar’s strength harnessed to someone else’s purposes.",
+          "scriptureReferences": [
+            "Joshua 16:10",
+            "1 Kings 9:21"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:16",
+      "bibleText": "Dan shall judge his people, as one of the tribes of Israel.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 30:6",
+        "Judges 13:2-5",
+        "Judges 16:31",
+        "Deuteronomy 33:22"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Dan, Bilhah’s first son, comes next, opening the sayings for the sons of the handmaids. Again Jacob plays on a name. When Dan was born Rachel said, “God hath judged me” (30:6), and the name means “he judges.” Now Jacob says, “Dan shall judge his people, as one of the tribes of Israel.” Though descended from a servant-wife, Dan would stand as a full tribe with its own place and its own leaders, equal to the sons of Leah and Rachel.\n\nTo “judge” in Hebrew often means to vindicate and deliver, not merely to pass sentence. The clearest fulfilment came through Samson, the Danite judge who “began to deliver Israel out of the hand of the Philistines” and judged Israel twenty years (Judges 13:2, 5; 16:31). Dan was a small tribe hemmed in on the coastal plain, and much of it later migrated north to the city of Laish (Judges 18). Even so, the promise stands: though small and pressed, Dan would contribute its share to Israel’s defence and government.\n\nThe phrase “as one of the tribes of Israel” proved true in other ways too. In the wilderness Dan was the second largest tribe (Numbers 26:42-43) and marched as the rearguard of the whole camp (Numbers 10:25). Aholiab of the tribe of Dan was one of the two master craftsmen whom God filled with skill to build the tabernacle (Exodus 31:6). The son of a handmaid had a full share in Israel’s defence and worship.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "דָּן יָדִין (dan yadin) — Dan shall judge",
+          "explanation": "The verb din means to judge, plead a cause, or vindicate, and here it sounds out the name Dan. Rachel used the same verb when Dan was born (Genesis 30:6). The psalmist prays, “Judge me, O God, and plead my cause” (Psalm 43:1), showing the sense of defending the weak. Dan’s role would be to secure justice and deliverance for his people.",
+          "scriptureReferences": [
+            "Genesis 30:6",
+            "Psalm 43:1"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:17",
+      "bibleText": "Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 3:15",
+        "Judges 18:27-31",
+        "1 Kings 12:28-30",
+        "Revelation 7:5-8"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "A second image follows: “Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.” The adder is probably the horned viper, which buries itself in sand beside paths and strikes without warning. A small creature brings down a horse and its rider. The picture suits a small tribe that would win victories by cunning and surprise rather than by size. Samson’s exploits against the Philistines fit it well (Judges 15:4-8), as does the Danite raid on unsuspecting Laish (Judges 18:27).\n\nThe image of a serpent is ominous. The word nachash is the same used for the tempter in Eden (3:1), and the biting of the “heels” recalls the enmity of 3:15, where the serpent strikes the heel of the woman’s seed. Dan’s history carried that darker side. The Danites who seized Laish set up a stolen idol and their own priesthood (Judges 18:30-31), and later Jeroboam placed one of his golden calves at Dan (1 Kings 12:28-30). Dan became a centre of idolatry in Israel’s northern frontier.\n\nThat history may explain why Dan’s name is missing from the list of tribes sealed in Revelation 7:5-8. Scripture does not state the reason, so it should not be pressed, but the omission stands as a sober reminder. The tribe that was meant to judge and deliver became, at times, a serpent in Israel’s path. The great controversy that began in Eden runs through the history of God’s own people, and only the promised Seed can bring final victory over the serpent.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "נָחָשׁ ... שְׁפִיפֹן (nachash ... shefifon) — a serpent ... an adder",
+          "explanation": "Nachash is the general word for snake, used of the tempter in Genesis 3:1 and of the bronze serpent (Numbers 21:9). Shefifon occurs only here and probably names the horned viper, which lies hidden in sand and strikes passing animals. The pairing pictures a small, concealed, and dangerous attacker.",
+          "scriptureReferences": [
+            "Genesis 3:1",
+            "Numbers 21:9"
+          ]
+        },
+        {
+          "term": "הַנֹּשֵׁךְ עִקְּבֵי־סוּס (hannoshekh ‘iqqeve-sus) — that biteth the horse heels",
+          "explanation": "‘Aqev, “heel,” recalls the curse on the serpent, which would bruise the heel of the woman’s seed (Genesis 3:15), and the name Jacob, who grasped Esau’s heel (Genesis 25:26). Nashakh, “to bite,” is the verb used for the fiery serpents in the wilderness (Numbers 21:6). The echo links Dan’s serpent-like tactics to the long conflict between the serpent and the promised Seed.",
+          "scriptureReferences": [
+            "Genesis 3:15",
+            "Genesis 25:26",
+            "Numbers 21:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:18",
+      "bibleText": "I have waited for thy salvation, O LORD.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 48:16",
+        "Isaiah 25:9",
+        "Luke 2:25-30",
+        "Matthew 1:21",
+        "Hebrews 9:28"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "In the middle of the blessings Jacob stops and prays: “I have waited for thy salvation, O LORD.” It is the only line in the poem addressed to God, and the only place where Jacob uses the covenant name, the LORD. It stands near the centre of the twelve sayings, and it follows directly on the picture of Dan as a serpent striking at the heel. Having foreseen the dangers and failures ahead for his descendants, including violence, servitude, idolatry, and attack, the dying patriarch looks away from them all to God.\n\nThe word “salvation,” yeshu‘ah, appears here for the first time in the Bible. It means deliverance, rescue from danger brought about by another’s power. Jacob had experienced such deliverance repeatedly: from Esau, from Laban, from famine, from the grief of losing Joseph. He confessed at the start of this deathbed scene that God had “redeemed me from all evil” (48:16). Yet the salvation he waits for here is still future. He will not see it in his lifetime, and he knows his death is hours away. The verb “waited” describes expectant hope, the posture of one who looks steadily toward what God has promised (Isaiah 25:9; Lamentations 3:25-26).\n\nJacob’s prayer was answered in a way he could not fully foresee. The name Jesus, Yeshua, comes from the same root as this word for salvation, and the angel told Joseph to give him that name “for he shall save his people from their sins” (Matthew 1:21). When aged Simeon held the infant Jesus in the temple, he said, “mine eyes have seen thy salvation” (Luke 2:30). Jacob waited; Simeon saw.\n\nJacob died in faith, “not having received the promises” (Hebrews 11:13), and his hope reached beyond the grave. The final salvation for which he waited will be revealed when Christ appears “the second time without sin unto salvation” to those who look for him (Hebrews 9:28). Until then, believers share Jacob’s posture: waiting, with confidence in the LORD who saves.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "לִישׁוּעָתְךָ (lishu‘atekha) — for thy salvation",
+          "explanation": "Yeshu‘ah comes from yasha‘, “to save, deliver,” and this is its first appearance in Scripture. Moses uses it at the Red Sea: “stand still, and see the salvation of the LORD” (Exodus 14:13), and it becomes a key word in the Psalms and Isaiah (Psalm 62:1-2; Isaiah 12:2). The same root forms the names Joshua and Jesus, “the LORD saves.”",
+          "scriptureReferences": [
+            "Exodus 14:13",
+            "Psalm 62:1-2",
+            "Isaiah 12:2"
+          ]
+        },
+        {
+          "term": "קִוִּיתִי (qivviti) — I have waited",
+          "explanation": "Qavah means to wait with eager expectation, to hope in. Isaiah promises that “they that wait upon the LORD shall renew their strength” (Isaiah 40:31), and the psalmist says, “I wait for the LORD, my soul doth wait” (Psalm 130:5). The perfect tense expresses a settled posture: Jacob has been waiting and continues to wait.",
+          "scriptureReferences": [
+            "Isaiah 40:31",
+            "Psalm 130:5"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:19",
+      "bibleText": "Gad, a troop shall overcome him: but he shall overcome at the last.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 32:1-5",
+        "1 Chronicles 5:18-22",
+        "1 Chronicles 12:8",
+        "Deuteronomy 33:20-21"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Gad’s saying is built almost entirely on the sound of his name. In Hebrew it runs gad gedud yegudennu vehu yagud ‘aqev: four of its six words echo “Gad.” A gedud is a raiding band, and the verb means to attack in raids. “Gad, a troop shall overcome him: but he shall overcome at the last” could be rendered, “Raiders shall raid Gad, but he shall raid at their heels.” The KJV’s “at the last” translates ‘aqev, “heel,” which can also mean “in the end.”\n\nThe saying fits Gad’s history closely. The tribe chose land east of the Jordan for its rich pasture (Numbers 32:1-5), but that frontier lay open to Ammonites, Moabites, Arameans, and desert raiders. Gad endured constant pressure (Jeremiah 49:1) yet fought back with skill. Its warriors joined Reuben and Manasseh to defeat the Hagrites “for they cried to God in the battle” (1 Chronicles 5:18-22), and the Gadites who came to David had “faces … like the faces of lions” and were “as swift as the roes upon the mountains” (1 Chronicles 12:8). Eventually Gad was carried away by the Assyrians (1 Chronicles 5:26). The saying offers no promise of an easy life, only of endurance and final turning of the tables. Pressed, Gad would not be crushed.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "גָּד גְּדוּד יְגוּדֶנּוּ (gad gedud yegudennu) — Gad, a troop shall overcome him",
+          "explanation": "Gedud is a band of raiders or troops (1 Samuel 30:8), and the verb gud means to attack or press upon. The wordplay on Gad’s name turns his identity into a prophecy of conflict. Leah had named him for good fortune (Genesis 30:11), but his tribe’s fortune would be won through struggle.",
+          "scriptureReferences": [
+            "1 Samuel 30:8",
+            "Genesis 30:11"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:20",
+      "bibleText": "Out of Asher his bread shall be fat, and he shall yield royal dainties.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 30:13",
+        "Deuteronomy 33:24",
+        "Judges 1:31-32",
+        "Luke 2:36-38"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Asher’s name means “happy” or “blessed” (30:13), and his saying is one of unmixed prosperity: “Out of Asher his bread shall be fat, and he shall yield royal dainties.” Asher received the coastal strip and western slopes of Galilee from Carmel northward toward Tyre (Joshua 19:24-31), well-watered land famous for olives and grain. Moses said Asher would “dip his foot in oil” (Deuteronomy 33:24). “Fat” bread is rich food, and “royal dainties” are delicacies fit for a king’s table. Asher’s produce would be good enough to supply royal courts.\n\nPlenty brought its own test. Asher “did not drive out” the Canaanites of the coastal cities but “dwelt among” them (Judges 1:31-32), and the tribe stayed at home by the shore when Deborah called Israel to battle (Judges 5:17). Comfort can dull zeal as surely as hardship can break it. Yet Asher’s story has a bright ending in Scripture. When Hezekiah invited the tribes to keep the Passover, “divers of Asher” humbled themselves and came to Jerusalem (2 Chronicles 30:11), and the aged prophetess Anna, “of the tribe of Aser,” was among the first to recognise the infant Christ and speak of him to all who looked for redemption (Luke 2:36-38).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "מַעֲדַנֵּי־מֶלֶךְ (ma‘adanne-melekh) — royal dainties",
+          "explanation": "Ma‘adannim are delicacies or delights, the kind of food served to the privileged (Lamentations 4:5). The word is related to the verb used for delighting oneself (Nehemiah 9:25) and to the name Eden. Joined to melekh, “king,” it describes produce fine enough for a royal table, a picture of Asher’s fertile inheritance.",
+          "scriptureReferences": [
+            "Lamentations 4:5",
+            "Nehemiah 9:25"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:21",
+      "bibleText": "Naphtali is a hind let loose: he giveth goodly words.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Judges 4:6",
+        "Judges 5:18",
+        "Deuteronomy 33:23",
+        "Isaiah 9:1-2",
+        "Matthew 4:13-17"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Naphtali receives one of the briefest and most puzzling sayings: “Naphtali is a hind let loose: he giveth goodly words.” A hind is a female deer, known for grace, speed, and sure footing on the heights (2 Samuel 22:34; Habakkuk 3:19). “Let loose” pictures the animal released to run freely. The image suits a tribe living in the hill country of upper Galilee and along the western shore of the Sea of Galilee (Joshua 19:32-39), and it fits Naphtali’s quick, decisive part in Israel’s early wars.\n\nThe second line is uncertain. The KJV’s “he giveth goodly words” takes the Hebrew word as “sayings”; with different vowels it can mean “lambs” or “fawns,” giving “she bears lovely fawns” and continuing the deer image. If “words” is right, the line may point to the eloquence of the tribe. Barak, from Kedesh in Naphtali, led the victory over Sisera, and he joined Deborah in the great song that celebrated it (Judges 4:6; 5:1). Naphtali “jeoparded their lives unto the death in the high places of the field” (Judges 5:18).\n\nIsaiah named “the land of Naphtali” among the northern regions first to suffer Assyrian invasion and first to be promised light (Isaiah 9:1-2). Matthew shows that promise fulfilled when Jesus began preaching in Galilee from Capernaum, “in the borders of Zabulon and Nephthalim” (Matthew 4:13-17). The goodliest words ever heard in Naphtali’s country were the gospel of the kingdom spoken there by the Messiah himself.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אַיָּלָה שְׁלֻחָה (ayyalah sheluchah) — a hind let loose",
+          "explanation": "Ayyalah is a female deer, a picture of swiftness and agility on rugged ground (Psalm 18:33). Sheluchah, from shalach, “to send,” means released or set free. The phrase suggests freedom of movement and speed, fitting a tribe in the northern hills that responded quickly when Barak summoned the tribes (Judges 4:10).",
+          "scriptureReferences": [
+            "Psalm 18:33",
+            "Judges 4:10"
+          ]
+        },
+        {
+          "term": "אִמְרֵי־שָׁפֶר (imre-shafer) — goodly words",
+          "explanation": "Imre is normally “sayings” or “words” (Psalm 19:14), and shefer means beauty or pleasantness. The same consonants can be vocalised as “lambs,” which would give “lovely young ones” and continue the image of the hind. The KJV’s reading points to eloquence, perhaps the victory song associated with Naphtali’s hero Barak (Judges 5:1).",
+          "scriptureReferences": [
+            "Psalm 19:14",
+            "Judges 5:1"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:22",
+      "bibleText": "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 41:52",
+        "Psalm 1:3",
+        "Jeremiah 17:7-8",
+        "Joshua 17:14-18",
+        "Deuteronomy 33:13-17"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The blessing of Joseph is the longest in the chapter, and Jacob’s affection for Rachel’s firstborn shows in every line. He begins with a picture of growth: “Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall.” A vine or fruit tree planted beside a spring never lacks water, and it grows so vigorously that its shoots climb over the wall of the garden. The word “fruitful” plays on the name Ephraim, which Joseph gave his second son because “God hath caused me to be fruitful in the land of my affliction” (41:52). Rachel, once barren, had become the mother of the most fruitful tribes in Israel.\n\nThe tree by the water is a familiar biblical image of the blessed life. The righteous man “shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season” (Psalm 1:3), and Jeremiah says the same of the one who trusts in the LORD (Jeremiah 17:7-8). Joseph’s fruitfulness came from his source, not from his circumstances. Even in slavery and prison he flourished, because the Lord was with him (39:2, 21).\n\nThe branches running over the wall picture expansion beyond ordinary limits. Joseph’s descendants grew so numerous that they complained to Joshua their allotment was too small, and Joshua told them to clear the forested hill country for more room (Joshua 17:14-18). Ephraim and Manasseh became the dominant tribes of the north, so much so that the northern kingdom could be called simply “Joseph” or “Ephraim” (Amos 5:6; Hosea 11:8).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בֵּן פֹּרָת (ben porat) — a fruitful bough",
+          "explanation": "Literally “son of a fruitful one,” from parah, “to bear fruit,” the root of the name Ephraim (Genesis 41:52) and of the creation command to “be fruitful” (Genesis 1:28). Some have suggested the phrase means “a wild colt,” keeping the animal imagery of the chapter, but the plant image of branches and wall supports the traditional sense.",
+          "scriptureReferences": [
+            "Genesis 41:52",
+            "Genesis 1:28"
+          ]
+        },
+        {
+          "term": "בָּנוֹת צָעֲדָה עֲלֵי־שׁוּר (banot tsa‘adah ‘ale-shur) — whose branches run over the wall",
+          "explanation": "Banot is literally “daughters,” used here for shoots or branches. Tsa‘ad means to step or march, picturing the branches climbing upward. Shur is a wall. The line portrays growth that overflows its boundaries, fulfilled when Joseph’s tribes needed more land than first allotted (Joshua 17:17-18).",
+          "scriptureReferences": [
+            "Joshua 17:17-18"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:23",
+      "bibleText": "The archers have sorely grieved him, and shot at him, and hated him:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 37:4",
+        "Psalm 64:3",
+        "John 15:25",
+        "Acts 7:9"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The image changes from a fruitful tree to a man under fire. “The archers have sorely grieved him, and shot at him, and hated him.” Three verbs pile up to describe the attack: they embittered him, they shot at him, they bore a grudge against him. Jacob does not name the archers, but no one in the room could miss the reference. Joseph’s brothers had hated him and could not speak peaceably to him (37:4), had stripped him and thrown him into a pit, and had sold him to traders. Potiphar’s wife had shot her lies at him, and he had been forgotten in prison. Arrows often stand for cruel words in Scripture (Psalm 64:3; Jeremiah 9:8), and Joseph had endured both words and deeds aimed at his destruction.\n\nJacob speaks with restraint. He describes the attack without accusing the brothers by name, though he had surely learned the truth of what they had done. The prophecy also reaches beyond Joseph’s own life to the tribes descended from him, which would be the target of enemies on Israel’s northern and eastern frontiers. The pattern of Joseph’s life, hated and attacked yet upheld, foreshadows the experience of Christ, who said, “They hated me without a cause” (John 15:25), and of his followers, whom the world would hate for his sake (John 15:18-20).\n\nWhat Joseph did with his own bow is equally telling. When he held power over the brothers who had wronged him, he did not take aim at them. He wept, assured them that God had sent him ahead to preserve life, and later promised to provide for them and their children (45:4-5; 50:19-21). The archers’ hatred was answered with forgiveness.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בַּעֲלֵי חִצִּים (ba‘ale chitstsim) — the archers",
+          "explanation": "Literally “masters of arrows,” those skilled with the bow. Arrows can be literal weapons, but in poetry they often represent slander and malicious speech (Psalm 57:4; Proverbs 25:18). Joseph’s experience included both the violence of the pit and the false accusation of Potiphar’s wife.",
+          "scriptureReferences": [
+            "Psalm 57:4",
+            "Proverbs 25:18"
+          ]
+        },
+        {
+          "term": "וַיִּשְׂטְמֻהוּ (vayyistemuhu) — and hated him",
+          "explanation": "Satam means to bear a grudge, to nurse hostility over time. It describes Esau’s lasting hatred of Jacob (Genesis 27:41) and the brothers’ fear after Jacob’s death that Joseph would hold their crime against them (Genesis 50:15). The word fits the long-standing animosity Joseph suffered.",
+          "scriptureReferences": [
+            "Genesis 27:41",
+            "Genesis 50:15"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:24",
+      "bibleText": "But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 48:15",
+        "Genesis 28:18-22",
+        "Psalm 80:1",
+        "John 10:11",
+        "1 Peter 2:6"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Against the many archers stands one bow: “But his bow abode in strength.” Joseph did not crumble under attack. He held steady, and “the arms of his hands were made strong by the hands of the mighty God of Jacob.” The picture is of God’s hands laid over Joseph’s hands, steadying his arms as he draws the bow, much as a father might guide a child’s grip. Joseph himself always credited God for his endurance and success: “It is not in me: God shall give Pharaoh an answer” (41:16); “God sent me before you to preserve life” (45:5).\n\n“The mighty God of Jacob” is a title found first here. It names God as the Strong One who had protected Jacob through all his wanderings, from Bethel to Peniel to Egypt. Later Scripture takes it up when it speaks of God as Redeemer and Saviour (Psalm 132:2, 5; Isaiah 49:26; 60:16).\n\nThe parenthesis, “from thence is the shepherd, the stone of Israel,” can be read in two ways. It may mean that from this strengthening Joseph became the shepherd and stone of his family, the one who fed and sustained Israel in the famine (47:12). More likely, the phrase continues to describe God: the hands that strengthened Joseph belong to the Shepherd and the Stone of Israel. “From thence” may point back to the Mighty One, or to Bethel, where Jacob set up a stone and vowed that the LORD would be his God (28:18-22). Jacob had just called God “the God which fed me”, literally “shepherded me”, “all my life long” (48:15). The Shepherd who led Jacob would lead his descendants, and the Stone that marked God’s promise would be their foundation.\n\nBoth titles point to Christ. He is “the good shepherd” who gives his life for the sheep (John 10:11) and “the chief Shepherd” who will appear (1 Peter 5:4). He is the stone which the builders rejected that became the head of the corner (Psalm 118:22; Matthew 21:42), the tried and precious cornerstone laid in Zion (Isaiah 28:16; 1 Peter 2:6). Joseph, rejected by his brothers and then exalted to save them, foreshadowed that very pattern, and the strength that kept him came from the same Shepherd and Stone.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אֲבִיר יַעֲקֹב (avir ya‘aqov) — the mighty God of Jacob",
+          "explanation": "Avir means strong or mighty one. As a divine title it occurs only in the phrase “Mighty One of Jacob” or “Mighty One of Israel,” first here and later in passages celebrating God as Redeemer (Psalm 132:2; Isaiah 1:24; Isaiah 49:26). The title emphasises God’s power exercised on behalf of the patriarch and his descendants.",
+          "scriptureReferences": [
+            "Psalm 132:2",
+            "Isaiah 1:24",
+            "Isaiah 49:26"
+          ]
+        },
+        {
+          "term": "רֹעֶה אֶבֶן יִשְׂרָאֵל (ro‘eh even yisra’el) — the shepherd, the stone of Israel",
+          "explanation": "Ro‘eh is “shepherd,” the participle Jacob used of God who “fed” him all his life (Genesis 48:15). Even is a stone, the word for the pillar Jacob set up at Bethel (Genesis 28:18), and distinct from tsur, “rock,” used of God elsewhere (Deuteronomy 32:4). The stone imagery is later applied to the Messiah as the cornerstone (Psalm 118:22; Isaiah 28:16).",
+          "scriptureReferences": [
+            "Genesis 48:15",
+            "Genesis 28:18",
+            "Deuteronomy 32:4",
+            "Psalm 118:22",
+            "Isaiah 28:16"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:25",
+      "bibleText": "Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 17:1-2",
+        "Genesis 35:11",
+        "Genesis 30:22-24",
+        "Deuteronomy 33:13-16"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Jacob continues to name the source of Joseph’s strength and blessing: “the God of thy father, who shall help thee; and … the Almighty, who shall bless thee.” “The God of thy father” recalls the personal history of Jacob’s walk with God, the God who appeared to him at Bethel and stayed with him through every trouble (28:13-15; 35:3). “The Almighty,” Shaddai, is the name by which God made his covenant promises of fruitfulness to Abraham and Jacob (17:1-2; 35:11). Help and blessing both come from him.\n\nThe blessings themselves cover the whole of life. “Blessings of heaven above” are rain and dew; “blessings of the deep that lieth under” are springs and underground water that feed the land. Together they speak of a fertile inheritance, the kind Joseph’s tribes received in the central hill country. “Blessings of the breasts, and of the womb” speak of children and their nourishment. In Hebrew the words “heaven” and “breasts” sound alike (shamayim, shadayim), as do “deep” and “womb” (tehom, racham), and the word for breasts echoes Shaddai. The Almighty who governs heaven and the deep also governs the womb.\n\nThe “deep” recalls the waters of creation (1:2), and the blessings of fruitfulness recall the first blessing on humanity (1:28). In Joseph the creation blessing is renewed. Moses later expanded these lines in his own blessing of Joseph, speaking of “the precious things of heaven, … the dew, and … the deep that coucheth beneath” (Deuteronomy 33:13). Jacob’s mention of the womb may also be a tender memory of Rachel, whose womb God opened to give birth to Joseph (30:22-24).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "שַׁדַּי (shaddai) — the Almighty",
+          "explanation": "Shaddai is the divine name under which God appeared to Abraham (Genesis 17:1) and to Jacob at Bethel (Genesis 35:11), always with promises of fruitfulness and multiplication. God later told Moses that the patriarchs knew him chiefly by this name (Exodus 6:3). Its sound echoes shadayim, “breasts,” later in the verse, linking the Almighty with the gift of life.",
+          "scriptureReferences": [
+            "Genesis 17:1",
+            "Genesis 35:11",
+            "Exodus 6:3"
+          ]
+        },
+        {
+          "term": "תְּהוֹם רֹבֶצֶת תָּחַת (tehom rovetset tachat) — the deep that lieth under",
+          "explanation": "Tehom is the deep, the waters of creation (Genesis 1:2) and of the flood (Genesis 7:11). Rovetset, “lying” or “crouching,” is the same verb used for an animal lying down (Genesis 4:7; 49:14). Here the subterranean waters are pictured as resting under the earth, ready to bless the land through springs (Deuteronomy 8:7).",
+          "scriptureReferences": [
+            "Genesis 1:2",
+            "Genesis 7:11",
+            "Deuteronomy 8:7"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:26",
+      "bibleText": "The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Deuteronomy 33:15-16",
+        "1 Chronicles 5:1-2",
+        "Numbers 6:2",
+        "Hebrews 7:26"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Jacob concludes Joseph’s blessing by declaring that what he now passes on surpasses what he himself received. “The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills.” Jacob had received the covenant blessing from Isaac and through him from Abraham. Now, as he blesses Joseph, he sees blessings that exceed even those, reaching as far and lasting as long as the ancient mountains. The Hebrew can also be read with slightly different vowels as “the blessings of the eternal mountains, the bounty of the everlasting hills,” and Moses’ blessing of Joseph uses that wording (Deuteronomy 33:15). Either way, the blessings are as lasting and abundant as the hills themselves.\n\n“They shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.” The blessing rests on Joseph’s head like a crown. The word translated “separate” is nazir, the term later used for the Nazirite, one set apart and consecrated to God (Numbers 6:2). It carries both senses here. Joseph was separated from his brothers by their cruelty, sold away and counted dead for over twenty years. He was also set apart by God, distinguished among his brothers by his purity in Egypt and by his exaltation to rule and save. Moses repeats the phrase in his own blessing (Deuteronomy 33:16).\n\nJoseph received the birthright’s double portion through his two sons (1 Chronicles 5:1-2), while the royal sceptre belonged to Judah (49:10). Joseph’s distinction was not kingship but consecration. In that he foreshadows Christ, who was “holy, harmless, undefiled, separate from sinners” (Hebrews 7:26), rejected by his own (John 1:11), and exalted to be a Prince and a Saviour (Acts 5:31).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "נְזִיר אֶחָיו (nezir echav) — him that was separate from his brethren",
+          "explanation": "Nazir comes from nazar, “to separate, consecrate.” It is the term for the Nazirite who took a vow of separation to the LORD (Numbers 6:2) and is related to nezer, the consecrated crown of priest and king (Exodus 29:6; 2 Samuel 1:10). Joseph was both separated from his brothers by suffering and set apart by God for honour.",
+          "scriptureReferences": [
+            "Numbers 6:2",
+            "Exodus 29:6",
+            "2 Samuel 1:10"
+          ]
+        },
+        {
+          "term": "גִּבְעֹת עוֹלָם (giv‘ot ‘olam) — the everlasting hills",
+          "explanation": "Giv‘ah is a hill, and ‘olam means a long, indefinite duration, “age-old” or “everlasting.” The hills are images of permanence in Scripture (Habakkuk 3:6). Jacob compares the reach and durability of Joseph’s blessing to the ancient hills, wording Moses echoes (Deuteronomy 33:15).",
+          "scriptureReferences": [
+            "Habakkuk 3:6",
+            "Deuteronomy 33:15"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:27",
+      "bibleText": "Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Judges 3:15",
+        "Judges 20:16",
+        "1 Samuel 9:1-2",
+        "Philippians 3:5",
+        "Deuteronomy 33:12"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The last saying is short and fierce: “Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.” The wolf tears its prey and has enough left over to share. From morning to evening Benjamin would be engaged in conquest and plunder. Nothing in Benjamin himself, the protected youngest son whom Jacob refused to let out of his sight (42:4, 38), would have suggested this. At the time, Benjamin’s own sons were still young members of the household (46:21). The prediction could only come from foresight beyond Jacob’s own.\n\nThe tribe proved to be exactly this kind of fighter. Ehud the left-handed Benjamite killed Eglon of Moab and delivered Israel (Judges 3:15-30). Benjamin’s slingers could “sling stones at an hair breadth, and not miss” (Judges 20:16), and its archers could shoot with either hand (1 Chronicles 12:2). Saul, Israel’s first king, and his valiant son Jonathan came from Benjamin (1 Samuel 9:1-2). The wolf’s ferocity also turned destructive: when Benjamin defended the men of Gibeah who had committed an atrocity, the tribe was nearly wiped out in civil war (Judges 20:12-48).\n\nThe tribe’s most famous son fits the portrait in an unexpected way. Saul of Tarsus, “of the tribe of Benjamin” (Philippians 3:5), began by ravaging the church, entering houses and dragging believers to prison (Acts 8:3). After Christ met him, the same energy was spent distributing the riches of the gospel among the nations (Ephesians 3:8). The wolf became a shepherd.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "זְאֵב יִטְרָף (ze’ev yitraf) — shall ravin as a wolf",
+          "explanation": "Ze’ev is a wolf, and taraf means to tear prey, the verb Jacob used when he believed Joseph had been “torn in pieces” (Genesis 37:33). The wolf is a symbol of rapacity in Scripture (Ezekiel 22:27; Matthew 7:15). Here it pictures Benjamin’s fierce warrior spirit, which could serve Israel or harm it.",
+          "scriptureReferences": [
+            "Genesis 37:33",
+            "Ezekiel 22:27",
+            "Matthew 7:15"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:28",
+      "bibleText": "All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Deuteronomy 33:1",
+        "Matthew 19:28",
+        "James 1:1",
+        "Revelation 21:12"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The narrator steps back to summarise: “All these are the twelve tribes of Israel.” Nowhere earlier in Scripture is that expression found. Twelve sons have become twelve tribes, and the family that went down to Egypt is already being viewed as a nation. Jacob “spake unto them, and blessed them; every one according to his blessing he blessed them.” The verb “bless” occurs three times in this verse.\n\nThe statement includes Reuben, Simeon, and Levi, whose sayings sounded more like rebukes than blessings. Yet the narrator counts all twelve as blessed. None was disowned; each remained within Israel and within the covenant. The blessing was fitted to each, “according to his blessing,” with discipline where it was needed and encouragement where it was deserved. God’s grace does not overlook sin, but it does not abandon the sinner either. The sons whose failures fill the preceding chapters remain the foundation of God’s people.\n\nThe twelve tribes carry forward into the rest of Scripture. Moses blessed them again before Israel entered Canaan (Deuteronomy 33:1). Jesus chose twelve apostles and promised they would sit on thrones “judging the twelve tribes of Israel” (Matthew 19:28). James addressed his letter “to the twelve tribes which are scattered abroad” (James 1:1), and the New Jerusalem has twelve gates bearing the names of the twelve tribes (Revelation 21:12). The family gathered around Jacob’s bed points toward the whole redeemed people of God.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "שִׁבְטֵי יִשְׂרָאֵל (shivte yisra’el) — the tribes of Israel",
+          "explanation": "Shevet, “tribe,” is the same word translated “sceptre” in verse 10: a rod or staff, and then the group that rallies under a leader’s staff. Its first use for Israel’s divisions comes here. The tribal structure would shape Israel’s camp, inheritance, and worship (Numbers 2:2; Joshua 13:7).",
+          "scriptureReferences": [
+            "Genesis 49:10",
+            "Numbers 2:2",
+            "Joshua 13:7"
+          ]
+        },
+        {
+          "term": "אִישׁ אֲשֶׁר כְּבִרְכָתוֹ (ish asher kevirkhato) — every one according to his blessing",
+          "explanation": "Literally “each according to his blessing,” meaning a word fitted to each son’s character and future. Isaac had given distinct blessings to Jacob and Esau (Genesis 27:28-29, 39-40), and Jacob now does the same for twelve. Moses later blesses the tribes individually in the same manner (Deuteronomy 33:6-25).",
+          "scriptureReferences": [
+            "Genesis 27:28-29",
+            "Deuteronomy 33:6-25"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:29",
+      "bibleText": "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 47:29-31",
+        "Genesis 25:8",
+        "Numbers 20:24",
+        "Hebrews 11:13-16"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Having blessed his sons, Jacob charges them. The verb “charged” is the language of a solemn command. Joseph had already sworn to bury him in Canaan (47:29-31); now Jacob lays the duty on all twelve. “I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite.” Jacob does not use a euphemism to soften his own death. He knows it is near, and he speaks of it plainly.\n\n“Gathered unto my people” is the Old Testament’s regular way of speaking of death for those who die in peace. It means joining those who have died before, being laid to rest in the company of one’s ancestors. The same expression is used of Abraham (25:8), Ishmael (25:17), Isaac (35:29), Aaron, and Moses (Numbers 20:24; Deuteronomy 32:50). The idiom describes the condition of the dead, not a reunion in conscious life. Elsewhere Jacob described the same event as “I will lie with my fathers” (47:30), a picture of sleep.\n\nThe burial request itself is an act of faith. Egypt had given Jacob comfort, honour, and plenty, and Joseph could have given him a magnificent Egyptian tomb. Jacob wanted none of it. He asked to be buried in the land God had promised, in the only piece of it his family owned, because he believed the promise. Hebrews says the patriarchs died in faith, “confessed that they were strangers and pilgrims on the earth,” and desired “a better country, that is, an heavenly” (Hebrews 11:13-16). Jacob’s grave in Canaan was a declaration that God would keep his word to his descendants, and to him, in the resurrection.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "נֶאֱסָף אֶל־עַמִּי (ne’esaf el-‘ammi) — I am to be gathered unto my people",
+          "explanation": "Asaf means to gather or bring in, and the passive participle describes Jacob as one about to be gathered. The phrase is a fixed expression for death, used for Aaron and Moses who died far from any family tomb (Numbers 27:13). Its parallel, “sleep with thy fathers,” confirms that it speaks of rest in death awaiting God’s future action (Deuteronomy 31:16).",
+          "scriptureReferences": [
+            "Numbers 27:13",
+            "Deuteronomy 31:16"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:30",
+      "bibleText": "In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 23:17-20",
+        "Genesis 13:18",
+        "Genesis 50:13",
+        "Acts 7:5"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Jacob identifies the burial place with care: it is “the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan.” Every detail fixes the location beyond dispute. Machpelah lay near Mamre, the area of Hebron where Abraham had pitched his tent and built an altar (13:18). And it was in Canaan, not Egypt; Jacob wanted no ambiguity about where his body belonged.\n\nHe also recalls how the family came to own it: “which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.” Genesis 23 describes the purchase in detail, with Abraham paying four hundred shekels of silver before witnesses at the city gate. This cave was the family’s first legal holding in the promised land, a small down payment on the inheritance God had pledged. Stephen later reminded his hearers that God gave Abraham “none inheritance in it, no, not so much as to set his foot on,” yet promised it to his seed (Acts 7:5).\n\nJacob had already bound Joseph by oath to carry his body there (47:29-31). By repeating the description before all twelve sons, he made the burial a duty shared by the whole family. The next chapter records that they did exactly as he commanded, carrying him into Canaan and laying him in the cave of Machpelah (50:12-13).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "לַאֲחֻזַּת־קָבֶר (la’achuzzat-qaver) — for a possession of a buryingplace",
+          "explanation": "Achuzzah is a possession held by right, property that belongs to its owner and his heirs. God promised Canaan to Abraham’s seed as “an everlasting possession” (Genesis 17:8), using the same word. The burial plot was the first portion of that possession actually held, a pledge of the whole (Genesis 23:20).",
+          "scriptureReferences": [
+            "Genesis 17:8",
+            "Genesis 23:20"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:31",
+      "bibleText": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 23:19",
+        "Genesis 35:29",
+        "Genesis 35:19-20",
+        "Matthew 22:31-32"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Jacob names those who lie in Machpelah: “There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.” The word “there” is repeated three times, emphasising the place. The roll call places Jacob within the line of promise. Abraham and Isaac, the fathers who received God’s covenant, rest there with their wives, and Jacob wants to join them.\n\nTwo deaths are mentioned here for the first time. Genesis recorded Sarah’s death and burial (23:19) and Isaac’s (35:29), but not Rebekah’s or Leah’s. Now we learn that both were buried in the family cave. Leah’s place there is significant. Rachel, the wife Jacob loved, was buried on the road to Bethlehem where she died (35:19-20). But Jacob asks to be laid beside Leah, the wife he did not choose, the mother of Judah and Levi. In death he takes his place beside the wife through whom the royal and priestly lines would come.\n\nThe list also makes a statement of faith. These were people who lived as strangers in the land and died with the promise still unfulfilled. Jesus pointed out that God still calls himself “the God of Abraham, and the God of Isaac, and the God of Jacob,” long after their deaths, as proof that the dead will rise, for God “is not the God of the dead, but of the living” (Matthew 22:31-32).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "שָׁמָּה קָבְרוּ (shammah qavru) — there they buried",
+          "explanation": "Shammah, “there,” opens each clause, pointing again and again to the cave as the family’s resting place. Qavar, “to bury,” is a key word of the closing chapters, repeated as Jacob’s burial is carried out (Genesis 50:13). Burial in the promised land expressed faith that God would bring Israel back (Genesis 50:24-25).",
+          "scriptureReferences": [
+            "Genesis 50:13",
+            "Genesis 50:24-25"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:32",
+      "bibleText": "The purchase of the field and of the cave that is therein was from the children of Heth.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 23:10",
+        "Genesis 23:18",
+        "Genesis 25:10",
+        "Jeremiah 32:15"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Jacob ends his instructions by restating the legal basis of the family’s claim: “The purchase of the field and of the cave that is therein was from the children of Heth.” He has already named Ephron; now he names the whole community of Hittites who witnessed and ratified the sale (23:10, 18). The ownership was not a private arrangement that could be disputed later. It had been confirmed publicly by the people of the land.\n\nThe repetition underlines how much the cave mattered. It was the one place in Canaan the family held by unquestioned right, and Jacob wanted his sons to understand that their claim to it could not be challenged when they carried his body there. Small as it was, this field was a token that the whole land would one day be theirs.\n\nIt is striking that the patriarch’s final instructions concern a deed of sale for a burial cave rather than the wealth of Egypt. Faith often shows itself in small, concrete acts that make sense only if God’s promise is true. Centuries later Jeremiah bought a field in Anathoth while the Babylonians besieged Jerusalem, because the LORD had said that houses and fields would again be bought in the land (Jeremiah 32:15).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "מִקְנֵה (miqneh) — the purchase",
+          "explanation": "Miqneh, from qanah, “to acquire, buy,” refers to something acquired by purchase. The related noun miqnah is used of Abraham’s acquisition of the cave (Genesis 23:18) and of deeds of purchase in Jeremiah’s land transaction, which likewise expressed confidence in God’s future for Israel (Jeremiah 32:11).",
+          "scriptureReferences": [
+            "Genesis 23:18",
+            "Jeremiah 32:11"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 49:33",
+      "bibleText": "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 48:2",
+        "Genesis 47:28",
+        "Ecclesiastes 9:5",
+        "John 5:28-29",
+        "1 Thessalonians 4:16-17"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.” Jacob had been sitting on the edge of his bed since Joseph’s visit (48:2). Now, his work finished, he drew his feet up and lay down. He “yielded up the ghost,” meaning he breathed his last; “ghost” in older English is breath. The life God breathed into humanity at creation (2:7) returned to him, and Jacob died. He was a hundred and forty-seven years old (47:28). The patriarch who had grasped and struggled all his life met death with composure, having first set his house in order.\n\nThen he “was gathered unto his people.” The phrase comes before Jacob’s burial, which took place more than two months later in Canaan (50:3, 13). So it cannot simply mean being laid in the family tomb. Some take it to mean that Jacob’s soul went to join his ancestors in a conscious afterlife, but Scripture does not teach that. In the Old Testament the dead go down to Sheol, the grave, where there is no knowledge, work, or praise (Ecclesiastes 9:5, 10; Psalm 6:5). Jacob himself had spoken of going down to the grave mourning for Joseph (37:35). To be gathered to one’s people is to join the generations who have died, all of whom rest in the silence of death. Scripture calls this condition sleep (Daniel 12:2; John 11:11-14).\n\nJacob’s death is not the end of his story. He sleeps with his fathers until the voice of Christ calls the dead from their graves (John 5:28-29). Hebrews numbers him among those who “died in faith, not having received the promises” and who will not be made perfect apart from the rest of God’s people (Hebrews 11:13, 39-40). When the Lord descends from heaven, “the dead in Christ shall rise first,” and together all the redeemed will receive the inheritance at once (1 Thessalonians 4:16-17). Then Jacob will see the salvation he waited for (49:18), and the twelve tribes he blessed will stand complete in the city whose gates bear their names.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וַיֶּאֱסֹף רַגְלָיו אֶל־הַמִּטָּה (vayye’esof raglav el-hammittah) — he gathered up his feet into the bed",
+          "explanation": "The verb asaf, “gather,” is the same used for being “gathered unto his people” in the same verse and for the summons “gather yourselves together” in verse 1. Jacob gathers his sons, gathers his feet, and is gathered to his fathers. Mittah is a bed or couch, the same bed on which he had sat up to bless Joseph’s sons (Genesis 47:31; 48:2).",
+          "scriptureReferences": [
+            "Genesis 49:1",
+            "Genesis 47:31",
+            "Genesis 48:2"
+          ]
+        },
+        {
+          "term": "וַיִּגְוַע (vayyigwa‘) — and yielded up the ghost",
+          "explanation": "Gava‘ means to expire, to breathe one’s last. It is used of all flesh dying in the flood (Genesis 7:21) and of Abraham and Isaac at death (Genesis 25:8). Job uses it for the moment breath leaves the body (Job 14:10). The verb describes the cessation of life, not a conscious spirit departing; at death the breath returns to God who gave it (Ecclesiastes 12:7).",
+          "scriptureReferences": [
+            "Genesis 7:21",
+            "Genesis 25:8",
+            "Job 14:10",
+            "Ecclesiastes 12:7"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    }
+  ],
+  "symbols": [],
+  "charts": [],
+  "images": [],
+  "crossReferences": [
+    "Revelation 5:5",
+    "Hebrews 7:14",
+    "Ezekiel 21:27",
+    "1 Chronicles 5:1-2",
+    "Deuteronomy 33:6-25",
+    "Hebrews 11:21-22",
+    "Revelation 7:4-8"
+  ],
+  "relatedConnections": [
+    {
+      "sourceText": "Genesis 49:10",
+      "relatedText": "Revelation 5:5",
+      "sources": []
+    },
+    {
+      "sourceText": "Genesis 49:18",
+      "relatedText": "Luke 2:25-30",
+      "sources": []
+    },
+    {
+      "sourceText": "Genesis 49:33",
+      "relatedText": "Hebrews 11:13",
+      "sources": []
+    }
+  ],
+  "teachingNotes": {
+    "openingQuestion": "What would your father’s last words about you say, and what would God’s word about your future say?",
+    "mainPoint": "Jacob’s last words show that sin leaves real consequences, yet God keeps every son within his covenant and directs Israel’s history toward the royal Shiloh from Judah, Jesus Christ, in whom the peoples gather and for whose salvation the faithful wait.",
+    "keyVerses": [
+      "Genesis 49:10",
+      "Genesis 49:18",
+      "Genesis 49:24",
+      "Genesis 49:33"
+    ],
+    "importantTerms": [
+      "the last days (be’acharit hayyamim)",
+      "sceptre (shevet)",
+      "Shiloh",
+      "salvation (yeshu‘ah)",
+      "the Shepherd, the Stone of Israel",
+      "gathered unto his people"
+    ],
+    "discussionQuestions": [
+      "Why did Reuben lose the place that belonged to him by birth, and what does his tribe’s later history show?",
+      "How did the curse on Levi’s anger become a blessing to Israel, and what does that teach about God’s grace?",
+      "What clues in verses 8-12 point beyond David to the Messiah, and how does the New Testament take them up?",
+      "Why might Jacob have paused in the middle of his prophecies to say, “I have waited for thy salvation, O LORD”?",
+      "What does the phrase “gathered unto his people,” spoken before Jacob’s burial, teach about death and the hope of the resurrection?"
+    ],
+    "commonMisunderstandings": [
+      "Jacob’s sayings are not personal grudges or favouritism; they are inspired prophecies about tribes, rooted in the sons’ characters.",
+      "The rebukes do not cut any son out of Israel; all twelve are named among the tribes and “blessed” (49:28).",
+      "“Until Shiloh come” does not mean Judah’s royal line ends in failure; the sceptre reaches its goal in the one to whom it belongs.",
+      "Being “gathered unto his people” does not describe Jacob’s soul joining his ancestors in conscious life; it is the Bible’s way of speaking of death as joining the sleeping generations."
+    ],
+    "emphasis": "Keep the chapter’s centre in view: the sceptre promised to Judah and the prayer for the LORD’s salvation. The tribes’ mixed histories show that human character shapes the future, but God’s purpose carries Israel toward Christ, the Lion of Judah and the Shepherd and Stone of his people.",
+    "closingAppeal": "Jacob died waiting for the salvation he could only see from afar; we know its name. Bring your failures to the One who holds Judah’s sceptre, and wait for his return with the same steady hope."
+  },
+  "evangelisticNotes": {
+    "mainDoctrinalTheme": "Christ the promised King from Judah and the hope of the resurrection: God foretold the Messiah’s tribe and kingdom centuries ahead, and those who die trusting him sleep until he raises them at his coming.",
+    "keyBibleTexts": [
+      "Genesis 49:10",
+      "Revelation 5:5",
+      "Genesis 49:18",
+      "1 Thessalonians 4:16"
+    ],
+    "flow": [
+      "On his deathbed Jacob foretold the future of the twelve tribes, and their history bore out his words.",
+      "He promised Judah the sceptre until Shiloh came, the ruler to whom the peoples would gather.",
+      "The New Testament names that ruler: Jesus, born of Judah, the Lion of the tribe of Judah who opens the book of God’s purposes.",
+      "Jacob waited for the LORD’s salvation and died in faith, gathered to his people in the sleep of death.",
+      "Christ will return to raise those who sleep in him and give them the inheritance promised to the fathers."
+    ],
+    "simpleIllustrations": [
+      "A royal staff handed down in one family for centuries is waiting for the true heir; when he comes, it is placed in his hands, not broken.",
+      "A traveller at the end of a long road asks to be laid near the gate of the city he has been seeking, because he expects to rise and enter it."
+    ],
+    "appealQuestion": "Will you bow to Jesus, the King from Judah to whom the sceptre belongs, and wait for his salvation as Jacob did?",
+    "cautions": [
+      "Do not force a detailed fulfilment onto every obscure saying; present the clear fulfilments and admit where history is silent.",
+      "Present the Shiloh prophecy positively from Scripture without mocking those who read it differently.",
+      "When speaking of Jacob’s death, be gentle with those who grieve, pointing them to the resurrection hope."
+    ],
+    "sources": []
+  },
+  "reflectionQuestions": [
+    "Are there patterns in my character, like Reuben’s instability or Levi’s anger, that I need to bring to God before they shape those who come after me?",
+    "Have I bowed to Jesus as the King to whom the sceptre belongs?",
+    "Can I say with Jacob, even when life is ending or uncertain, “I have waited for thy salvation, O LORD”?",
+    "Where have I been attacked or wronged, and have I let the Mighty One of Jacob strengthen my hands?",
+    "Does my hope for those who have died rest on the resurrection at Christ’s coming?"
+  ],
+  "sources": []
+}

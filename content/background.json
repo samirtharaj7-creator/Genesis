@@ -1,0 +1,310 @@
+{
+  "title": "Introduction to the Book of Genesis",
+  "subtitle": "A guide to the authorship, setting, structure, and central themes of the book of beginnings, from creation and the Sabbath to the promise of redemption carried by the patriarchs.",
+  "sections": [
+    {
+      "id": "mosaic-authorship",
+      "title": "Mosaic Authorship",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Genesis does not name its writer. No opening line announces who set down the account of creation or the stories of Abraham and Joseph, and the book closes without a signature. Yet the people who first received it never treated it as an orphan. From ancient Israel through the synagogue and the early church, and on into the Reformation, Jews and Christians alike received Genesis as the first of the five books of Moses, the opening volume of the law that bears his name. That long and nearly unbroken consensus is the natural place to begin."
+        },
+        {
+          "type": "paragraph",
+          "text": "The rest of Scripture supports that judgment. Within the Pentateuch Moses is repeatedly said to write down what God commanded (Exodus 17:14; 24:4; Numbers 33:2; Deuteronomy 31:9), and later books speak of the book of the law of Moses as a known and complete writing (Joshua 8:31; Ezra 6:18; Nehemiah 13:1; Malachi 4:4). Jesus Himself called the first division of the Hebrew Bible the law of Moses (Luke 24:44). When He answered the Pharisees on divorce, He set the words of Moses in Deuteronomy beside two sayings from Genesis 1:27 and 2:24 and treated all of them as coming from the same lawgiver, while appealing to the earlier words as still binding (Mark 10:2–9; Matthew 19:4–5). He also referred to Abel, Noah, Lot, and Abraham as real persons whose history mattered (Luke 11:51; 17:26–32; John 8:56). The apostles quote Genesis freely as the voice of Scripture (Romans 4:17; Galatians 3:8; Hebrews 4:4; James 2:23)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Genesis is also bound tightly to the book that follows it. Exodus begins with a conjunction and a list of the sons of Jacob who went down into Egypt, picking up exactly where Joseph’s coffin was left in Genesis 50:26. The promise that God would surely visit His people and bring them out (Genesis 50:24–25) is repeated almost word for word when the Lord speaks to Moses at the burning bush (Exodus 3:16). The writer of Genesis clearly wrote with the exodus in view, and the man best placed to do so was the one who led it. Educated in the learning of Egypt (Acts 7:22), Moses was also well equipped to describe Joseph’s world with the accurate Egyptian detail found in Genesis 37–50: the court titles, the embalming, the shaving before an audience with Pharaoh, and the loan words that fit that setting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since the eighteenth century many have argued instead that Genesis was stitched together from several written documents produced centuries after Moses. The main arguments have been the alternation between the divine names God and LORD, the presence of repeated or parallel accounts, apparent anachronisms, and resemblances to Mesopotamian traditions. Each deserves a charitable answer. The divine names are better explained by meaning than by authorship: Elohim presents God as the mighty Creator of all, while the personal name Yahweh presents Him as the covenant Lord who draws near to His people, and a single writer may choose either as the subject requires. Repetition is a common feature of ancient Near Eastern storytelling, used to slow the narrative, sharpen a point, or view an event from a new angle, as Genesis 1 and 2 do with creation. The widely varying ways in which the supposed documents have been divided also suggest how uncertain the theory is."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not every line of Genesis must have come from Moses’ hand in its present wording. A few place names appear to have been updated by later scribes so that readers could follow the story, as when Abram pursues his enemies as far as Dan (Genesis 14:14), a city that was still called Laish in the days of the judges (Judges 18:29). Such small adjustments no more undo Mosaic authorship than a modern map makes an old journey false. Nor does Mosaic authorship require that Moses invented his material. He may have drawn on family records and genealogies handed down from the patriarchs, and he certainly depended on direct revelation for the events of creation that no human witnessed. In either case the Spirit of God guided him, so that what he wrote is the word of God (2 Timothy 3:16; 2 Peter 1:21)."
+        }
+      ]
+    },
+    {
+      "id": "date-and-setting",
+      "title": "Date and Setting",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If Moses wrote Genesis, the book belongs to the fifteenth century before Christ. First Kings 6:1 places the exodus 480 years before Solomon began building the temple, which points to a date about 1450 B.C. Moses was eighty when he stood before Pharaoh (Exodus 7:7), and the forty years he spent shepherding in Midian before that (Acts 7:29–30) offer the most natural period for its composition. There, far from the courts of Egypt, he had time to reflect on God’s dealings with the fathers while his own people groaned under bondage. Genesis may therefore be read as a book written by a shepherd in the wilderness for a nation of slaves who needed to learn who they were and who their God was."
+        },
+        {
+          "type": "paragraph",
+          "text": "That setting explains much of the book’s emphasis. Israel in Egypt lived among a people who worshiped the sun, the Nile, and Pharaoh himself, and who told elaborate stories about the origin of the gods and the world. Genesis answers those stories without naming them. It presents one God who stands above nature, who speaks and it is done, and who makes sun and moon as lamps for days and seasons rather than as deities to be feared. It tells the enslaved descendants of Jacob that their fathers had walked with this God, that He had promised them a land, and that He had foretold both the oppression in a foreign country and the deliverance that would follow (Genesis 15:13–16). The book gave Israel a history, an identity, and a hope."
+        },
+        {
+          "type": "paragraph",
+          "text": "The events that Genesis records reach back much further than its writing. The first eleven chapters describe a world before recorded history as we usually think of it: the creation, the garden, the first family, the long lives of the antediluvians, the flood, and the scattering of nations at Babel. For that era Genesis is effectively our only written witness. From Abraham onward the story moves into the world of the ancient Near East as it is known from inscriptions and excavations, a world of powerful city-states in Mesopotamia, a strong and settled kingdom in Egypt, Hittites rising in the north, and many small kingdoms in Canaan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following the biblical figures for the patriarchs’ ages and the 430 years of Exodus 12:40, Abraham entered Canaan roughly in the late nineteenth century B.C., and Jacob’s household went down into Egypt about two centuries later. The customs of the patriarchal stories fit that early period well: the purchase of the cave of Machpelah by public negotiation at the city gate, the role of household gods as tokens of inheritance, the practice of a barren wife giving her servant to her husband, and the movements of pastoral families between the towns of Canaan. The writer knows his world, and the stories read as family history rather than as legend dressed up in later clothing."
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-genesis",
+      "title": "The Structure of Genesis",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Hebrew title of the book is its first word, bereshit, in the beginning. The English title comes through the Greek translation of the Old Testament, where genesis means origin or birth. Both names fit. Genesis is the book of beginnings: of the heavens and the earth, of human life, marriage, work, and worship, of sin and death, of the promise of redemption, of the nations and their languages, and of the chosen family through whom the promise would come. Almost every major theme of the Bible has its root here."
+        },
+        {
+          "type": "paragraph",
+          "text": "The clearest structural marker in the book is a repeated heading, these are the generations of, from the Hebrew word toledot, which refers to what is brought forth from someone. It occurs ten times as the title of a new section, first at 2:4 with the heavens and the earth, then for Adam, Noah, the sons of Noah, Shem, Terah, Ishmael, Isaac, Esau, and finally Jacob at 37:2, and after the opening account of creation in 1:1–2:3 it divides the whole book into ten movements. Each heading names a starting point and then tells what came from it, so that the generations of Terah tell the story of Abraham, and the generations of Jacob tell the story of Joseph and his brothers. The pattern shows that Genesis is not a loose collection of tales but one carefully ordered history."
+        },
+        {
+          "type": "paragraph",
+          "text": "The arrangement also reveals a method of selection. In each generation the writer briefly traces the line that steps aside from the main story and then turns at length to the line that carries the promise. Cain’s descendants are listed before the account of Seth; the nations of the earth are surveyed before the line of Shem narrows to Abram; Ishmael’s sons are named before Isaac’s story begins; Esau’s descendants are recorded before the history of Jacob’s family resumes. The effect is like a lens narrowing from the whole world to one chosen family, without ever forgetting that the blessing given to that family was meant for all the families of the earth (Genesis 12:3)."
+        },
+        {
+          "type": "paragraph",
+          "text": "On a broader scale the book falls into two great parts. Genesis 1–11 is primeval history, the story of humanity as a whole, marked by four great events: creation, the fall, the flood, and the dispersion at Babel. Genesis 12–50 is patriarchal history, told in three cycles centered on Abraham, on Jacob, and on Joseph, with Isaac’s life woven between his father’s and his sons’. The transition at 11:27 is decisive. After the human race has scattered under judgment, God calls one man out of Ur and begins to work through his family to bless the nations. The first part shows why the world needs redemption; the second shows how God began to provide it."
+        }
+      ]
+    },
+    {
+      "id": "creation-and-the-sabbath",
+      "title": "Creation and the Sabbath",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Genesis opens by setting God before everything else. In the beginning God created the heaven and the earth (Genesis 1:1). He depends on no material already existing, shares His power with no rival, and is not one with the world He made. That single sentence sets the Bible apart from the creation myths of the ancient world, where gods emerge from primeval waters or form the world out of a defeated monster. In Genesis the Creator simply speaks, and what He commands comes to be (Psalm 33:6, 9; Hebrews 11:3). Light, sky, sea, land, plants, lights in the heavens, creatures of water and air and field, and finally humanity appear in an orderly sequence that moves from forming a space to filling it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The account frames this work in six days, each closed by the refrain, and the evening and the morning were the first day, and so on through the sixth. The most natural reading of a numbered day bounded by evening and morning is an ordinary day, and the fourth commandment confirms it: for in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day (Exodus 20:11). The command to work six days and rest on the seventh depends on the creation week being a real week. For that reason this study takes the days as literal and consecutive, and it gently declines readings that turn them into long ages, place a vast gap between the first two verses, or blend the account with a process of gradual development. Those approaches arise from an understandable wish to harmonize Scripture with current theories, but they strain the language of the text and the testimony of the rest of Scripture. Read with the genealogies of Genesis 5 and 11, the narrative also points to a relatively recent creation, not one stretched across immense ages."
+        },
+        {
+          "type": "paragraph",
+          "text": "The crown of creation is humanity, male and female, made in the image of God and given dominion over the earth (Genesis 1:26–28). The second chapter looks more closely at the sixth day. The LORD God forms the man from the dust of the ground and breathes into his nostrils the breath of life, and the man becomes a living soul (Genesis 2:7). The person is the whole being, dust animated by the breath God gives; the text does not describe an immortal soul inserted into a body. Life is God’s gift and remains dependent on Him, which is why death is later described as a return to dust (Genesis 3:19; Ecclesiastes 12:7). The same chapter shows God planting a garden, giving meaningful work, setting a moral boundary, and instituting marriage as the lifelong union of one man and one woman (Genesis 2:24)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Creation reaches its goal not on the sixth day but on the seventh. God ended His work, rested, blessed the seventh day, and sanctified it (Genesis 2:1–3). The six days had filled space with good things; the seventh sets apart a portion of time as holy. God did not rest from weariness (Isaiah 40:28); He rested in the sense of ceasing from creating and delighting in what He had made, and He invited humanity into that rest. Because this happened before sin, before Abraham, and long before Sinai, the Sabbath belongs to the human race as a whole and not to one nation. Jesus said that the Sabbath was made for man (Mark 2:27), using a word that embraces all humanity, and He claimed to be its Lord. When Israel later received the commandment to remember the Sabbath day, it was being called back to a memorial already built into the week of creation."
+        }
+      ]
+    },
+    {
+      "id": "the-fall-and-the-flood",
+      "title": "The Fall and the Flood",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The bright world of Genesis 1 and 2 darkens quickly. God had placed the man and woman in a garden of abundance and forbidden only one tree, warning that in the day they ate of it they would surely die (Genesis 2:17). The serpent, later identified as that old serpent called the Devil and Satan (Revelation 12:9), contradicted the warning directly: ye shall not surely die (Genesis 3:4). That was the first lie, and it has had a long life in the human idea that death is not truly death but a passage into some other conscious existence. Genesis treats death as real and as the penalty of sin. The man and woman ate, hid from God, blamed one another, and were sent out from the garden and from the tree of life, so that death began its reign (Romans 5:12)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet the judgment scene in Genesis 3 contains the first gospel promise. Speaking to the serpent, God announced that He would put enmity between it and the woman, between its seed and her seed, and that her seed would bruise the serpent’s head while the serpent bruised his heel (Genesis 3:15). The enmity is a gift of grace; God Himself sets His people against the deceiver they had just obeyed. The singular he who strikes the serpent’s head points beyond Eve’s children in general to one Descendant who would win the decisive victory at the cost of His own suffering. The New Testament sees that victory in Christ, born of a woman (Galatians 4:4), who through death destroyed him that had the power of death (Hebrews 2:14). The coats of skin God provided (Genesis 3:21) hint at the sacrifice that would make covering for sin possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "The chapters that follow show sin spreading through human life. Cain murders his brother; Lamech boasts of vengeance; the earth fills with violence until the LORD sees that every imagination of the human heart is only evil continually (Genesis 6:5). Alongside that decline runs a faithful line: Abel’s accepted offering, Seth’s descendants calling on the name of the LORD, Enoch walking with God and being taken without seeing death, and Noah finding grace in the eyes of the LORD (Genesis 4:26; 5:24; 6:8). For one hundred and twenty years God held back judgment while Noah built the ark and preached righteousness (Genesis 6:3; 2 Peter 2:5)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The flood itself is presented as a historical and worldwide event. The waters prevailed until all the high hills under the whole heaven were covered, rising fifteen cubits above them, and every living thing on the dry land outside the ark died (Genesis 7:19–23). The language is repeated and emphatic. A local flood would hardly have required an ark built for a year-long voyage, and God’s promise never again to destroy all flesh by water (Genesis 9:11) would have been broken by every regional flood since. The New Testament treats the event as worldwide, setting the world that then was, overflowed with water, beside the coming judgment of fire (2 Peter 3:6–7). It is noteworthy that the distinction between clean and unclean animals is already known in Noah’s day (Genesis 7:2), centuries before the laws of Leviticus."
+        },
+        {
+          "type": "paragraph",
+          "text": "After the waters receded God made a covenant with Noah and with every living creature, setting His bow in the cloud as its sign (Genesis 9:8–17). The world was given a fresh start, with renewed blessing, a new respect for human life as bearing God’s image, and a promise that the seasons would continue while the earth remains (Genesis 8:22). But the human heart had not changed. Noah himself fell into drunkenness, and his descendants gathered at Babel to make a name for themselves and to build a tower reaching heaven (Genesis 11:4). God confused their language and scattered them, and the primeval history closes with humanity divided and dispersed, waiting for the promised Seed."
+        }
+      ]
+    },
+    {
+      "id": "the-patriarchs-in-the-story-of-redemption",
+      "title": "The Patriarchs in the Story of Redemption",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "With Abraham the plan of redemption takes a definite historical shape. God called him out of Ur of the Chaldees and later from Haran, promising to make of him a great nation, to give his descendants the land of Canaan, and through him to bless all the families of the earth (Genesis 12:1–3). Paul saw in that promise the gospel preached beforehand (Galatians 3:8), and he identified the seed of Abraham in whom the nations would be blessed as Christ (Galatians 3:16). The narrowing from the whole human race to one family was never a turning away from the world; it was God’s chosen means of reaching it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Abraham’s life is a schooling in faith. He believed the LORD, and it was counted to him for righteousness (Genesis 15:6), long before circumcision and centuries before the law at Sinai (Romans 4:9–13). He also obeyed. God later testified that Abraham obeyed His voice and kept His charge, His commandments, His statutes, and His laws (Genesis 26:5), evidence that God’s moral law was known and honored before Moses. Abraham paid tithes to Melchizedek, the king of Salem and priest of the most high God (Genesis 14:18–20), a priest whose order the New Testament applies to Christ’s heavenly ministry (Hebrews 7). On Mount Moriah Abraham’s faith reached its height when he offered Isaac, and his answer to his son, that God would provide Himself a lamb (Genesis 22:8), became a prophecy of Jesus, whom John the Baptist hailed as God’s Lamb bearing away the world’s sin (John 1:29)."
+        },
+        {
+          "type": "timeline",
+          "title": "The Patriarchal Story in Outline",
+          "note": "Dates are approximate and follow the biblical ages of the patriarchs together with a fifteenth-century exodus.",
+          "events": [
+            {
+              "date": "About 1875 B.C.",
+              "title": "The Call of Abram",
+              "description": "At seventy-five Abram leaves Haran for Canaan, carrying God’s promise of land, descendants, and blessing for all the families of the earth."
+            },
+            {
+              "date": "About 1850 B.C.",
+              "title": "The Birth of Isaac",
+              "description": "After twenty-five years of waiting, Sarah bears the son of promise in her old age, showing that the covenant rests on God’s power."
+            },
+            {
+              "date": "Isaac’s youth",
+              "title": "The Offering on Moriah",
+              "description": "Abraham is told to offer Isaac, and God provides a ram in his place, foreshadowing the Lamb whom God would provide."
+            },
+            {
+              "date": "About 1713 B.C.",
+              "title": "Jacob’s Dream at Bethel",
+              "description": "Fleeing from Esau, Jacob sees a ladder joining earth and heaven and hears the covenant promises renewed to him."
+            },
+            {
+              "date": "About 1682 B.C.",
+              "title": "Joseph Sold into Egypt",
+              "description": "Jacob’s favored son is sold by his brothers to traders, beginning the path through slavery and prison to the throne of Egypt."
+            },
+            {
+              "date": "About 1660 B.C.",
+              "title": "Israel Goes Down to Egypt",
+              "description": "Famine brings Jacob’s household of seventy to Goshen, where Joseph preserves them and the family begins to grow into a nation."
+            },
+            {
+              "date": "About 1589 B.C.",
+              "title": "The Death of Joseph",
+              "description": "Joseph dies in Egypt at one hundred and ten, charging Israel to carry his bones to the land God had sworn to give the fathers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The patriarchs are never presented as flawless heroes. Abraham twice lies about his wife; Sarah laughs at the promise and then deals harshly with Hagar; Isaac favors one son over the other; Jacob deceives his father and is himself deceived; Jacob’s sons sell their brother and cover the deed with a lie. Genesis tells these failures plainly. Its point is that the promise was carried forward by grace, not by the merit of those who received it. Jacob’s wrestling at Peniel, where the Angel who met him blessed him and renamed him Israel (Genesis 32:24–30; Hosea 12:3–5), shows a man who had relied on his own schemes learning to cling to God. That Angel, who speaks as God and receives worship, is best understood as the Son of God before His incarnation."
+        },
+        {
+          "type": "paragraph",
+          "text": "The story of Joseph brings the book to its close and shows the providence of God working through human evil. Hated and sold by his brothers, falsely accused and forgotten in prison, Joseph remained faithful, and God raised him to save many lives in a time of famine. His words to his brothers summarize the theology of the whole book: ye thought evil against me; but God meant it unto good (Genesis 50:20). Before his death Jacob blessed his sons and promised that the scepter would not depart from Judah until Shiloh came, and to him would the gathering of the people be (Genesis 49:10), a promise that points forward to the Messiah, the Lion of the tribe of Judah (Revelation 5:5). Genesis ends with Israel in Egypt and Joseph in a coffin, but also with a confident oath that God would surely visit His people."
+        }
+      ]
+    },
+    {
+      "id": "genesis-and-the-great-controversy",
+      "title": "Genesis and the Great Controversy",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Genesis is more than a record of origins; it is the opening act of a conflict that runs through the whole Bible. The serpent appears in Eden already opposed to God, questioning His word and slandering His character. Scripture elsewhere explains that this enemy had fallen before the creation of humanity, a covering cherub lifted up by pride (Ezekiel 28:12–17; Isaiah 14:12–14), and it identifies him as the great dragon, that old serpent, cast out with his angels (Revelation 12:7–9). In Genesis 3 his strategy is clear. He implies that God is withholding something good, that His law is arbitrary, and that disobedience will lead to a higher life. The first temptation was an attack on trust."
+        },
+        {
+          "type": "paragraph",
+          "text": "God’s answer was not only judgment but promise. Genesis 3:15 announces a struggle across the generations between two lines, the serpent’s offspring and the woman’s offspring, and the rest of the book traces that struggle. Cain, who was of that wicked one (1 John 3:12), slays Abel. The godly line of Seth is nearly swallowed up by corruption before the flood. The builders of Babel unite in defiance of heaven. Again and again the promise seems threatened: by barrenness, by famine, by the jealousy of brothers, by the schemes of kings. Each time God preserves the line through which the Seed will come, and each time His faithfulness answers the accusation that He cannot be trusted."
+        },
+        {
+          "type": "paragraph",
+          "text": "The conflict also concerns God’s law and His day of rest. In Eden the question was whether humanity would accept God’s word as the boundary of life. The Sabbath, given at creation as a sign of God’s work and of human dependence on Him, stands at the center of that question, and it is fitting that the final message of Scripture calls the world to worship Him that made heaven, and earth, and the sea (Revelation 14:7), language that echoes Genesis and the fourth commandment. The deceiver’s first lie, that sinners would not surely die, likewise remains active, and the Bible’s answer is the hope of resurrection rather than natural immortality (Daniel 12:2; 1 Corinthians 15:51–54)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The great controversy that begins in Genesis ends in the last chapters of Revelation, and the two books mirror each other. Genesis loses a garden, a tree of life, and open fellowship with God; Revelation restores the river, the tree of life whose leaves are for the healing of the nations, and the face of God seen by His servants (Revelation 22:1–4). The curse pronounced in Genesis 3 is removed, death is no more, and the serpent who deceived the whole world is finally destroyed, not kept alive in endless torment (Revelation 20:10, 14; 21:4; Malachi 4:1). Read in that light, Genesis is the first chapter of a story whose end is already secure: the woman’s Seed has crushed the serpent’s head at the cross, and He will return in glory to complete the victory."
+        }
+      ]
+    },
+    {
+      "id": "the-book-at-a-glance",
+      "title": "The Book at a Glance",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Genesis is foundational for the rest of the Bible. Without it the law of Moses would have no context, Israel’s history would have no beginning, and the gospel would lack the story of the fall that makes redemption necessary. Its pages establish the Creator’s goodness, the dignity and accountability of human beings, the sanctity of marriage and the Sabbath, the reality of sin and death, and the certainty of God’s promise. Reading Genesis well equips the student to read every later book with understanding."
+        },
+        {
+          "type": "glance",
+          "title": "Genesis at a Glance",
+          "headers": [
+            "Detail",
+            "Information"
+          ],
+          "rows": [
+            [
+              "Author",
+              "Moses, the lawgiver of Israel, writing under the guidance of the Holy Spirit"
+            ],
+            [
+              "Date of writing",
+              "About the middle of the fifteenth century B.C., most likely during Moses’ years in Midian"
+            ],
+            [
+              "Period covered",
+              "From creation to the death of Joseph in Egypt, about the late seventeenth century B.C."
+            ],
+            [
+              "First readers",
+              "The descendants of Jacob in Egyptian bondage and the generation of the exodus"
+            ],
+            [
+              "Structure",
+              "A creation prologue followed by ten sections introduced by the heading these are the generations of"
+            ],
+            [
+              "Major divisions",
+              "Primeval history in chapters 1–11; patriarchal history of Abraham, Isaac, Jacob, and Joseph in chapters 12–50"
+            ],
+            [
+              "Key verses",
+              "Genesis 1:1; 2:3; 3:15; 12:3; 15:6; 50:20"
+            ],
+            [
+              "Central message",
+              "The Creator who made a good world promises and provides redemption from sin through the Seed of the woman and the family of Abraham"
+            ],
+            [
+              "Distinctive features",
+              "The six-day creation and the Sabbath, the first gospel promise, the worldwide flood, the covenant with Abraham, and the providence displayed in Joseph’s life"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The two halves of the book are best read together. The first shows the wide world falling repeatedly into rebellion; the second shows God patiently working within one flawed family to keep His word. The same God who made the heavens with a word walks with Abraham, wrestles with Jacob, and guides Joseph through prison to the palace. The comparison below sets the two halves side by side so that their common message stands out."
+        },
+        {
+          "type": "comparison",
+          "title": "Primeval and Patriarchal History Compared",
+          "headers": [
+            "Feature",
+            "Genesis 1–11",
+            "Genesis 12–50"
+          ],
+          "rows": [
+            [
+              "Scope",
+              "The whole human race and the whole earth",
+              "One chosen family moving between Mesopotamia, Canaan, and Egypt"
+            ],
+            [
+              "Time span",
+              "Many centuries from creation to Babel",
+              "About three centuries from Abraham’s call to Joseph’s death"
+            ],
+            [
+              "Major events",
+              "Creation, the fall, the flood, and the dispersion at Babel",
+              "The call of Abraham, the birth of Isaac, Jacob’s exile and return, and Joseph’s rise in Egypt"
+            ],
+            [
+              "Pattern of sin and grace",
+              "Repeated human rebellion met by judgment mixed with mercy",
+              "Personal failure in the chosen family overruled by covenant faithfulness"
+            ],
+            [
+              "Key promise",
+              "The Seed of the woman will crush the serpent’s head",
+              "In Abraham’s Seed all the families of the earth will be blessed"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The book ends with a burial and a promise. Joseph dies in Egypt, but he refuses to let his bones rest there permanently, because he believes God will bring His people out (Hebrews 11:22). That forward-looking faith is the right posture for readers of Genesis. The book traces humanity from a garden lost to a family waiting in a foreign land, and it teaches that the God of beginnings is also the God who finishes what He starts, through the promised Seed, Jesus Christ."
+        }
+      ]
+    }
+  ]
+}

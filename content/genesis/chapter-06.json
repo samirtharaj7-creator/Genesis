@@ -1,0 +1,1321 @@
+{
+  "chapterNumber": 6,
+  "title": "Corruption, Grief, and the Ark of Grace",
+  "summary": "As violence fills the earth and God’s Spirit pleads for a final season, Noah finds grace, receives the covenant, and builds the ark as commanded.",
+  "historicalContext": "Genesis 6 describes the world in the generations just before the flood, when human life spans still reached many centuries and the descendants of Cain and Seth had spread across the earth. The family of Seth had preserved the worship of the LORD (Genesis 4:26), while Cain’s line had developed cities, metalwork, music, and a culture that celebrated revenge (Genesis 4:17–24). Ancient peoples kept their own memories of a great flood, yet those stories blame the catastrophe on quarrelsome gods irritated by human noise. Genesis gives a different account: one holy and grieving God judges real moral corruption, warns before he acts, and preserves a righteous family through a vessel built to his own specifications. The chapter therefore stands as sober history, introducing an event that Jesus and the apostles treated as a real past judgment and a pattern of the judgment still to come.",
+  "literaryContext": "The chapter straddles a seam in the book. Verses 1–8 close the family history of Adam that began in Genesis 5:1, ending not with another death notice but with the announcement that “Noah found grace.” Verse 9 opens a new “generations” section that runs through Genesis 9:29. Language from the creation account echoes throughout: God “saw,” the earth is “filled,” creatures appear “after their kind” and “male and female,” and the Spirit and the waters return to view. What God once made good is now described as corrupt, and the flood will read as creation undone and then renewed. Inside this frame, divine speech dominates. God speaks, sees, grieves, decides, and commands, while Noah utters no recorded word; his whole response is the obedience summarized in the final verse.",
+  "themes": [
+    "The spread of sin through compromise and violence",
+    "The Spirit’s patient pleading and the limit of probation",
+    "God’s grief over human corruption",
+    "Grace found before the judgment falls",
+    "Covenant faithfulness and a provided way of escape",
+    "Faith expressed in complete obedience"
+  ],
+  "outline": [
+    {
+      "range": "6:1-4",
+      "title": "Mixed Marriages and Mighty Men",
+      "summary": "The faithful line joins itself to the ungodly, God sets a limit of one hundred and twenty years, and a generation of violent celebrities rises."
+    },
+    {
+      "range": "6:5-8",
+      "title": "The LORD’s Verdict and Noah’s Grace",
+      "summary": "God sees the heart’s continual evil, grieves over humanity, resolves to blot it out, and yet extends grace to Noah."
+    },
+    {
+      "range": "6:9-12",
+      "title": "A Righteous Man in a Ruined World",
+      "summary": "Noah’s integrity and walk with God are set against an earth corrupted and filled with violence."
+    },
+    {
+      "range": "6:13-16",
+      "title": "Judgment Announced and the Ark Designed",
+      "summary": "God reveals the coming end to Noah and gives precise instructions for building the ark."
+    },
+    {
+      "range": "6:17-21",
+      "title": "Flood, Covenant, and Provision",
+      "summary": "God announces a destroying flood, promises his covenant, and directs Noah to gather family, animals, and food."
+    },
+    {
+      "range": "6:22",
+      "title": "Noah’s Full Obedience",
+      "summary": "Noah carries out everything God commanded."
+    }
+  ],
+  "verses": [
+    {
+      "verse": "Genesis 6:1",
+      "bibleText": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 1:28",
+        "Genesis 4:17-24",
+        "Genesis 5:4",
+        "Matthew 24:38"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And it came to pass” does not signal that these events happened only after the genealogy of chapter 5 was complete. The phrase sets a scene. Having traced ten generations from Adam to Noah, the narrator now steps back to describe the moral climate of that long era, especially as it reached its climax in Noah’s lifetime.\n\n“When men began to multiply on the face of the earth” shows the creation blessing still at work. God had told the first pair to be fruitful and fill the earth (Genesis 1:28), and the earth was filling. Yet the earlier chapters have already shown that growing numbers do not guarantee growing godliness. Cain’s line built a city, forged bronze and iron, made music, and produced Lamech, who boasted of killing a man for wounding him (Genesis 4:17–24). More people meant more reach for sin.\n\nThe notice that “daughters were born unto them” is deliberate. Chapter 5 repeated that each patriarch “begat sons and daughters,” but the daughters remained unnamed in the background. Here they come to the foreground because the crisis that follows turns on marriage. What looks like a simple population note prepares for the choice that would draw the worshiping family of Seth into the ruin of the wider world.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "כִּי־הֵחֵל הָאָדָם לָרֹב (ki-hechel ha’adam larov) — when men began to multiply",
+          "explanation": "The verb “began” is the same one used in Genesis 4:26, where “men began to call upon the name of the LORD.” Genesis uses it at turning points: Noah “began to be an husbandman,” Nimrod “began to be a mighty one,” and the builders at Babel “begin to do” their project. Here the beginning is one of numerical increase, and the narrative will show what that increase produced. Ha’adam is humanity as a whole, the same word used for the man made in God’s image.",
+          "scriptureReferences": [
+            "Genesis 4:26",
+            "Genesis 10:8",
+            "Genesis 11:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:2",
+      "bibleText": "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 3:6",
+        "Genesis 4:26",
+        "Deuteronomy 7:3-4",
+        "Matthew 22:30",
+        "2 Corinthians 6:14"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The identity of “the sons of God” has been debated since ancient times. Some early Jewish writings and a number of later interpreters took them to be angels who married human women. Others have suggested ancient kings who claimed divine status. The reading that best fits Genesis itself sees them as the descendants of Seth, the family that called on the name of the LORD (Genesis 4:26), and “the daughters of men” as women from the godless line of Cain.\n\nSeveral features support this. Chapters 4 and 5 have just set two families side by side: one marked by violence and self-assertion, the other by worship, Enoch’s walk with God, and the hope attached to Noah. Scripture elsewhere calls God’s covenant people his sons and children (Exodus 4:22; Deuteronomy 14:1). The verb “took them wives” is the ordinary language of marriage in Genesis. Jesus taught that angels “neither marry, nor are given in marriage” (Matthew 22:30), and when he recalled this generation he described human beings “marrying and giving in marriage” (Matthew 24:38). Most decisively, God’s response in verse 3 is directed at humanity, not at heavenly beings.\n\nThe sin itself is traced in three verbs: they “saw,” judged the women “fair,” and “took.” The sequence echoes Eve at the tree, who saw that it was good, desired it, and took (Genesis 3:6). Sight and desire, not the will of God, governed the choice. The phrase “of all which they chose” suggests appetite without restraint, and the plural “wives” recalls Lamech, the first man said to take two (Genesis 4:19).\n\nThese unions dissolved the boundary that had kept the faithful line distinct. Throughout Scripture God warns his people against marriage with those who do not share their loyalty to him, because the believer is usually drawn away rather than the unbeliever drawn in (Deuteronomy 7:3–4; 2 Corinthians 6:14). The faithful family did not fall through open revolt. It was absorbed one attractive choice at a time, until only Noah’s household remained.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בְּנֵי־הָאֱלֹהִים (bene-ha’elohim) — the sons of God",
+          "explanation": "In Job the phrase describes heavenly beings, and the Greek Old Testament in some copies rendered it “angels” here. Context must decide its sense in Genesis 6. Sonship language is applied to God’s people in Exodus 4:22 and Deuteronomy 14:1, and Luke traces Seth’s line back to “Adam, which was the son of God.” Coming directly after Seth’s genealogy, the phrase most naturally names those who belonged to God by worship and covenant, in contrast to those identified only by human descent.",
+          "scriptureReferences": [
+            "Exodus 4:22",
+            "Deuteronomy 14:1",
+            "Luke 3:38"
+          ]
+        },
+        {
+          "term": "כִּי טֹבֹת הֵנָּה (ki tovot hennah) — that they were fair",
+          "explanation": "Literally “that they were good.” The wording recalls both God’s repeated verdict in creation, “God saw that it was good,” and Eve’s look at the forbidden tree, which she saw “was good for food.” The men usurped the role of judge, defining good by what pleased the eye.",
+          "scriptureReferences": [
+            "Genesis 1:31",
+            "Genesis 3:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:3",
+      "bibleText": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 1:2",
+        "Romans 1:24",
+        "1 Peter 3:18-20",
+        "2 Peter 2:5",
+        "2 Peter 3:9"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "God’s response comes immediately after the description of these marriages, marking them as the decisive step in the world’s decline. “My spirit shall not always strive with man” reveals what had been happening all along. The Spirit who moved upon the waters at creation (Genesis 1:2) had been at work among the antediluvians, restraining evil, pressing on conscience, and pleading for repentance. That work had not been forced on anyone, and it would not continue without end.\n\nThe Hebrew verb behind “strive” is uncertain. It may carry the idea of ruling, of judging, or of remaining, and each suggests a facet of the same truth: God’s Spirit would no longer contend with people who had hardened themselves against him. Scripture elsewhere describes this withdrawal as God giving people over to the path they have chosen (Psalm 81:11–12; Romans 1:24). Divine patience is real, yet it is not indifference. There comes a point when persistent refusal settles a person’s choice.\n\n“For that he also is flesh” names the reason. Flesh in the Old Testament often stresses human frailty and mortality (Isaiah 40:6). Here it also describes humanity given over to its own impulses, unresponsive to the Spirit’s influence. The problem was not that people had bodies; God had called the first marriage “one flesh” (Genesis 2:24). The problem was that they lived as if flesh were all there was.\n\n“Yet his days shall be an hundred and twenty years” is best understood as a period of grace before the flood. It cannot be a new limit on life span, since Shem lived six hundred years and Abraham one hundred seventy-five (Genesis 11:10–11; 25:7). For one hundred and twenty years God would wait while the ark was built and Noah warned his generation. Peter describes this season in just these terms: “the longsuffering of God waited in the days of Noah, while the ark was a preparing” (1 Peter 3:20). The Spirit of Christ preached through Noah to people then alive; Peter does not describe Christ descending to address spirits in an underworld after death. Noah himself is called “a preacher of righteousness” (2 Peter 2:5).\n\nJesus compared the days before his return to the days of Noah (Matthew 24:37–39). The comparison warns that probation will close and that the end will come suddenly upon those who are unprepared. It does not supply a number from which to calculate the date of his coming. The point is the same in both ages: God “is longsuffering to us-ward, not willing that any should perish” (2 Peter 3:9), and his long patience is meant to lead to repentance.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "יָדוֹן (yadon) — shall strive",
+          "explanation": "The form appears only here, and its meaning is debated. Many connect it with din, “to judge” or “to plead a cause”; the Greek Old Testament rendered it “remain.” Whichever nuance is preferred, the context makes the sense clear: the Spirit’s active work with rebellious humanity would come to an end. The verse speaks of the Spirit’s patient contention with the human heart, a work Scripture elsewhere warns can be resisted and grieved.",
+          "scriptureReferences": [
+            "Isaiah 63:10",
+            "Acts 7:51",
+            "Ephesians 4:30"
+          ]
+        },
+        {
+          "term": "בְּשַׁגַּם הוּא בָשָׂר (beshaggam hu basar) — for that he also is flesh",
+          "explanation": "The traditional text reads “in that also he is flesh.” With a slight change of vowels, some ancient manuscripts read “in their going astray he is flesh,” linking the clause to wandering into error. Either way, basar points to humanity as weak, mortal, and in this setting governed by its own desires rather than by God’s Spirit.",
+          "scriptureReferences": [
+            "Isaiah 40:6",
+            "Romans 8:5-8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:4",
+      "bibleText": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 13:33",
+        "Genesis 4:23-24",
+        "Genesis 11:4",
+        "Genesis 12:2",
+        "Isaiah 9:6"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“There were giants in the earth in those days.” The KJV follows the Greek Old Testament, which rendered the Hebrew Nephilim as gigantes. The word appears elsewhere only in Numbers 13:33, where Israel’s frightened spies said they felt like grasshoppers beside the Anakim. That later report, delivered to discourage the people, does not prove that the Nephilim survived the flood; it uses the old name for anyone fearsome and overwhelming.\n\nThe verse does not say that the Nephilim were the children of the marriages in verse 2. It says they were present “in those days; and also after that,” while those unions were taking place. The likely derivation from the verb “to fall” suggests men who fell upon others: violent, overpowering figures. Since the antediluvians as a whole possessed remarkable stature and vigor, the term probably singles out character more than height. These were people who used their strength to dominate.\n\nThe children born to the mixed marriages “became mighty men which were of old, men of renown.” The phrase is literally “men of the name.” Fame was the prize of this generation, and it was won by force. The contrast with Seth’s family is pointed: they had begun “to call upon the name of the LORD” (Genesis 4:26), while this generation sought a name for itself. The same ambition will drive the builders of Babel, who say, “let us make us a name” (Genesis 11:4). God’s answer to that ambition comes in his promise to Abram: “I will … make thy name great” (Genesis 12:2). A lasting name is a gift of God, not a trophy seized from others.\n\nThe world before the flood admired its heroes, yet Scripture remembers them only as part of the reason judgment came. True might appears in the One whom Isaiah calls “The mighty God” (Isaiah 9:6), who uses his strength to save the weak rather than to crush them.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "הַנְּפִלִים (hannefilim) — giants",
+          "explanation": "The word is most often linked to naphal, “to fall,” and may describe those who fall upon others in attack, or those who had fallen morally. The rendering “giants” comes through the Greek Old Testament. In Numbers 13:33 the spies used the term to express their terror of Canaan’s inhabitants. The definite article suggests a well-known class of people, remembered chiefly for violence and power.",
+          "scriptureReferences": [
+            "Numbers 13:33",
+            "Deuteronomy 2:10-11"
+          ]
+        },
+        {
+          "term": "הַגִּבֹּרִים … אַנְשֵׁי הַשֵּׁם (haggibborim … anshe hashem) — mighty men … men of renown",
+          "explanation": "Gibbor describes a warrior or champion, the word later used of Nimrod, “a mighty hunter before the LORD.” “Men of the name” means famous men. Genesis repeatedly contrasts names grasped by human striving with the name God bestows, a theme that culminates in the name given to Christ above every name.",
+          "scriptureReferences": [
+            "Genesis 10:8-9",
+            "Philippians 2:9"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:5",
+      "bibleText": "And GOD saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 8:21",
+        "Jeremiah 17:9",
+        "Matthew 15:19",
+        "Ezekiel 36:26",
+        "Romans 3:10-12"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The KJV prints “GOD,” but the Hebrew has the covenant name, the LORD. The verb “saw” recalls the creation week, when God looked on each finished work and saw that it was good, and finally that it was “very good” (Genesis 1:31). Now the same divine gaze falls on the earth and finds the opposite. What God saw was “the wickedness of man,” and it was “great,” spread across the whole earth.\n\nThe verse then moves from the extent of evil to its depth. “Every imagination of the thoughts of his heart was only evil continually.” The words pile up with deliberate force: every imagination, only evil, continually. The problem did not lie merely in scattered crimes or in certain notorious individuals. The source itself was poisoned. In Hebrew thought the heart is the seat of thought, decision, and will, the place where plans are formed before they become actions. Jesus spoke the same way: “out of the heart proceed evil thoughts, murders, adulteries” (Matthew 15:19).\n\nThe word “imagination” is related to the verb used when God “formed man of the dust of the ground” (Genesis 2:7). The Creator had shaped humanity with care; now humanity was shaping its own designs, and every design was evil. Nor was this a passing phase. “Continually” means all day long, every day, as a settled condition rather than a lapse.\n\nThe diagnosis is repeated after the flood with almost the same words: “the imagination of man’s heart is evil from his youth” (Genesis 8:21). The waters would cleanse the earth, but they could not change the human heart. That requires another kind of work, the one God later promised through the prophets: “A new heart also will I give you” (Ezekiel 36:26). Genesis 6:5 thus states the problem that only the gospel can solve. It explains why outward reform, education, or even catastrophe cannot by themselves produce righteousness, and why the new birth by the Spirit is necessary (John 3:3–6).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "יֵצֶר מַחְשְׁבֹת לִבּוֹ (yetser machshevot libbo) — the imagination of the thoughts of his heart",
+          "explanation": "Yetser denotes something formed or fashioned, here the plans and purposes the mind shapes. Machshevot are thoughts or schemes, and lev is the inner person as the center of reasoning and will. Together the phrase describes the whole inner workshop where intentions take shape. Later Jewish teaching spoke of a good and an evil yetser within each person, but this verse offers no such balance; at this point in history the inclination was “only evil.”",
+          "scriptureReferences": [
+            "Genesis 2:7",
+            "Genesis 8:21",
+            "1 Chronicles 28:9"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:6",
+      "bibleText": "And it repented the LORD that he had made man on the earth, and it grieved him at his heart.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 23:19",
+        "1 Samuel 15:11",
+        "Jeremiah 18:7-10",
+        "Isaiah 63:9-10",
+        "Ephesians 4:30"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“It repented the LORD that he had made man on the earth.” The statement can startle readers, because Scripture also says, “God is not a man, that he should lie; neither the son of man, that he should repent” (Numbers 23:19). The same tension appears in 1 Samuel 15, where the LORD “repented that he had made Saul king,” and in the same chapter Samuel declares that the Strength of Israel “will not … repent” (1 Samuel 15:11, 29, 35). The narrator clearly sees no contradiction, and the second half of this verse explains why.\n\n“And it grieved him at his heart.” God’s repentance here is the sorrow of love wounded by sin. It does not mean that he lacked foresight, made a mistake, or changed his character. His purposes and nature remain constant; what has changed is humanity, and a holy God who does not change must respond differently to a people who have turned to evil. Jeremiah describes the principle: when a nation God planned to bless turns to wickedness, he “repents” of the good he intended, and when a nation under threat of judgment turns from its evil, he “repents” of the disaster (Jeremiah 18:7–10). His moral consistency is precisely what produces the change in his dealings.\n\nThe word “grieved” belongs to the same family as the “sorrow” pronounced on Eve and Adam after the fall (Genesis 3:16–17). The pain sin brought into human life now reaches the heart of God himself. The Creator is not a detached observer. He is moved by the ruin of those he made, and his judgment flows from wounded love, not from cold irritation. The Babylonian flood stories offer no such picture; their gods send the deluge because humans are too noisy and then panic at what they have unleashed.\n\nThis divine grief also prepares for hope. The Hebrew verb for “repented” is the same verb Lamech used when he named Noah, saying, “This same shall comfort us” (Genesis 5:29). The pain in God’s heart and the comfort promised through Noah are bound together. The God who grieves over sin will at last bear its pain himself, when “he was wounded for our transgressions” (Isaiah 53:5). The Spirit still grieves over sin in believers (Ephesians 4:30), and that grief is evidence of a love that will not abandon its purpose.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וַיִּנָּחֶם (vayyinnachem) — and it repented",
+          "explanation": "The verb nacham can mean to be sorry, to be moved to pity, to relent, or to be comforted, depending on context. Used of God, it most often describes his response to a change in human conduct. The Greek Old Testament softened it here to “God considered,” reluctant to speak of divine repentance. The Hebrew keeps the bolder language and lets the next clause, “it grieved him,” define its sense as sorrow rather than error. The same verb sounds in Noah’s name-giving: “This same shall comfort us.”",
+          "scriptureReferences": [
+            "Genesis 5:29",
+            "Jeremiah 18:8",
+            "Jonah 3:10"
+          ]
+        },
+        {
+          "term": "וַיִּתְעַצֵּב אֶל־לִבּוֹ (vayyit‘atsev el-libbo) — and it grieved him at his heart",
+          "explanation": "The verb ‘atsav describes inner pain and distress. It is used of Jacob’s sons when they heard of Dinah’s violation and of Jonathan’s anguish over Saul’s hatred of David. Its related noun is the “sorrow” of Genesis 3:16–17. The expression “at his heart” locates the pain at the very center of God’s being.",
+          "scriptureReferences": [
+            "Genesis 3:17",
+            "Genesis 34:7",
+            "1 Samuel 20:34"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:7",
+      "bibleText": "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 1:24-27",
+        "Exodus 32:32-33",
+        "Psalm 51:1",
+        "Isaiah 43:25",
+        "Romans 8:20-22"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Grief does not cancel justice. “I will destroy man whom I have created” announces a judgment rooted in God’s rights as Creator. The One who gave life has authority to call it to account. The words “whom I have created” deliberately recall Genesis 1:27; the Maker who formed humanity in his image now resolves to remove those who have defaced it.\n\nThe verb rendered “destroy” means to wipe away or blot out, as writing is washed from a scroll (Numbers 5:23). The image suits a judgment by water. The list that follows, “man, and beast, and the creeping thing, and the fowls of the air,” runs through the creatures of the sixth and fifth days in reverse order, as though creation itself were being unwritten. Fish are not mentioned, since the flood would not remove them.\n\nThe animals are included because they lived under human dominion (Genesis 1:26–28); their fate was bound to the fate of those appointed to rule them. When the head of creation fell, the realm under its care suffered with it. Paul describes the same reality when he says that “the creature was made subject to vanity” and now groans awaiting redemption (Romans 8:20–22).\n\nThe same verb carries hope elsewhere in Scripture. God promises, “I, even I, am he that blotteth out thy transgressions” (Isaiah 43:25), and David prays, “blot out my transgressions” (Psalm 51:1). Sin will be blotted out one way or another: either it is erased through God’s mercy, or the sinner who clings to it is erased with it. The flood shows the second path; the gospel offers the first.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אֶמְחֶה (emcheh) — I will destroy",
+          "explanation": "The verb machah means to wipe out or erase. It is used for washing ink from a written curse, for blotting a name out of God’s book, and for wiping a dish clean. Applied to the flood, it pictures the face of the earth wiped clean of its inhabitants. The same verb describes God’s gracious removal of sin, showing that judgment and forgiveness are two outcomes of one holy purpose.",
+          "scriptureReferences": [
+            "Numbers 5:23",
+            "2 Kings 21:13",
+            "Isaiah 44:22"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:8",
+      "bibleText": "But Noah found grace in the eyes of the LORD.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 19:19",
+        "Exodus 33:12-17",
+        "Ephesians 2:8-9",
+        "Titus 2:11",
+        "Hebrews 11:7"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“But Noah found grace in the eyes of the LORD.” After four verses of darkness, a single sentence opens a door of hope. This is the first time the word “grace” appears in Scripture, and it appears exactly where it is most needed: in the shadow of announced judgment. The family history of Adam that began in Genesis 5:1 could have ended in total loss. Instead it closes with grace.\n\nThe order of the verses matters. Noah’s righteousness is described in verse 9, but his finding grace comes first. To “find grace in the eyes of” someone means to be the object of their favor, a favor received rather than purchased. Grace by definition cannot be earned, and Noah did not create the goodwill he found. God’s choice of Noah to preserve humanity rests on God’s own mercy. What follows in verse 9 describes the life that grew from that grace, not the payment that secured it. Hebrews says the same when it calls Noah “heir of the righteousness which is by faith” (Hebrews 11:7).\n\nThere is a sound play in the Hebrew. The word for grace, chen, uses the same two letters as Noah’s name in reverse order. Within the very sentence that seals the world’s doom, the name of the comforter and the word for grace mirror each other. God had already provided the answer before the judgment was carried out.\n\nThe grace Noah found was not limited to him. Through Noah God would preserve the human race and keep alive the line through which the promised Seed of the woman would come (Genesis 3:15). The same grace “that bringeth salvation hath appeared to all men” in Jesus Christ (Titus 2:11). Noah stands as an early witness that “by grace are ye saved through faith; and that not of yourselves” (Ephesians 2:8).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "חֵן (chen) — grace",
+          "explanation": "Chen denotes favor or kindness freely shown by a superior to one who has no claim on it. The phrase “find grace in the eyes of” recurs in the Old Testament, as when Moses pleads that he has found grace in God’s sight. Its first appearance here, in a setting of universal judgment, establishes that God’s favor reaches people who could never deserve it.",
+          "scriptureReferences": [
+            "Exodus 33:17",
+            "Ruth 2:10",
+            "Proverbs 3:34"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:9",
+      "bibleText": "These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 5:22-24",
+        "Genesis 7:1",
+        "Ezekiel 14:14",
+        "Hebrews 11:7",
+        "2 Peter 2:5"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“These are the generations of Noah” opens the third major section of Genesis, the family history that will run through the flood and its aftermath to Noah’s death (Genesis 9:29). Before the narrator lists Noah’s sons, he pauses to describe the man himself. In Hebrew the description is compact, and it begins and ends with Noah’s name, framing his character as the focus of attention.\n\nThree qualities are named. First, Noah was “a just man.” This is the first use of the word righteous in the Bible. It describes a person whose conduct conforms to God’s standard, who is in the right before God and fair toward others. Second, he was “perfect in his generations.” The word does not mean flawless; Genesis will soon record Noah’s drunkenness (Genesis 9:21). It means whole, sound, undivided in commitment, the same quality God later required of Abram: “walk before me, and be thou perfect” (Genesis 17:1). “In his generations” sets that integrity against the backdrop of his contemporaries. Surrounded by corruption, ridicule, and the pressure of a whole culture, Noah remained true.\n\nThird, “Noah walked with God.” The expression was last used of Enoch (Genesis 5:22, 24), whose translation took place only a few decades before Noah was born. Walking with God describes ongoing fellowship: daily companionship, shared direction, and trust. Noah’s righteousness was not a private achievement maintained by willpower. It was the fruit of a relationship.\n\nThe New Testament explains how such a life is possible. Noah “by faith … prepared an ark” and “became heir of the righteousness which is by faith” (Hebrews 11:7). His righteousness was received through trust in God’s word and then expressed in an obedient life. Ezekiel would later name Noah alongside Daniel and Job as models of righteousness (Ezekiel 14:14), and Peter calls him “a preacher of righteousness” (2 Peter 2:5). The same pattern holds for every believer: grace received by faith produces a life that walks with God, even when the surrounding world has gone another way.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "צַדִּיק תָּמִים (tsaddiq tamim) — a just man and perfect",
+          "explanation": "Tsaddiq describes one who is in the right according to God’s standard and who habitually practices what is right. Tamim, used of sacrificial animals “without blemish,” denotes wholeness and integrity when applied to people. It describes undivided devotion, not sinless perfection. Job is described with the same vocabulary, and David could claim to be tamim before God despite his failures.",
+          "scriptureReferences": [
+            "Leviticus 1:3",
+            "Job 1:1",
+            "2 Samuel 22:24"
+          ]
+        },
+        {
+          "term": "הִתְהַלֶּךְ־נֹחַ (hithallekh-noach) — Noah walked",
+          "explanation": "The reflexive-intensive form of the verb “to walk” describes continuous, habitual walking, a way of life rather than a single step. Used with “with God,” it appears only of Enoch and Noah, marking an intimate fellowship that set them apart from their generations.",
+          "scriptureReferences": [
+            "Genesis 5:24",
+            "Micah 6:8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:10",
+      "bibleText": "And Noah begat three sons, Shem, Ham, and Japheth.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 5:32",
+        "Genesis 9:18-19",
+        "Genesis 10:1",
+        "Luke 3:36"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Noah begat three sons, Shem, Ham, and Japheth.” The notice repeats Genesis 5:32, linking the new section to the genealogy just completed. Like Adam, who is followed in Genesis 4–5 by three named sons, Noah stands as the head of a family from which the whole post-flood world will descend (Genesis 9:19; 10:1–32).\n\nShem is named first, not necessarily because he was the eldest, but because through him the line of promise would continue to Abraham and ultimately to Christ (Genesis 11:10–26; Luke 3:36). The order serves the story of redemption. In a world about to be swept away, these three names carry the future of humanity and the hope of the promised Seed.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "שֵׁם חָם וָיָפֶת (shem cham vayafet) — Shem, Ham, and Japheth",
+          "explanation": "Shem means “name,” fitting for the son through whom God would make Abram’s name great and preserve his own name among the nations. Ham may be connected with words for heat or with an ancient name for Egypt, which the Psalms call “the land of Ham.” Japheth sounds like the verb “enlarge” in Noah’s later blessing: “God shall enlarge Japheth.”",
+          "scriptureReferences": [
+            "Genesis 9:27",
+            "Psalm 105:23"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:11",
+      "bibleText": "The earth also was corrupt before God, and the earth was filled with violence.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 1:28",
+        "Genesis 4:8",
+        "Psalm 11:5",
+        "Habakkuk 1:2-3"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The narrator now gives his own assessment of the earth. “The earth also was corrupt before God.” The corruption was not hidden; it was carried on openly, in God’s sight, as though he did not see or did not care. The word for corrupt describes something spoiled or ruined, like Jeremiah’s linen girdle that rotted in the ground and was “profitable for nothing” (Jeremiah 13:7).\n\n“And the earth was filled with violence.” The verb “filled” is sharply ironic. God had commanded humanity to “fill the earth” (Genesis 1:28), and they had done so, but with violence. Violence here includes physical brutality, yet the Hebrew term reaches further, to every ruthless violation of another person’s rights: oppression, injustice, false accusation, exploitation of the weak. What began with Cain’s murder of Abel and grew in Lamech’s song of vengeance (Genesis 4:8, 23–24) had now saturated society. The prophets would later use the same word to indict Israel and the nations (Habakkuk 1:2–3; Amos 3:10). When people abandon God, they inevitably begin to destroy one another.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "חָמָס (chamas) — violence",
+          "explanation": "Chamas denotes ruthless wrongdoing that tramples the rights and lives of others. It can describe bloodshed, but also unjust testimony and oppressive dealings. Sarai uses it of the wrong done to her, and the law forbids a “witness of chamas.” The word captures a society where might had replaced right.",
+          "scriptureReferences": [
+            "Genesis 16:5",
+            "Exodus 23:1",
+            "Ezekiel 7:23"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:12",
+      "bibleText": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 1:31",
+        "Genesis 18:21",
+        "Psalm 14:2-3",
+        "Daniel 7:9-10"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And God looked upon the earth, and, behold, it was corrupt.” The wording echoes Genesis 1:31, where “God saw every thing that he had made, and, behold, it was very good.” The same divine look, introduced with the same “behold,” now discovers the reverse. The world that left God’s hand very good had become thoroughly spoiled.\n\nThe verse emphasizes that God examined the situation before he acted. Scripture consistently shows the Judge investigating before he executes sentence: he comes down to see Babel (Genesis 11:5), and he goes down to see whether Sodom’s guilt matches the cry against it (Genesis 18:21). The flood was a verdict reached with full knowledge of the facts, never an outburst of temper. The same pattern of a judgment that reviews the record before the final sentence appears in the prophetic scenes of the heavenly court, where “the judgment was set, and the books were opened” (Daniel 7:10).\n\n“For all flesh had corrupted his way upon the earth.” The word “way” refers to a manner of life, the path a person habitually walks. In the flood narrative “all flesh” usually includes animals as well as people (Genesis 6:17, 19; 7:21), suggesting that the disorder had spread through the whole created realm under human headship. The primary guilt, however, lies with humanity. The distinction between Seth’s worshiping family and Cain’s line had collapsed, and with very few exceptions the whole race had abandoned God’s way.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "הִשְׁחִית כָּל־בָּשָׂר אֶת־דַּרְכּוֹ (hishchit kol-basar et-darko) — all flesh had corrupted his way",
+          "explanation": "The verb shachat appears in this passage in three forms: the earth “was corrupt” in verses 11 and 12, all flesh “had corrupted” its way, and in verse 13 God will “destroy” them. The repetition shows that judgment matches the crime. Derekh, “way,” describes a habitual course of life, as in the warning that there is a way that seems right to a man.",
+          "scriptureReferences": [
+            "Proverbs 14:12",
+            "Psalm 1:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:13",
+      "bibleText": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Amos 3:7",
+        "Ezekiel 7:2-3",
+        "Matthew 24:37-39",
+        "2 Peter 3:6-7"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And God said unto Noah.” Until now the divine reflections of verses 3 and 7 seem to have been spoken in heaven, without a human audience. Here God speaks directly to a man and discloses his intention. This is itself an act of mercy. “Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets” (Amos 3:7). God does not strike without warning. He takes Noah into his confidence, as he would later take Abraham before judging Sodom (Genesis 18:17), and through Noah the warning would reach the world.\n\n“The end of all flesh is come before me.” The word “end” belongs to the vocabulary of prophetic judgment. Amos hears, “The end is come upon my people” (Amos 8:2), and Ezekiel announces, “An end, the end is come upon the four corners of the land” (Ezekiel 7:2). Noah received what amounts to the first prophecy of a world-ending judgment. The phrase “before me” suggests that the case had come into God’s presence for decision.\n\n“For the earth is filled with violence through them” repeats the charge of verse 11, now in God’s own voice. “And, behold, I will destroy them with the earth.” The verb “destroy” is the same as “corrupt” in verses 11 and 12. Those who ruined the earth would be ruined with it. The punishment mirrors the sin, and in a real sense the race was already destroying itself before God’s sentence fell. The phrase “with the earth” does not mean the planet would be annihilated, but that its surface, the scene of human wickedness, would share in the desolation.\n\nJesus and the apostles saw in this verse a pattern for the end of the present age. As the flood came on a heedless generation, so the coming of the Son of man will come upon a world absorbed in its own pursuits (Matthew 24:37–39). Peter adds that the world that “then was, being overflowed with water, perished,” while the present heavens and earth are “reserved unto fire against the day of judgment and perdition of ungodly men” (2 Peter 3:6–7). Judgment will be final, and those who reject God will be destroyed; but as in Noah’s day, the warning comes first, and the way of escape is offered to all.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "קֵץ (qets) — end",
+          "explanation": "Qets marks the termination or limit of something. In prophetic texts it often denotes the decisive end brought by divine judgment, and in Daniel it becomes a key term for “the time of the end.” Its use here frames the flood as the first great end of an age.",
+          "scriptureReferences": [
+            "Amos 8:2",
+            "Daniel 8:17",
+            "Daniel 12:4"
+          ]
+        },
+        {
+          "term": "מַשְׁחִיתָם (mashchitam) — I will destroy them",
+          "explanation": "This participle comes from the same verb translated “corrupt” in verses 11–12. The wordplay can be captured as: they had ruined the earth, so God would ruin them with it. Divine judgment confirms the direction sinners have chosen and brings it to its end.",
+          "scriptureReferences": [
+            "Jeremiah 18:4",
+            "Revelation 11:18"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:14",
+      "bibleText": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Exodus 2:3",
+        "Exodus 25:9",
+        "Hebrews 11:7",
+        "1 Peter 3:20"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Judgment is announced, and in the same breath God provides a way of escape. “Make thee an ark” is the only command in this first divine speech; everything that follows through verse 21 explains it. The plan of rescue did not come from Noah’s ingenuity. God designed the vessel himself, much as he would later give Moses the exact pattern of the tabernacle (Exodus 25:9). The means of salvation is always of God’s devising.\n\nThe Hebrew word for ark, tevah, occurs only in the flood story and in Exodus 2:3, 5, where it names the basket in which the infant Moses was placed on the Nile. In both cases a tevah, sealed against water, carried a chosen life through death-dealing waters so that God’s purpose could go forward. The word is probably borrowed from Egyptian and denotes a chest or box rather than a ship with sails or rudder. The ark was made to float, not to be steered; its course was in God’s hands.\n\n“Gopher wood” appears only here, and the tree cannot be identified with certainty. Its pairing with pitch suggests a resinous timber such as cypress, prized in the ancient world for shipbuilding because it resists rot. The “rooms” are literally “nests,” compartments suited to housing many kinds of creatures. The whole structure was to be sealed “within and without with pitch,” a bitumen-like coating long used for waterproofing in the ancient Near East.\n\nPeter later draws on this scene: “while the ark was a preparing … few, that is, eight souls were saved by water” (1 Peter 3:20). The ark stands as a picture of the salvation God provides. Those inside were safe because they had entered the refuge God himself had designed; their own strength had nothing to do with it.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "תֵּבָה (tevah) — ark",
+          "explanation": "This word is distinct from ’aron, used for the ark of the covenant. Outside the flood narrative it appears only for Moses’ papyrus basket. The shared term links two rescues through water: the preservation of humanity through Noah and the preservation of Israel’s deliverer through Moses.",
+          "scriptureReferences": [
+            "Exodus 2:5",
+            "Exodus 25:10"
+          ]
+        },
+        {
+          "term": "וְכָפַרְתָּ … בַּכֹּפֶר (vekhafarta … bakkofer) — and shalt pitch it … with pitch",
+          "explanation": "Both the verb and noun come from the consonants k-p-r, meaning here to coat or smear. The same consonants form the later verb for making atonement, but sharing letters does not make the words share a meaning, and this verse speaks of caulking, not sacrifice. Any connection with atonement must be drawn from Scripture’s larger story, not from the letters alone.",
+          "scriptureReferences": [
+            "Exodus 2:3",
+            "Leviticus 17:11"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:15",
+      "bibleText": "And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Exodus 25:10",
+        "Deuteronomy 3:11",
+        "Hebrews 8:5",
+        "Hebrews 11:7"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And this is the fashion which thou shalt make it of.” God gave Noah exact measurements, and the precision itself speaks of a real vessel built in real history. The ark was to be three hundred cubits long, fifty cubits wide, and thirty cubits high. A cubit was roughly the length of a forearm from elbow to fingertip. Using the common measure of about eighteen inches, the ark would have been about 450 feet long, 75 feet wide, and 45 feet high; with a longer cubit of nearly twenty-one inches, it would have measured over 500 feet. Either way, it was enormous, far larger than any known ship of the ancient world.\n\nThe proportions are as striking as the size. A length six times the breadth and ten times the height gives remarkable stability in water, ratios that modern shipbuilders recognize as sound for a vessel meant to ride heavy seas. By contrast, the Babylonian flood story describes a perfect cube, a shape that would roll helplessly. Genesis describes a practical, seaworthy vessel with ample space for its passengers and for supplies to last more than a year.\n\nNoah had no experience in building such a craft, and Scripture gives no hint that he had help beyond his family. Every beam would have been cut, shaped, and fitted by hand over many years. The size of the ark made it a visible sermon to his generation. Each day of construction declared that God’s word about the coming flood was true and that a refuge was being prepared. Hebrews summarizes it: Noah “prepared an ark to the saving of his house; by the which he condemned the world” (Hebrews 11:7).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אַמָּה (ammah) — cubit",
+          "explanation": "The standard Old Testament measure of length, based on the forearm. Its exact length varied; the ordinary cubit was about 18 inches (45 cm), while a longer royal cubit is also attested. Deuteronomy mentions Og’s bed measured “after the cubit of a man,” showing that the unit was understood in human terms. The ark’s dimensions are given in the same pattern of length, breadth, and height later used for the tabernacle furnishings.",
+          "scriptureReferences": [
+            "Deuteronomy 3:11",
+            "Exodus 25:10",
+            "Ezekiel 40:5"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:16",
+      "bibleText": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 7:16",
+        "Genesis 8:6",
+        "John 10:9",
+        "Luke 13:24-25"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Three further features complete the design: a window or roof, a door, and three decks. The word rendered “window” is rare and may mean either a light opening or a roof. The instruction “in a cubit shalt thou finish it above” likely describes an opening running around the top of the ark, a cubit below the roofline, admitting light and air while sheltering the interior from rain. Whatever the precise form, light came from above. The regular word for window appears later when Noah opens it to release the raven (Genesis 8:6).\n\n“The door of the ark shalt thou set in the side thereof.” The ark had one door. Every person and every animal saved would enter by it. When the time came, it was the LORD himself who “shut him in” (Genesis 7:16), and no one outside could open it again. The door stood open for many years while Noah preached, and then it closed.\n\n“With lower, second, and third stories shalt thou make it.” Three decks multiplied the usable space, providing room for animals, food, and the family. The Bible says nothing of a rudder, sail, or oar; the ark’s safety depended entirely on God.\n\nThe single door invites reflection without needing to be forced into allegory. Jesus said, “I am the door: by me if any man enter in, he shall be saved” (John 10:9). As Noah’s ark had one entrance, so there is one way into God’s salvation. And as the ark’s door was eventually shut, Jesus warned of a day when the door would be closed and those outside would knock in vain (Luke 13:25).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "צֹהַר (tsohar) — window",
+          "explanation": "This word appears only here in the Old Testament. Some connect it with tsohorayim, “noon,” suggesting an opening for daylight; others render it “roof.” The two meanings may overlap if the roof included a light-admitting gap. Either way, the ark’s light came from above.",
+          "scriptureReferences": [
+            "Genesis 8:6",
+            "Genesis 8:13"
+          ]
+        },
+        {
+          "term": "פֶּתַח (petach) — door",
+          "explanation": "The ordinary word for an entrance or opening. Its single mention in the ark’s design points ahead to the moment when God closes it. In Scripture an open door often represents opportunity that will not last forever.",
+          "scriptureReferences": [
+            "Genesis 7:16",
+            "Revelation 3:8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:17",
+      "bibleText": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 7:19-23",
+        "Psalm 29:10",
+        "Psalm 104:29",
+        "Ecclesiastes 12:7",
+        "2 Peter 3:6"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And, behold, I, even I, do bring a flood of waters upon the earth.” The pronoun “I” is doubled for emphasis. The flood would not be a natural disaster that God merely permitted, nor the act of rival powers. It was a deliberate act of the Creator, the same God who had made the earth and separated its waters at creation (Genesis 1:6–10). In the Babylonian accounts, the gods quarrel about the flood, and one of them must secretly warn the hero. In Genesis there is one God, and both the judgment and the rescue come from him.\n\nThe word for flood, mabbul, is used in Scripture only for this event, apart from Psalm 29:10, where “the LORD sitteth upon the flood.” It is a technical term for the great deluge. This verse is the first time the means of judgment is named. The waters held back since the second day of creation would return to cover the earth, undoing the order God had established.\n\nThe scope of the judgment is stated in the broadest terms available: “to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die.” The language is universal, and the narrative confirms it when the waters cover “all the high hills, that were under the whole heaven” (Genesis 7:19). The flood was a historical, worldwide judgment, not a regional event described in exaggerated language. Peter treats it as a real global catastrophe when he says, “the world that then was, being overflowed with water, perished” (2 Peter 3:6), and Jesus spoke of the flood that “took them all away” (Matthew 24:39).\n\n“Breath of life” describes what humans and animals share: the life given by God. When that breath is taken away, the creature dies (Psalm 104:29). The verse speaks of death as the ceasing of life, the breath returning to God who gave it and the body to the dust (Ecclesiastes 12:7). It does not describe the release of an immortal soul. Death is the real consequence of sin, as God had warned in Eden (Genesis 2:17), and the flood demonstrated its reality on a global scale.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "מַבּוּל (mabbul) — flood",
+          "explanation": "A term reserved almost exclusively for the Noachic deluge. Its use with the definite article in the flood narrative marks it as “the” flood, a unique event. Psalm 29:10 portrays the LORD enthroned above it as sovereign King, in contrast to ancient myths in which the gods themselves fled the waters in fear.",
+          "scriptureReferences": [
+            "Genesis 9:11",
+            "Psalm 29:10"
+          ]
+        },
+        {
+          "term": "רוּחַ חַיִּים (ruach chayyim) — breath of life",
+          "explanation": "Ruach means breath, wind, or spirit; here it is the life principle God gives to living creatures. Genesis applies the phrase to animals and humans alike. Life belongs to God, and death occurs when he withdraws the breath he gave.",
+          "scriptureReferences": [
+            "Genesis 7:15",
+            "Genesis 7:22",
+            "Job 34:14-15"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:18",
+      "bibleText": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons' wives with thee.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 9:9-11",
+        "Genesis 17:7",
+        "Acts 16:31",
+        "Hebrews 11:7",
+        "Hebrews 13:20"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“But with thee will I establish my covenant.” Here the word covenant appears for the first time in the Bible, and it comes at the darkest moment yet. Before the flood is unleashed, God binds himself to Noah by solemn commitment. The judgment and the covenant are announced together; the world will perish, but Noah will be kept.\n\nThe verb “establish” often means to confirm or uphold a commitment already in place. Noah had already found grace (v. 8) and walked with God (v. 9). The covenant formalizes and guarantees that relationship in the face of coming catastrophe. It is God’s covenant, “my covenant,” initiated, defined, and secured by him. Noah does not negotiate terms; he receives a promise. The fuller covenant after the flood (Genesis 9:8–17) will extend this pledge to every living creature.\n\nThis pattern of grace before judgment has appeared before. God clothed Adam and Eve before sending them from the garden (Genesis 3:21), and he set a mark on Cain before Cain went out from his presence (Genesis 4:15). Here he promises rescue before the rain begins. God’s mercy always moves first.\n\n“Thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee.” Salvation extends to the household. If this word first came at the start of the one hundred and twenty years, Noah’s sons may not yet have been born (Genesis 5:32), so the promise reached into a future Noah could not yet see. Hebrews says he built the ark “to the saving of his house” (Hebrews 11:7). Each family member still needed to enter the ark personally, but Noah’s faith opened the way for them. In Christ, God’s covenant is likewise offered to believers and to their households (Acts 16:31), sealed not by a vessel of wood but by the blood of the new covenant (Hebrews 13:20).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וַהֲקִמֹתִי אֶת־בְּרִיתִי (vahaqimoti et-beriti) — I will establish my covenant",
+          "explanation": "Berit denotes a binding commitment that defines a relationship, here initiated entirely by God. The verb heqim, “cause to stand,” is used for confirming or fulfilling a promise rather than inventing a new arrangement. The possessive “my covenant” stresses that God authors the pledge and guarantees its fulfillment.",
+          "scriptureReferences": [
+            "Genesis 9:9",
+            "Genesis 17:19",
+            "Leviticus 26:9"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:19",
+      "bibleText": "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 1:27",
+        "Genesis 7:2-3",
+        "Psalm 36:6",
+        "Jonah 4:11"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "God’s rescue extends beyond the human family. “Of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee.” The same “all flesh” that faced destruction in verse 17 is now offered preservation. The Creator who made the animals cares for their survival as well; the psalmist could say, “O LORD, thou preservest man and beast” (Psalm 36:6).\n\n“They shall be male and female” echoes the creation of humanity (Genesis 1:27) and reflects the purpose of the instruction. A pair of each kind was the minimum needed for life to begin again after the waters receded. The next chapter adds detail: of clean animals Noah was to take seven, and of unclean, two (Genesis 7:2). This is a clarification, not a contradiction. The present command establishes the basic provision for survival; the later one adds extra clean animals, needed for sacrifice and for food after the flood. That Noah already knew which animals were clean shows that the distinction was understood long before it was written into the law at Sinai.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "לְהַחֲיֹת (lehachayot) — to keep them alive",
+          "explanation": "This causative form of the verb “to live” means to preserve life or let live. The ark’s purpose was life-giving: keeping creatures alive through death. Joseph later uses the same verb when he says God sent him ahead “to preserve life.”",
+          "scriptureReferences": [
+            "Genesis 45:5",
+            "Genesis 50:20"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:20",
+      "bibleText": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 1:24-25",
+        "Genesis 2:19",
+        "Genesis 7:8-9",
+        "Genesis 7:14-15"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The list of creatures, “fowls after their kind, … cattle after their kind, … every creeping thing of the earth after his kind,” deliberately repeats the language of Genesis 1, where God made each creature “after his kind” (Genesis 1:21, 24–25). The God who created the kinds now preserves them. The flood would not erase the variety of life he had brought into being.\n\n“Two of every sort shall come unto thee.” Noah was not told to hunt down and capture every animal. The animals would come to him. As God once brought the creatures to Adam to be named (Genesis 2:19), he would now bring them to Noah to be saved. Their arrival would be a sign of God’s hand in the whole undertaking (Genesis 7:8–9, 15). The biblical “kind” is a broad category of created life, not identical to the modern notion of species, and it fits easily within a vessel of the ark’s size.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "לְמִינֵהוּ (leminehu) — after his kind",
+          "explanation": "Min refers to a type or category of living thing. Its repeated use in creation and here in the flood narrative stresses order and continuity in the living world. Leviticus uses the same term in listing clean and unclean creatures.",
+          "scriptureReferences": [
+            "Genesis 1:12",
+            "Leviticus 11:14-16"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:21",
+      "bibleText": "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 1:29-30",
+        "Genesis 9:3",
+        "Genesis 41:35",
+        "Proverbs 6:6-8"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And take thou unto thee of all food that is eaten, and thou shalt gather it to thee.” Salvation from the flood involved ordinary, practical labor. Noah had to gather and store enough food for his family and for every animal for more than a year. He was to be a farmer and provider as well as a builder and preacher.\n\nThe phrase “for food” echoes Genesis 1:29–30, where God gave plants as food for humans and animals. Before the flood, the diet was still drawn from the plant world; permission to eat animal flesh would come only after the flood (Genesis 9:3). The careful provision anticipates Joseph, who would gather and store grain to sustain life through a long famine (Genesis 41:35). Faith in God’s promise does not excuse diligence. It expresses itself in thoughtful preparation.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "לְאָכְלָה (le’okhlah) — for food",
+          "explanation": "This phrase appears in God’s original gift of plants as food. Its return here links the ark to the created order: God continues to provide sustenance even in the midst of judgment.",
+          "scriptureReferences": [
+            "Genesis 1:29",
+            "Genesis 1:30"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 6:22",
+      "bibleText": "Thus did Noah; according to all that God commanded him, so did he.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 7:5",
+        "Exodus 40:16",
+        "Matthew 7:24-25",
+        "Hebrews 11:7",
+        "James 2:22"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“Thus did Noah; according to all that God commanded him, so did he.” A single sentence covers years of work: felling trees, shaping beams, sealing the hull, gathering food, and preaching to a generation that refused to listen. The Babylonian story dwells on its hero’s labor and ingenuity. Genesis compresses it all into one statement of obedience, because obedience is what the narrative wants us to see.\n\nThe verse repeats itself for emphasis: Noah did; according to all; so did he. His obedience was complete. He did not adapt the plan to suit his own ideas or stop halfway. The same formula appears again before the flood (Genesis 7:5) and is later used of Moses and Israel as they finished building the tabernacle exactly as the LORD had commanded (Exodus 39:42–43; 40:16). Faithful obedience to God’s instructions marks both the vessel that saved life through the flood and the sanctuary where God would dwell with his people.\n\nNoah speaks no words in this chapter. His faith is seen in what he does. Hebrews says he was “moved with fear” and “prepared an ark” because he believed God’s warning about “things not seen as yet” (Hebrews 11:7). There had never been a flood, yet he built as though the waters were already rising. James teaches that faith is made complete by works (James 2:22), and Noah’s life shows that principle.\n\nThis obedience did not earn grace; grace came first (v. 8). What it did was demonstrate the reality of Noah’s faith. Jesus told of the wise man who heard his words and did them, building on rock, so that when the floods came his house stood (Matthew 7:24–25). Noah is the original wise builder. Behind him stands the Son who did always what pleased the Father (John 8:29), whose perfect obedience became the ground of salvation for all who trust him.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "כְּכֹל אֲשֶׁר צִוָּה (kekhol asher tsivvah) — according to all that commanded",
+          "explanation": "The verb tsavah, “to command,” is the root of mitsvah, “commandment.” The formula “according to all that the LORD commanded” becomes a refrain of faithful obedience in the Pentateuch, especially in the account of the tabernacle’s construction. Its first use here makes Noah a model of wholehearted compliance with God’s word.",
+          "scriptureReferences": [
+            "Genesis 7:5",
+            "Exodus 39:42",
+            "Deuteronomy 5:32"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    }
+  ],
+  "symbols": [],
+  "charts": [],
+  "images": [],
+  "crossReferences": [
+    "Matthew 24:37-39",
+    "Luke 17:26-27",
+    "Hebrews 11:7",
+    "1 Peter 3:18-20",
+    "2 Peter 2:5",
+    "2 Peter 3:5-7"
+  ],
+  "relatedConnections": [
+    {
+      "sourceText": "Genesis 6:3",
+      "relatedText": "1 Peter 3:18-20",
+      "sources": []
+    },
+    {
+      "sourceText": "Genesis 6:8-9",
+      "relatedText": "Hebrews 11:7",
+      "sources": []
+    },
+    {
+      "sourceText": "Genesis 6:11-13",
+      "relatedText": "Matthew 24:37-39",
+      "sources": []
+    }
+  ],
+  "teachingNotes": {
+    "openingQuestion": "How can a culture be full of talent, energy, and achievement and still be described by God as corrupt?",
+    "mainPoint": "When humanity gives itself wholly to evil, God grieves and judges, yet before the judgment falls he extends grace, gives warning, and provides a way of escape that is entered by faith and obedience.",
+    "keyVerses": [
+      "Genesis 6:3",
+      "Genesis 6:5",
+      "Genesis 6:8",
+      "Genesis 6:22"
+    ],
+    "importantTerms": [
+      "sons of God",
+      "strive",
+      "imagination of the heart",
+      "repented",
+      "grace",
+      "covenant"
+    ],
+    "discussionQuestions": [
+      "What does the pattern of seeing, desiring, and taking in verse 2 reveal about how compromise begins?",
+      "Why does the Spirit’s pleading have a limit, and what does that teach about the seriousness of probation?",
+      "How can God “repent” and “grieve” without being changeable or caught off guard?",
+      "Why does the text mention Noah’s finding grace before it describes his righteousness?",
+      "What does Noah’s silent, thorough obedience teach about living faith?"
+    ],
+    "commonMisunderstandings": [
+      "The “sons of God” are best read as the worshiping line of Seth, not angels producing hybrid children; Jesus taught that angels do not marry, and the judgment falls on humanity.",
+      "The one hundred and twenty years announce a period of grace before the flood rather than a new cap on human life span.",
+      "Noah was not saved because he was sinless; he found grace and lived by faith.",
+      "Christ’s comparison with “the days of Noah” warns of sudden judgment but gives no formula for calculating the date of his return."
+    ],
+    "emphasis": "Hold God’s holiness and tenderness together: the same chapter that announces a worldwide judgment shows God grieving, warning, waiting, and making a covenant of rescue.",
+    "closingAppeal": "While the Spirit still pleads and the door of mercy stands open, receive God’s grace, walk with him as Noah did, and let faith show itself in obedience to all that he commands."
+  },
+  "evangelisticNotes": {
+    "mainDoctrinalTheme": "God judges sin in real history, yet he warns before he acts and provides a way of salvation that is received by faith, as Noah received grace and entered the ark.",
+    "keyBibleTexts": [
+      "Genesis 6:5-8",
+      "Hebrews 11:7",
+      "Matthew 24:37-39",
+      "2 Peter 3:9"
+    ],
+    "flow": [
+      "Sin had spread until every imagination of the human heart was only evil continually.",
+      "God grieved over this ruin and announced that his Spirit would not always strive with humanity.",
+      "Before the judgment fell, Noah found grace and was told how to build the ark.",
+      "Noah believed God’s warning, obeyed fully, and was saved with his household.",
+      "Christ says the last days will resemble Noah’s days, so the call is to accept his grace while probation lasts."
+    ],
+    "simpleIllustrations": [
+      "A storm warning issued days in advance is an act of kindness; the people who perish are those who hear it and keep living as if the sky will always be clear.",
+      "A lifeboat does not save anyone who admires it from the deck; safety comes from getting in."
+    ],
+    "appealQuestion": "Will you respond to the Spirit’s pleading today and enter the safety God has provided in Christ?",
+    "cautions": [
+      "Do not use the one hundred and twenty years or the days of Noah to set dates for Christ’s return.",
+      "Do not present Noah as earning salvation by his goodness; grace came first, and his obedience was the fruit of faith.",
+      "Do not describe God’s grief in ways that suggest he lacked foresight or changed his character."
+    ],
+    "sources": []
+  },
+  "reflectionQuestions": [
+    "Where am I tempted to choose relationships or goals by what pleases the eye rather than by what honors God?",
+    "Is the Spirit pressing on my conscience about something I keep postponing?",
+    "What would it mean for me to walk with God faithfully when most people around me do not?",
+    "How does knowing that my sin grieves God’s heart change the way I think about it?",
+    "Is there any instruction from God that I have obeyed only in part?"
+  ],
+  "sources": []
+}

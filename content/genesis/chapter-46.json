@@ -1,0 +1,1892 @@
+{
+  "chapterNumber": 46,
+  "title": "Jacob Goes Down into Egypt",
+  "summary": "God assures Jacob at Beer-sheba, seventy members of his house enter Egypt, and Joseph meets his father in Goshen.",
+  "historicalContext": "Jacob was 130 years old (47:9) and the famine had entered its second year (45:6) when the household left Hebron for Egypt. Joseph, now about thirty-nine, had governed Egypt for nine years. The family settled in Goshen, the pasture country of the eastern Nile Delta near the frontier road to Sinai and Canaan. Egyptian texts and tomb paintings show that herding peoples from Canaan and the Sinai regularly came down into the Delta in hard years, bringing donkeys, children, weapons, and flocks, and that border officials allowed some of them to water their animals there. To settled Egyptians such outsiders were strangers of low standing, and the herdsman’s trade carried a stigma among the farming and priestly classes of the Nile valley. The move fulfilled what God had told Abraham: his seed would be strangers in a land not theirs before returning to Canaan (15:13-16).",
+  "literaryContext": "Chapter 46 opens the last movement of Genesis, the settlement of Israel in Egypt (46:1–47:27). The command to bring Jacob down (45:9-13) and his decision to go (45:28) lead to a final theophany at Beer-sheba, the only direct word from God in the Joseph story and the last recorded to a patriarch until the burning bush. The roll of names (vv. 8-27) pauses the narrative to count the household by its four mothers, Leah, Zilpah, Rachel, and Bilhah, reaching seventy, the same number as the nations of chapter 10. Exodus begins by repeating the heading “these are the names” and the total of seventy (Exodus 1:1-5), so this list is the hinge between the two books. The reunion of Jacob and Joseph (vv. 29-30) resolves the grief that began in 37:35, while Joseph’s counsel about shepherds (vv. 31-34) prepares for the audience with Pharaoh in 47:1-10.",
+  "themes": [
+    "God’s presence going with his people beyond the land",
+    "Fear answered by promise at the border",
+    "A family becoming a nation in Egypt",
+    "Seventy souls as the whole house of Israel",
+    "Grief turned to joy in the reunion of father and son",
+    "Separation preserved through an honest calling"
+  ],
+  "outline": [
+    {
+      "range": "46:1-7",
+      "title": "God’s Word at Beer-sheba and the Departure",
+      "summary": "Jacob sacrifices at Beer-sheba, God tells him not to fear the descent into Egypt and promises to go with him and bring him up, and the whole household sets out in Pharaoh’s wagons."
+    },
+    {
+      "range": "46:8-15",
+      "title": "The Sons of Leah",
+      "summary": "Leah’s six sons, their sons, Pharez’s two sons, and Dinah are named, thirty-three persons in all."
+    },
+    {
+      "range": "46:16-25",
+      "title": "The Sons of Zilpah, Rachel, and Bilhah",
+      "summary": "The households of Gad and Asher, of Joseph and Benjamin, and of Dan and Naphtali are listed with their totals of sixteen, fourteen, and seven."
+    },
+    {
+      "range": "46:26-27",
+      "title": "Threescore and Ten",
+      "summary": "Sixty-six direct descendants travel with Jacob, and with Jacob, Joseph, and Joseph’s two sons the house of Jacob in Egypt numbers seventy."
+    },
+    {
+      "range": "46:28-34",
+      "title": "Reunion in Goshen and Counsel for Pharaoh",
+      "summary": "Judah leads the way to Goshen, Joseph weeps on his father’s neck, and Joseph prepares his brothers to tell Pharaoh honestly that they are keepers of livestock."
+    }
+  ],
+  "verses": [
+    {
+      "verse": "Genesis 46:1",
+      "bibleText": "And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 21:33",
+        "Genesis 26:2",
+        "Genesis 26:23-25",
+        "Genesis 28:10",
+        "Judges 20:1"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Israel took his journey with all that he had.” The narrator uses the covenant name as the household moves, for the old man leaving Canaan is the father of a people. The journey most likely began at Hebron, where Jacob had lived since returning to his father (35:27; 37:14), and ran south some twenty-five miles to Beer-sheba. The same verb of breaking camp marked Abram’s first wanderings in the land (12:9), and like Abram, Jacob is now heading toward Egypt in a famine.\n\nBeer-sheba stood at the southern edge of settled Canaan, so that later Israel spoke of the whole country as stretching “from Dan even to Beer-sheba” (Judges 20:1). It was a place of family worship. Abraham planted a tamarisk there and called on the name of the LORD (21:33), and Isaac built an altar there after God appeared to him by night (26:23-25). From this spot Jacob had fled to Haran decades earlier (28:10). His journeys out of the land begin and end at the same threshold.\n\nThe word for “sacrifices” describes offerings in which the worshipper shared a meal before God, the kind Jacob offered when he made peace with Laban (31:54). Gratitude for Joseph’s life was surely part of it. Yet Jacob also had reason to pause. Abraham’s descent into Egypt had ended in shame (12:10-20), and God had told Isaac, in a famine like this one, “Go not down into Egypt” (26:2). Jacob had resolved to go out of a father’s longing (45:28). Before he crossed the border he brought that resolve to “the God of his father Isaac,” the God who had once kept Isaac in the land.\n\nThe order is instructive. Jacob did not wait to be certain before setting out, yet he would not leave the land of promise without asking the One who gave it. A believer who has made a decision still does well to stop at the altar and place the plan in God’s hands.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "זְבָחִים (zevachim) — sacrifices",
+          "explanation": "The noun comes from the verb zavach, “to slaughter for sacrifice,” and usually denotes an offering in which part of the animal was eaten by the worshippers in fellowship with God. Genesis uses the verb only here and at Jacob’s covenant meal with Laban. Under the later law the same word names the peace offering, a sacrifice of thanksgiving and communion.",
+          "scriptureReferences": [
+            "Genesis 31:54",
+            "Leviticus 7:11-15"
+          ]
+        },
+        {
+          "term": "בְּאֵר שָׁבַע (Beʾer Shavaʿ) — Beer-sheba",
+          "explanation": "The name means “well of the oath” or “well of seven,” recalling the seven ewe lambs Abraham gave Abimelech when they swore an oath over the well. Isaac renewed the name when his servants dug again in the same place. The site marked the southern limit of Israel’s land.",
+          "scriptureReferences": [
+            "Genesis 21:31",
+            "Genesis 26:33",
+            "1 Kings 4:25"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:2",
+      "bibleText": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 22:11",
+        "Genesis 28:12-13",
+        "Exodus 3:4",
+        "1 Samuel 3:10"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And God spake unto Israel in the visions of the night.” This is the only time in the Joseph narrative that God speaks directly to anyone, and it is the last recorded revelation to a patriarch in Genesis. The next time God calls a man by name out of the silence, he will say “Moses, Moses” from the burning bush (Exodus 3:4), when the family that goes down here is ready to be brought up. The plural “visions” may simply mark the experience as a weighty one; earlier revelations to Jacob had come in a dream (28:12) and in the night (31:11).\n\nThe doubled name, “Jacob, Jacob,” carries urgency and tenderness, as when the Angel of the LORD stopped Abraham’s hand on Moriah with “Abraham, Abraham” (22:11). The narrator has just called him Israel, yet God addresses him by his birth name. The old name recalls the man who once deceived his father and who had himself been deceived by his sons for some twenty-two years. God meets him as he is, frail and anxious, without withdrawing the new name given at Peniel.\n\nJacob’s reply, “Here am I,” is the answer of a servant ready to hear. Abraham said it at Moriah (22:1), Moses at the bush, and Samuel in the temple at night (1 Samuel 3:4). The patriarch who had wrestled with God for a blessing now simply listens. Elsewhere in these chapters God works unseen, through dreams, famine, and the choices of guilty brothers, so that Joseph could say only in hindsight, “it was not you that sent me hither, but God” (45:8). Here, at the border, the hidden hand becomes an audible voice.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בְּמַרְאֹת הַלַּיְלָה (bemarʾot hallaylah) — in the visions of the night",
+          "explanation": "Marʾah, from the verb “to see,” denotes a vision granted by God rather than an ordinary dream. The plural may express intensity, though the ancient versions read a singular. The same expression describes revelations to Daniel, and Job’s friend speaks of God instructing people “in a vision of the night.”",
+          "scriptureReferences": [
+            "Daniel 7:2",
+            "Job 33:15",
+            "Numbers 12:6"
+          ]
+        },
+        {
+          "term": "הִנֵּנִי (hinneni) — Here am I",
+          "explanation": "Literally “behold me,” the word signals attentive readiness to respond to a call. It is Abraham’s answer when God tests him and Isaiah’s when he volunteers for God’s errand. On Jacob’s lips it shows a man submitting his journey to God’s direction.",
+          "scriptureReferences": [
+            "Genesis 22:1",
+            "Isaiah 6:8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:3",
+      "bibleText": "And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 12:2",
+        "Genesis 15:13-14",
+        "Genesis 26:24",
+        "Exodus 1:7",
+        "Deuteronomy 26:5"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“I am God, the God of thy father.” The self-introduction ties this night to Isaac’s experience at the same place, when the LORD said, “I am the God of Abraham thy father: fear not, for I am with thee” (26:24). Jacob had sacrificed to the God of Isaac, and that God now answers in his own person. The Hebrew uses the short title “the God” (haʾEl), naming the One whose authority is not confined to a territory. The God of a family in Canaan is Lord in Egypt as well.\n\n“Fear not to go down into Egypt” shows that Jacob had been afraid. His fear had grounds. Besides the warnings in Abraham’s and Isaac’s stories, God had told Abraham in a night of deep darkness that his seed would be “a stranger in a land that is not theirs,” serving and afflicted for four hundred years (15:13). Going down to Egypt could mean walking into that foretold affliction. The command does not deny the hardship ahead. It removes the fear by assuring Jacob that the descent lies within God’s plan.\n\nThe reason follows: “for I will there make of thee a great nation.” The words repeat the first promise to Abram (12:2), but the setting is new. Egypt, not Canaan, would be the place of multiplication. Exodus opens by reporting the fulfilment: “the children of Israel were fruitful, and increased abundantly, and multiplied” (Exodus 1:7). Israel’s later confession at the harvest festival recalled the same history: “he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous” (Deuteronomy 26:5).\n\nThere was wisdom in the place. In Canaan the sons of Jacob were already intermarrying with the inhabitants (38:2; 46:10), and the family risked dissolving into the peoples around it. In Goshen they would live apart, kept separate by the Egyptians’ own disdain for shepherds (v. 34), and grow into a people with a distinct identity. God often forms his people in places they would not have chosen, and the believer who must go where God leads can rest on the same word: he plans the multiplication as well as the journey.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אַל־תִּירָא (ʾal-tiraʾ) — fear not",
+          "explanation": "The negative command is spoken to each patriarch in turn: to Abram after his battle, to Isaac at Beer-sheba, and now to Jacob. It addresses a real fear and grounds courage in God’s presence and promise. The same words open many later assurances to Israel, and the angel used them in announcing the Saviour’s birth.",
+          "scriptureReferences": [
+            "Genesis 15:1",
+            "Isaiah 41:10",
+            "Luke 2:10"
+          ]
+        },
+        {
+          "term": "לְגוֹי גָּדוֹל (legoy gadol) — a great nation",
+          "explanation": "Goy denotes a people with its own identity, land, and government. The phrase recurs in the promises to Abraham and anticipates the moment when Moses would speak of Israel as a nation brought out from the midst of another nation. Stephen recalled that the people “grew and multiplied in Egypt” as the time of the promise drew near.",
+          "scriptureReferences": [
+            "Genesis 18:18",
+            "Deuteronomy 4:34",
+            "Acts 7:17"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:4",
+      "bibleText": "I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 28:15",
+        "Genesis 50:1",
+        "Genesis 50:13",
+        "Exodus 3:8",
+        "Matthew 2:15"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“I will go down with thee into Egypt.” The pronoun is emphatic: I myself. Jacob had heard almost the same pledge when he first left the land as a fugitive: “I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land” (28:15). God had kept that word through twenty years in Haran (31:3, 42). Now, at the end of his life, Jacob receives it again for a longer exile. The presence of God was never bound to the soil of Canaan; it travelled with the family of promise.\n\n“And I will also surely bring thee up again.” The Hebrew doubles the verb for emphasis, “bringing up, I will bring up.” The “thee” is singular, yet it includes both the man and the people descended from him. Jacob himself returned to Canaan only in death, carried by his sons to the cave of Machpelah (50:13). The full answer came some two centuries later, when God told Moses, “I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land” (Exodus 3:8). The verbs of this night, going down and bringing up, are the verbs of the exodus.\n\nThe promise ends on a personal note: “Joseph shall put his hand upon thine eyes.” Closing the eyes of the dead was the last service of the nearest son. Jacob had expected to go down to the grave mourning for Joseph (37:35); instead he would die with Joseph beside him, and so he did (49:33–50:1). Scripture often speaks of death as sleep (Daniel 12:2), and the picture of a son gently closing his father’s eyes fits that hope of rest until God raises the dead. The words to Jacob about being brought up again find their final horizon there.\n\nThe pattern reaches Christ. Matthew applies Hosea’s words, “Out of Egypt have I called my son,” to the child Jesus, who went down into Egypt and was brought up again (Matthew 2:15). The true Israel retraced the path of his people, and he carries the same promise to his followers: “lo, I am with you alway, even unto the end of the world” (Matthew 28:20).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אָנֹכִי אֵרֵד עִמְּךָ (ʾanokhi ʾered ʿimmekha) — I will go down with thee",
+          "explanation": "The independent pronoun ʾanokhi is placed first for emphasis, so the sense is “I, even I, will go down with you.” The phrase “with thee” is the heart of God’s covenant reassurance throughout Genesis, spoken to Isaac and to Jacob, and later expanded into the name Immanuel, “God with us.”",
+          "scriptureReferences": [
+            "Genesis 26:3",
+            "Genesis 31:3",
+            "Matthew 1:23"
+          ]
+        },
+        {
+          "term": "וְאָנֹכִי אַעַלְךָ גַם־עָלֹה (veʾanokhi ʾaʿalkha gam-ʿaloh) — and I will also surely bring thee up again",
+          "explanation": "The infinitive absolute ʿaloh strengthens the finite verb, expressing certainty. The verb ʿalah, “to go up,” is the standard term for leaving Egypt for Canaan, and Joseph later uses the same construction when he promises that God will surely visit his brothers and bring them up out of the land.",
+          "scriptureReferences": [
+            "Genesis 50:24",
+            "Exodus 3:17"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:5",
+      "bibleText": "And Jacob rose up from Beer-sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 45:19",
+        "Genesis 45:27",
+        "Genesis 43:8",
+        "Exodus 10:9-10"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Jacob rose up from Beer-sheba.” Strengthened by the night’s word, the patriarch moves without further delay. The verse plays on his two names. The one who rises is “Jacob,” an old man of 130 years (47:9); those who carry him are “the sons of Israel,” a phrase that will soon mean the nation (v. 8). The frail father is borne along by the sons whose future he embodies, and the promise rests on God’s grace rather than the strength of its bearer.\n\nThe travellers rode in “the wagons which Pharaoh had sent to carry him” (45:19, 21). Those wagons had been the sight that finally convinced Jacob that Joseph lived: “when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived” (45:27). Carts were not common in Canaan’s hill country, and the Egyptian vehicles were visible proof of Joseph’s standing and Pharaoh’s goodwill.\n\nThe passengers were the old man, “their little ones, and their wives,” the very people Judah had feared would starve if the brothers did not return to Egypt for grain (43:8). An irony waits in the sequel. This Pharaoh sends wagons so that the little ones can come down into Egypt; a later Pharaoh will try to hold the little ones back when Moses asks to take Israel out (Exodus 10:10, 24). The same land that shelters the family will one day become a house of bondage, and the God who brought them down will bring them out, children and all.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "עֲגָלוֹת (ʿagalot) — wagons",
+          "explanation": "The word denotes two-wheeled carts, usually drawn by oxen, used for carrying goods and people. Such carts appear later carrying the tabernacle’s furnishings and the ark returned by the Philistines. Their mention here underscores the official Egyptian provision for the family’s journey.",
+          "scriptureReferences": [
+            "Numbers 7:3",
+            "1 Samuel 6:7"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:6",
+      "bibleText": "And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 12:5",
+        "Genesis 45:20",
+        "Genesis 47:4",
+        "Hebrews 11:9"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And they took their cattle, and their goods, which they had gotten in the land of Canaan.” Pharaoh had told them not to worry about their belongings, for the good of all Egypt would be theirs (45:20). They brought their livestock anyway. The flocks would matter: they established the family as herdsmen able to support themselves, and they gave Joseph the grounds for asking that his relatives live in Goshen (vv. 32-34; 47:4-6).\n\nThe language echoes Abram’s departure from Haran, when he took “all their substance that they had gathered” and set out for Canaan (12:5). That movement brought the family into the land; this one takes them out of it. Nothing was left behind to hold a claim, no herd or kinsman. The family went down trusting that the title to Canaan rested with God, who had promised it to them, rather than with anything they could leave there. Hebrews describes the patriarchs as living in the land of promise “as in a strange country,” looking for a city with foundations (Hebrews 11:9-10).\n\n“Jacob, and all his seed with him” sums up the scene before verse 7 spells it out. The promise had narrowed through Isaac to Jacob alone when he fled to Haran; now it moves into Egypt as a household of many generations. A single traveller with a staff had crossed the Jordan (32:10); a clan with herds and wagons crosses the border of Egypt. The growth was God’s doing, and it was only the beginning of what he had promised.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "מִקְנֵיהֶם וְאֶת־רְכוּשָׁם (miqnehem veʾet-rekhusham) — their cattle, and their goods",
+          "explanation": "Miqneh, from a verb meaning “to acquire,” refers to livestock as a man’s acquired wealth, while rekhush covers movable property in general. The pair describes the wealth of the patriarchs on their journeys, and the same two words sum up what Jacob carried from Paddan-aram.",
+          "scriptureReferences": [
+            "Genesis 31:18",
+            "Genesis 36:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:7",
+      "bibleText": "His sons, and his sons' sons with him, his daughters, and his sons' daughters, and all his seed brought he with him into Egypt.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 37:35",
+        "Genesis 22:18",
+        "Galatians 3:16",
+        "Psalm 105:23"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“His sons, and his sons’ sons with him, his daughters, and his sons’ daughters.” The verse widens its circle in four steps, leaving no one out. The mention of daughters is notable, since the list that follows names only Dinah and Serah. Jacob had more than one daughter, as the household scene after Joseph’s supposed death shows: “all his daughters rose up to comfort him” (37:35). Some of these may have been daughters-in-law, but the point stands. The whole family went, women as well as men.\n\nThe key word is “seed,” used twice in verses 6-7. It is one of the great words of Genesis. God promised that the woman’s seed would bruise the serpent’s head (3:15), that Abraham’s seed would inherit the land (12:7), and that in his seed all nations would be blessed (22:18). Paul read that promise as finding its focus in one Seed, Christ (Galatians 3:16). The family carrying the line of promise now moves intact into Egypt, and the narrative is careful to show that none of it was lost on the road.\n\n“Brought he with him into Egypt.” Though his sons carried him in the wagons, Jacob is still the head who brings his house. The psalmist later sang the moment as a turning point in Israel’s story: “Israel also came into Egypt; and Jacob sojourned in the land of Ham” (Psalm 105:23). The verse forms the bridge to the list of names, which will count exactly whom God brought down to make into a nation.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "זַרְעוֹ (zarʿo) — his seed",
+          "explanation": "Zeraʿ means seed in the agricultural sense and, by extension, offspring. It can denote a whole line of descendants or a single child, as when Eve calls Seth “another seed.” That flexibility allows the promise to embrace both Abraham’s many descendants and the one descendant through whom the blessing comes.",
+          "scriptureReferences": [
+            "Genesis 3:15",
+            "Genesis 4:25",
+            "Genesis 13:16"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:8",
+      "bibleText": "And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob's firstborn.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Exodus 1:1-5",
+        "Genesis 35:22",
+        "Genesis 49:3-4",
+        "1 Chronicles 5:1-2"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And these are the names of the children of Israel, which came into Egypt.” Exodus opens with the same words (Exodus 1:1), and the Hebrew title of that book, Shemot, “Names,” comes from them. The list that bridges the two books shows that the nation enslaved in Exodus is this family, every member of it known by name.\n\nJacob is counted with “his sons,” which matters for the totals in verses 15 and 27. Reuben heads the list as “Jacob’s firstborn,” the position of birth that no sin could change, even though his act with Bilhah (35:22) cost him the double portion and leadership, which passed to Joseph and Judah (49:3-4; 1 Chronicles 5:1-2).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "שְׁמוֹת (shemot) — names",
+          "explanation": "Shem, “name,” in Hebrew thought identifies a person and often stands for what the person is. Recording names is a way of preserving identity and belonging, and Scripture pictures God as knowing his people individually, calling the stars and his flock alike by name.",
+          "scriptureReferences": [
+            "Exodus 1:1",
+            "Isaiah 40:26",
+            "John 10:3"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:9",
+      "bibleText": "And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 42:37",
+        "Numbers 26:5-10",
+        "1 Chronicles 5:3"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Reuben’s sons were Hanoch, Phallu, Hezron, and Carmi. When the brothers first returned from Egypt, Reuben had offered “my two sons” as pledges for Benjamin (42:37), so the younger two were likely infants on this journey.\n\nAll four founded clans of the tribe (Numbers 26:5-6). Through Phallu came Eliab, whose sons Dathan and Abiram joined Korah’s rebellion against Moses and were swallowed by the earth (Numbers 26:8-10). The firstborn’s line produced some of Israel’s most stubborn rebels.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "חֲנוֹךְ (Chanokh) — Hanoch",
+          "explanation": "The name is identical in Hebrew to Enoch, borne by Cain’s son and by the man who walked with God. It may be connected with the verb chanakh, used of dedicating a house, though names in Genesis do not always carry their etymology into the story.",
+          "scriptureReferences": [
+            "Genesis 4:17",
+            "Genesis 5:24",
+            "Deuteronomy 20:5"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:10",
+      "bibleText": "And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Exodus 6:15",
+        "Numbers 26:12-14",
+        "Genesis 28:1",
+        "Numbers 25:14"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Simeon had six sons: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul. Numbers 26:12-13 gives Jemuel as Nemuel and Zohar as Zerah (both forms suggest brightness) and omits Ohad, who apparently left no clan. Only five Simeonite families survived into the wilderness.\n\nShaul is marked as “the son of a Canaanitish woman.” Abraham and Isaac had refused Canaanite wives for their sons (24:3; 28:1), so the note records a departure from family practice, matched only by Judah’s marriage (38:2).\n\nSimeon’s tribe later shrank from 59,300 fighting men to 22,200 (Numbers 1:23; 26:14), a loss that followed the sin at Baal-peor led by the Simeonite prince Zimri (Numbers 25:14).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בֶּן־הַכְּנַעֲנִית (ben-hakkenaʿanit) — the son of a Canaanitish woman",
+          "explanation": "The feminine gentilic identifies the mother by her people rather than by name. The marriage of Abraham’s descendants to women of Canaan was a recurring concern in Genesis, and the later law forbade such unions because they would turn Israel’s heart to other gods.",
+          "scriptureReferences": [
+            "Genesis 24:3",
+            "Deuteronomy 7:3-4"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:11",
+      "bibleText": "And the sons of Levi; Gershon, Kohath, and Merari.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Exodus 6:16-20",
+        "Numbers 3:17",
+        "Genesis 49:5-7",
+        "Exodus 32:26"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Levi’s three sons, Gershon, Kohath, and Merari, became the three divisions of the Levites who carried and guarded the tabernacle in the wilderness (Numbers 3:17; 4:1-33). From Kohath came Amram, the father of Aaron, Moses, and Miriam (Exodus 6:16-20).\n\nThe line had a violent beginning. Levi joined Simeon in the massacre at Shechem, and Jacob foretold that both would be scattered in Israel (49:5-7). For Levi the scattering became a calling. When the tribe stood with Moses at the golden calf (Exodus 32:26), it was set apart for God’s service and dispersed through forty-eight cities as teachers of the law.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "קְהָת (Qehat) — Kohath",
+          "explanation": "The meaning of the name is uncertain; some connect it with a word for assembly or obedience. The Kohathites bore the most holy furnishings of the sanctuary on their shoulders, and Moses, Aaron, and the priestly line all descended from this son of Levi.",
+          "scriptureReferences": [
+            "Numbers 4:4",
+            "1 Chronicles 6:1-3"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:12",
+      "bibleText": "And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 38:7-10",
+        "Numbers 26:19-22",
+        "Ruth 4:18-22",
+        "Matthew 1:3"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Judah’s sons were Er, Onan, Shelah, Pharez, and Zarah, “but Er and Onan died in the land of Canaan,” struck down for their wickedness (38:7-10). They are named but not counted, while Pharez’s sons Hezron and Hamul are counted in their place. Whether these two were already born or are reckoned as being in their father’s loins (compare Hebrews 7:10), the list keeps Judah’s household at five living branches. Numbers 26:19-22 confirms clans of Shelah, Pharez, Zarah, Hezron, and Hamul.\n\nOnly Judah’s line is traced to a third generation, and for good reason. Pharez begat Hezron, and Hezron’s line ran through Ram, Boaz, and Jesse to David (Ruth 4:18-22).\n\nMatthew’s genealogy of Jesus follows the same names (Matthew 1:3). In a list of names, the line of the coming King is already marked.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "פֶּרֶץ (Perets) — Pharez",
+          "explanation": "The name means “breach” or “breaking out,” given when the twin forced his way out ahead of his brother at birth. The sense fits a line that would break through to kingship, and Micah pictures the Messiah as the one who breaks open the way before his people.",
+          "scriptureReferences": [
+            "Genesis 38:29",
+            "Micah 2:13"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:13",
+      "bibleText": "And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 26:23-24",
+        "Judges 10:1-2",
+        "1 Chronicles 7:1-2"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Issachar’s sons were Tola, Phuvah, Job, and Shimron. Job appears as Jashub in Numbers 26:24 and 1 Chronicles 7:1, the fuller form of the same name. All four founded clans.\n\nThe first two names resurfaced centuries later in “Tola the son of Puah,” a man of Issachar who judged Israel for twenty-three years (Judges 10:1-2). In David’s time the descendants of Tola were counted as mighty men of valour (1 Chronicles 7:2).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "תּוֹלָע (Tolaʿ) — Tola",
+          "explanation": "The word means a worm, specifically the scale insect from which crimson dye was made, and so can denote the colour scarlet itself. The psalmist’s cry, “I am a worm, and no man,” uses the related form in a psalm that the Gospels apply to Christ’s suffering.",
+          "scriptureReferences": [
+            "Exodus 25:4",
+            "Psalm 22:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:14",
+      "bibleText": "And the sons of Zebulun; Sered, and Elon, and Jahleel.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 26:26-27",
+        "Judges 12:11-12",
+        "Genesis 49:13"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Zebulun’s three sons were Sered, Elon, and Jahleel, each the head of a clan in Numbers 26:26-27.\n\nThe name Elon returned in the period of the judges, when “Elon, a Zebulonite,” judged Israel for ten years and was buried in Zebulun’s territory (Judges 12:11-12). The smallest of Leah’s households still produced a leader for the nation.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אֵלוֹן (ʾElon) — Elon",
+          "explanation": "The name matches a common word for a large tree, often rendered “oak” or “terebinth,” the kind of tree under which Abraham pitched his tent at Mamre. Such trees were landmarks in Canaan.",
+          "scriptureReferences": [
+            "Genesis 13:18",
+            "Judges 12:11"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:15",
+      "bibleText": "These be the sons of Leah, which she bare unto Jacob in Padan-aram, with his daughter Dinah: all the souls of his sons and his daughters were thirty and three.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 29:31-35",
+        "Genesis 34:1",
+        "Genesis 35:23",
+        "Genesis 46:8"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“These be the sons of Leah, which she bare unto Jacob in Padan-aram, with his daughter Dinah.” The birthplace applies to the six sons; the grandsons were born in Canaan. Dinah is named apart, probably because she remained in her father’s house after the outrage at Shechem (34:1-31).\n\nThe total of “thirty and three” is reached by counting Leah’s six sons, twenty-five grandsons and great-grandsons (leaving out the dead Er and Onan), and Dinah, which makes thirty-two, and then Jacob himself, named at the head of the list in verse 8. The “souls” are simply persons, living members of the household, the same use of the word that runs through the rest of the list. Leah, the unloved wife (29:31), stands at the head of more than half of Israel.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "נֶפֶשׁ (nefesh) — souls",
+          "explanation": "In census lists nefesh means a person, a living individual counted as one member of a group. The same word describes Adam as “a living soul,” the whole person formed from dust and given breath, and Ezekiel says “the soul that sinneth, it shall die.” Nothing in the word implies an immortal part separable from the body; it names the living being.",
+          "scriptureReferences": [
+            "Genesis 2:7",
+            "Exodus 1:5",
+            "Ezekiel 18:4"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:16",
+      "bibleText": "And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 26:15-18",
+        "Numbers 32:1-5",
+        "Deuteronomy 33:20-21"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Gad, Zilpah’s first son, had seven sons: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli. Numbers 26:15-17 lists the same clans with slight variations, including Zephon, Ozni, and Arod.\n\nThe tribe later chose pastureland east of the Jordan for its herds (Numbers 32:1-5), and Moses praised Gad as a lion that executed the justice of the LORD (Deuteronomy 33:20-21).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "חַגִּי (Chaggi) — Haggi",
+          "explanation": "The name is related to chag, “festival” or “pilgrim feast,” and probably means “festive” or “born on a feast day.” The prophet Haggai bears a closely related name, and the same root names Israel’s appointed feasts.",
+          "scriptureReferences": [
+            "Haggai 1:1",
+            "Exodus 23:14-16"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:17",
+      "bibleText": "And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 26:44-47",
+        "1 Chronicles 7:30-31",
+        "Genesis 30:12-13"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Asher’s children were Jimnah, Ishuah, Isui, Beriah, and their sister Serah, with Beriah’s sons Heber and Malchiel. Ishuah does not appear among the clans in Numbers 26:44-46, perhaps because his line merged with another.\n\nSerah is striking. She is one of only two women in the list, and she reappears in the census taken at the end of the wilderness years (Numbers 26:46) and in 1 Chronicles 7:30. Her inclusion may reflect an inheritance or clan role, but the text does not explain it. Malchiel’s name confesses that God is king, a fitting note for a family going down to live under Pharaoh.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "מַלְכִּיאֵל (Malkiʾel) — Malchiel",
+          "explanation": "The name joins melekh, “king,” with ʾel, “God,” and is usually understood as “my king is God” or “God is king.” Confession of God’s kingship runs through Israel’s songs, beginning with the song at the sea after the exodus.",
+          "scriptureReferences": [
+            "Exodus 15:18",
+            "Psalm 93:1"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:18",
+      "bibleText": "These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 29:24",
+        "Genesis 30:9-13",
+        "Genesis 35:26"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Zilpah’s line totals sixteen: her two sons, eleven grandsons, Serah, and Beriah’s two sons.\n\nThe reminder that she was the maid “whom Laban gave to Leah his daughter” (29:24) reaches back to the household of rivalry in Haran, where the sisters used their maids to compete for children (30:9-13). Out of that tangled home God built the tribes of Gad and Asher.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "זִלְפָּה (Zilpah) — Zilpah",
+          "explanation": "The meaning of the name is uncertain. Zilpah was Leah’s servant, given to Jacob as a secondary wife, and her two sons were named by Leah, who called them “a troop cometh” and “happy am I.”",
+          "scriptureReferences": [
+            "Genesis 30:9",
+            "Genesis 30:11-13"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:19",
+      "bibleText": "The sons of Rachel Jacob's wife; Joseph, and Benjamin.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 29:18",
+        "Genesis 35:16-19",
+        "Genesis 44:27"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“The sons of Rachel Jacob’s wife; Joseph, and Benjamin.” Of the four mothers, only Rachel is called “Jacob’s wife” in this list, an echo of the love that made Jacob serve fourteen years for her (29:18-20, 30).\n\nRachel herself did not make the journey; she had died giving birth to Benjamin on the road to Ephrath (35:16-19). Her two sons now stand at the centre of the whole story.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אֵשֶׁת יַעֲקֹב (ʾeshet Yaʿaqov) — Jacob’s wife",
+          "explanation": "The title is given to Rachel alone among the four mothers here. Jacob himself spoke of her to his sons as though she were his only wife: “Ye know that my wife bare me two sons.”",
+          "scriptureReferences": [
+            "Genesis 44:27",
+            "Genesis 29:30"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:20",
+      "bibleText": "And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Poti-pherah priest of On bare unto him.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 41:45",
+        "Genesis 41:50-52",
+        "Genesis 48:5",
+        "Numbers 26:28-37"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Manasseh and Ephraim had been born “in the land of Egypt” to Asenath, daughter of Poti-pherah, priest of On (41:45, 50-52). Joseph named the first “making to forget,” because God had made him forget his toil, and the second “fruitful,” because God had made him fruitful in the land of his affliction.\n\nThough their mother was Egyptian and their birthplace foreign, Jacob would soon adopt the two boys as his own, ranking them with Reuben and Simeon (48:5). Each became a full tribe. The Greek translation adds at this point five later descendants of Manasseh and Ephraim, the source of the larger total in Acts 7:14 (see v. 27).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אֹן (ʾOn) — On",
+          "explanation": "On was the Egyptian city the Greeks called Heliopolis, “city of the sun,” a leading centre of sun worship near modern Cairo. Jeremiah refers to its obelisks under the name Beth-shemesh, “house of the sun,” and Ezekiel names it in an oracle against Egypt. Joseph’s marriage tied him to its priestly aristocracy, yet his sons were reared as heirs of Israel’s God.",
+          "scriptureReferences": [
+            "Genesis 41:50",
+            "Jeremiah 43:13",
+            "Ezekiel 30:17"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:21",
+      "bibleText": "And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 26:38-41",
+        "1 Chronicles 8:1-5",
+        "Judges 3:15",
+        "2 Samuel 16:5"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Ten sons are credited to Benjamin, beginning with Belah and Becher and ending with Huppim and Ard; between them stand Ashbel, Gera, Naaman, Ehi, Rosh, and Muppim. The tribal census in Numbers 26:38-40 lists Bela, Ashbel, Ahiram, Shupham, and Hupham as sons, and then names Ard and Naaman as sons of Bela. Ahiram and Shupham are probably Ehi and Muppim, while Becher, Gera, and Rosh do not appear as clans there.\n\nThe differences have a simple explanation. Sons who died without heirs could be replaced, as grandsons carried an uncle’s name and took his place as head of a clan. Benjamin was perhaps thirty at this time, so some names here may be grandsons counted with the household.\n\nGera became a family name in the tribe. Ehud, the left-handed deliverer, was “the son of Gera” (Judges 3:15), as was Shimei, who cursed David (2 Samuel 16:5).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "גֵּרָא (Gera) — Gera",
+          "explanation": "The name may be related to gerah, the smallest unit of weight in Israel’s system, one twentieth of a shekel, though the connection is uncertain. In later Benjamite records it functions as a clan name rather than a single father.",
+          "scriptureReferences": [
+            "Exodus 30:13",
+            "Judges 3:15",
+            "1 Kings 2:8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:22",
+      "bibleText": "These are the sons of Rachel, which were born to Jacob: all the souls were fourteen.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 30:1",
+        "Genesis 30:22-24",
+        "Genesis 35:18"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Rachel’s line counts fourteen: Joseph and Benjamin, Joseph’s two sons, and Benjamin’s ten.\n\nThe woman who once cried, “Give me children, or else I die” (30:1), and who died bearing her second son, is credited with twice seven descendants. God had “remembered Rachel” (30:22), and the list shows how fully. Her grief at Benjamin’s birth, when she named him “son of my sorrow,” is answered by the ten sons he brings into Egypt.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אֲשֶׁר יֻלַּד לְיַעֲקֹב (ʾasher yullad leYaʿaqov) — which were born to Jacob",
+          "explanation": "The passive verb counts the whole household as born to Jacob, including grandsons born in Egypt and Canaan. The same formula sums up the sons born to Jacob in Padan-aram and the sons born to David in Hebron.",
+          "scriptureReferences": [
+            "Genesis 35:26",
+            "2 Samuel 3:2"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:23",
+      "bibleText": "And the sons of Dan; Hushim.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 26:42-43",
+        "Judges 13:2",
+        "Genesis 30:6"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And the sons of Dan; Hushim.” The plural “sons” is a fixed formula even where only one son is named, just as “daughters” in verse 15 covers Dinah alone.\n\nDan entered Egypt with a single son, yet by the end of the wilderness journey the clan of the Shuhamites, as Hushim’s family was called, numbered 64,400 fighting men, second only to Judah (Numbers 26:42-43). Samson would come from this tribe (Judges 13:2). The smallest household in the list grew into one of the largest tribes, a picture in miniature of what God promised to do in Egypt.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "חֻשִׁים (Chushim) — Hushim",
+          "explanation": "In Numbers 26:42 the same son appears as Shuham, a transposition of the first two consonants, a common variation in ancient names. A Benjamite named Hushim also appears in Chronicles, showing the name was not unique to Dan.",
+          "scriptureReferences": [
+            "Numbers 26:42",
+            "1 Chronicles 7:12"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:24",
+      "bibleText": "And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Numbers 26:48-50",
+        "1 Chronicles 7:13",
+        "Judges 4:6"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Naphtali’s four sons were Jahzeel, Guni, Jezer, and Shillem.\n\nAll four appear as clan heads in Numbers 26:48-49, and Chronicles gives the first and last as Jahziel and Shallum (1 Chronicles 7:13). Barak, who led Israel against Sisera, was a man of this tribe from Kedesh-naphtali (Judges 4:6). Deborah’s song later praised Naphtali for risking their lives “in the high places of the field” (Judges 5:18).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "יַחְצְאֵל (Yachtseʾel) — Jahzeel",
+          "explanation": "The name is usually explained as “God divides” or “God apportions.” It is a fitting name for a clan whose tribe would receive its portion of the land by lot.",
+          "scriptureReferences": [
+            "Numbers 26:48",
+            "Joshua 19:32"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:25",
+      "bibleText": "These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 29:29",
+        "Genesis 30:3-8",
+        "Genesis 35:22"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Bilhah, “which Laban gave unto Rachel his daughter” (29:29), accounts for seven: Dan, Naphtali, and five grandsons.\n\nThe four totals show a pattern. Each handmaid has about half the number of her mistress, sixteen to Leah’s thirty-three and seven to Rachel’s fourteen, and Rachel’s and Bilhah’s lines come to multiples of seven. Bilhah’s name also recalls Reuben’s sin (35:22), yet her sons are counted fully among the heirs. The handmaid’s children stand in the roll of Israel on the same footing as the sons of the wives.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "בִּלְהָה (Bilhah) — Bilhah",
+          "explanation": "The meaning of the name is uncertain. Rachel gave Bilhah to Jacob so that she might “have children by her,” and she named Bilhah’s sons Dan, “judged,” and Naphtali, “my wrestling.”",
+          "scriptureReferences": [
+            "Genesis 30:3",
+            "Genesis 30:6-8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:26",
+      "bibleText": "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob's sons' wives, all the souls were threescore and six;",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Exodus 1:5",
+        "Genesis 35:11",
+        "Genesis 38:2"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls were threescore and six.” The figure counts only direct descendants who travelled with Jacob. The four totals of the list add to seventy, but that count includes Jacob, who heads the roll, and Joseph with his two sons, who were already in Egypt. Set those four aside and sixty-six remain, the descendants who actually made the journey with their father.\n\nThe wives are expressly excluded, though they certainly made the journey. They came from other families, Aramean, Canaanite, and perhaps others, yet they and their households were absorbed into Israel, as Asenath had been. From the beginning the people of God included those born outside the line.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "יֹצְאֵי יְרֵכוֹ (yotseʾe yerekho) — which came out of his loins",
+          "explanation": "Literally “those going out from his thigh,” the idiom identifies direct physical descendants. God promised Jacob that kings would come “out of thy loins,” and Exodus repeats this very phrase when it recalls the seventy.",
+          "scriptureReferences": [
+            "Genesis 35:11",
+            "Exodus 1:5",
+            "Judges 8:30"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:27",
+      "bibleText": "And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were threescore and ten.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Exodus 1:5",
+        "Deuteronomy 10:22",
+        "Deuteronomy 32:8",
+        "Acts 7:14",
+        "Exodus 24:1"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were threescore and ten.” The sixty-six of verse 26 become seventy when Joseph and his two sons are added, together with Jacob, the head of the house named first in verse 8. “The house of Jacob” is the whole family under its patriarch, wherever its members happened to be when the household settled in Egypt.\n\nSeventy carried weight. The table of nations in chapter 10 names seventy peoples descended from Noah, and Moses later sang that God “set the bounds of the people according to the number of the children of Israel” (Deuteronomy 32:8). The family entering Egypt is a nation in miniature, standing for the whole people as seventy elders later stood for Israel at Sinai (Exodus 24:1, 9). Moses reminded the next generation how far God had brought them: “Thy fathers went down into Egypt with threescore and ten persons; and now the LORD thy God hath made thee as the stars of heaven for multitude” (Deuteronomy 10:22).\n\nStephen, recounting this history before the council, said that Joseph called “all his kindred, threescore and fifteen souls” (Acts 7:14). He was following the Greek translation of the Old Testament, the version most of his hearers read. That translation adds to verse 20 five descendants of Manasseh and Ephraim named in Numbers 26, Machir, Gilead, Shuthelah, Tahan, and Eran, and so gives seventy-five here and in Exodus 1:5. A Hebrew manuscript of Exodus found among the Dead Sea Scrolls also reads seventy-five. The two totals reflect two ways of counting, one limited to those who entered with Jacob, the other including Joseph’s descendants born in Egypt during Jacob’s lifetime (50:23). Luke records accurately what Stephen said, and neither figure misrepresents the history.\n\nIn both Hebrew and Greek the “souls” are persons. The same Greek word describes the three thousand added to the church at Pentecost (Acts 2:41). From seventy persons God would raise a people of six hundred thousand men on foot (Exodus 12:37), and through that people the promised Seed would come.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "שִׁבְעִים (shivʿim) — threescore and ten",
+          "explanation": "The plural of “seven,” seventy often expresses completeness on a larger scale. Seventy elders shared Moses’ burden, Israel’s exile lasted seventy years, and Jesus sent out seventy disciples, possibly recalling the seventy nations to which the gospel would go. Here it presents the house of Jacob as complete and whole as it enters Egypt.",
+          "scriptureReferences": [
+            "Numbers 11:16",
+            "Jeremiah 25:11",
+            "Luke 10:1"
+          ]
+        },
+        {
+          "term": "ἑβδομήκοντα πέντε (hebdomēkonta pente) — threescore and fifteen",
+          "explanation": "This is the reading of the Greek Old Testament in Genesis 46:27 and Exodus 1:5, which Stephen followed in his speech. The Greek translators included descendants of Joseph born in Egypt, while the Hebrew text counts only the household at the time of entry. Stephen used the Bible his audience knew, and his point concerned God’s faithfulness through Israel’s history, not the method of counting.",
+          "scriptureReferences": [
+            "Acts 7:14",
+            "Genesis 50:23",
+            "Numbers 26:29"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:28",
+      "bibleText": "And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 37:13-14",
+        "Genesis 44:33",
+        "Genesis 45:10",
+        "Numbers 10:14",
+        "Judges 1:1-2"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And he sent Judah before him unto Joseph, to direct his face unto Goshen.” After the pause for the list, the journey resumes, and Judah goes ahead. The choice fits all that has happened. Judah had proposed selling Joseph to the Ishmeelites (37:26-27), had pledged himself for Benjamin’s safety (43:9), and had offered to remain a slave in Egypt in Benjamin’s place (44:33). The brother who once sent Joseph away is now sent to Joseph to prepare the way for their father. Jacob, who had refused for months to trust any of his sons with Benjamin (42:38), now entrusts Judah with the path of the whole household.\n\nThe scene reverses an earlier one. Years before, Jacob had sent Joseph from the vale of Hebron to see how his brothers fared (37:13-14), and the boy never came home. Now Jacob sends Judah to Joseph, and the errand ends in reunion. Judah’s place at the front anticipates the leadership his tribe would hold: Judah’s camp led Israel’s march through the wilderness (Numbers 10:14), and Judah was the first tribe sent up against the Canaanites after Joshua’s death (Judges 1:1-2).\n\nGoshen lay in the eastern part of the Nile Delta, a region of good pasture near the road to Canaan, later also called “the land of Rameses” (47:11). Joseph had promised his family this district from the first (45:10). Judah’s task was to receive directions for the settlement and guide the caravan there. “And they came into the land of Goshen” closes the journey that began at Beer-sheba with God’s promise to go down with them.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "לְהוֹרֹת לְפָנָיו (lehorot lefanav) — to direct his face",
+          "explanation": "The verb yarah in this stem means to point out, show, or instruct. Judah was sent to obtain directions and lead the way before Jacob. The same verb describes God showing Moses a tree to heal the waters and teaching his people the way they should walk.",
+          "scriptureReferences": [
+            "Exodus 15:25",
+            "Psalm 32:8"
+          ]
+        },
+        {
+          "term": "גֹּשֶׁן (Goshen) — Goshen",
+          "explanation": "The name is not Egyptian in form and its meaning is unknown. Goshen was the area of the eastern Delta where Israel lived throughout its stay in Egypt, and God later set it apart from the plagues so that no flies and no hail fell there.",
+          "scriptureReferences": [
+            "Genesis 47:27",
+            "Exodus 8:22",
+            "Exodus 9:26"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:29",
+      "bibleText": "And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 41:43",
+        "Genesis 45:14-15",
+        "Genesis 33:10",
+        "Luke 15:20",
+        "1 Thessalonians 4:17"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen.” The Hebrew says that Joseph harnessed his chariot, and the detail conveys his eagerness. The ruler who rode in Pharaoh’s second chariot, with heralds crying “Bow the knee” (41:43), did not wait for his father to be brought to court. He went out to meet him.\n\n“And presented himself unto him.” The verb is the one used throughout Genesis when God “appeared” to Abraham, Isaac, and Jacob (12:7; 26:24; 35:9). Applied to Joseph, it suggests the splendour in which he arrived: the son whom Jacob last saw as a youth in a torn and bloodied coat now stood before him as the lord of Egypt. Jacob had once said of Esau’s gracious welcome, “I have seen thy face, as though I had seen the face of God” (33:10). Here again a face Jacob thought lost to him is restored, and the meeting has the quality of a revelation.\n\nThe splendour gives way immediately to tenderness. Joseph “fell on his neck, and wept on his neck a good while.” He had wept on Benjamin’s neck and over his brothers (45:14-15), but here the weeping goes on and on. The word translated “a good while” suggests repetition, as though the tears came again and again. After some twenty-two years of separation, nothing needed to be said. The narrator records no words from Joseph and none yet from Jacob.\n\nThe embrace anticipates a scene Jesus painted in his parable, when the father saw his son “a great way off” and “ran, and fell on his neck, and kissed him” (Luke 15:20). There the father runs to the returning son; here the exalted son goes out to the aged father. Both scenes speak of a love that crosses distance to restore what was lost. They also foreshadow the reunion promised to believers when the dead in Christ are raised and “we shall be caught up together” to meet the Lord (1 Thessalonians 4:17). Partings caused by sin and death will end in an embrace.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וַיֵּרָא אֵלָיו (vayyeraʾ ʾelav) — and presented himself unto him",
+          "explanation": "The niphal of raʾah, “to see,” means “to appear” or “to let oneself be seen.” In Genesis it is used almost exclusively of God’s appearances to the patriarchs. Its use for Joseph highlights the overwhelming impression of his coming in glory to the father who had mourned him as dead.",
+          "scriptureReferences": [
+            "Genesis 12:7",
+            "Genesis 17:1",
+            "Genesis 35:9"
+          ]
+        },
+        {
+          "term": "וַיֶּאְסֹר יוֹסֵף מֶרְכַּבְתּוֹ (vayyeʾsor Yosef merkavto) — and Joseph made ready his chariot",
+          "explanation": "The verb ʾasar means “to bind” and, with a chariot, “to hitch” or “harness.” It describes a man personally preparing to set out at once. The same expression is used when Pharaoh harnesses his chariot to pursue Israel and when Ahab is told to make ready his chariot before the rain.",
+          "scriptureReferences": [
+            "Exodus 14:6",
+            "1 Kings 18:44"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:30",
+      "bibleText": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 37:35",
+        "Genesis 42:38",
+        "Genesis 47:28",
+        "Luke 2:29-30",
+        "Revelation 1:18"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive.” The narrator names him Israel at this moment, the patriarch whose house is now complete. His first words gather up the whole sorrow of the story. When he saw Joseph’s coat he had said, “I will go down into the grave unto my son mourning” (37:35), and when Benjamin was demanded he feared his sons would “bring down my gray hairs with sorrow to the grave” (42:38). Now he is ready to die, but in peace.\n\nThe words do not express a wish to end his life. They are the language of a heart fully satisfied. The deepest longing of his old age had been met, and nothing more was needed for him to lie down with his fathers whenever God willed. In fact he lived seventeen more years in Egypt (47:28) and saw Joseph’s sons grow up. The grave he had dreaded as the end of grief became a rest he could accept without fear.\n\nThe parallel with Simeon in the temple is close. Having held the infant Jesus, the old man said, “Lord, now lettest thou thy servant depart in peace, according to thy word: for mine eyes have seen thy salvation” (Luke 2:29-30). Both men had waited long; both saw with their own eyes the one in whom their hope rested; both could face death calmly because God had kept his word. Jacob received back a son he thought dead, and the believer’s peace in the face of death rests on the Son who was dead and is alive for evermore (Revelation 1:18).",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "אָמוּתָה הַפָּעַם (ʾamutah happaʿam) — now let me die",
+          "explanation": "The verb is cohortative, “let me die,” expressing readiness rather than request. Happaʿam, literally “this time,” means “now at last,” marking the moment as the fulfilment of a long wait. Leah used the same word when she said, “Now this time will my husband be joined unto me,” and Adam when he greeted Eve.",
+          "scriptureReferences": [
+            "Genesis 2:23",
+            "Genesis 29:34"
+          ]
+        },
+        {
+          "term": "כִּי עוֹדְךָ חָי (ki ʿodekha chay) — because thou art yet alive",
+          "explanation": "The phrase echoes the report that roused Jacob’s spirit, “Joseph is yet alive,” and Joseph’s own anxious question, “Doth my father yet live?” Life restored after presumed death is the climax of the Joseph story and a pattern fulfilled in the risen Christ.",
+          "scriptureReferences": [
+            "Genesis 45:3",
+            "Genesis 45:26",
+            "Luke 24:5-6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:31",
+      "bibleText": "And Joseph said unto his brethren, and unto his father's house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father's house, which were in the land of Canaan, are come unto me;",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 45:17-20",
+        "Genesis 47:1",
+        "Hebrews 2:11-13"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh.” With the reunion complete, Joseph turns at once to the family’s future. Pharaoh had already invited them (45:17-20), but their settlement needed his formal approval, and Joseph meant to secure it before anyone presumed on the king’s generosity. Pharaoh had been generous, and a careless arrival could look like presumption or ambition. A clear report from his trusted minister would avoid misunderstanding and place the settlement on a lawful footing, as indeed happened when Joseph went in to the king (47:1-6). To “go up” to Pharaoh may reflect the journey from Goshen to the royal residence, and it also carries the sense of approaching a superior.\n\nHis report would be simple: “My brethren, and my father’s house, which were in the land of Canaan, are come unto me.” Joseph does not hide his family or present them as anything other than they are. The second man in Egypt openly claims a household of foreign herdsmen as his own. Hebrews uses language like this of Christ, who “is not ashamed to call them brethren” and presents them before God, saying, “Behold I and the children which God hath given me” (Hebrews 2:11, 13).\n\nJoseph serves here as mediator. He stands between his family and the king, speaks for them, and obtains for them a place to live. He does it through the honest presentation of who they are, a pattern for the counsel that follows.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "וְאַגִּידָה לְפַרְעֹה (veʾaggidah lefarʿoh) — and shew Pharaoh",
+          "explanation": "The verb nagad in this stem means “to declare” or “to report,” often to a superior. Joseph had used it when he declared to Pharaoh what God was about to do, and the brothers used it when they told Jacob all that had befallen them. It implies a full and formal account.",
+          "scriptureReferences": [
+            "Genesis 41:25",
+            "Genesis 42:29"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:32",
+      "bibleText": "And the men are shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 4:2",
+        "Genesis 31:38-40",
+        "Genesis 37:2",
+        "Genesis 47:6",
+        "John 10:11"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And the men are shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.” Joseph plans to tell Pharaoh two things. The family follows a known occupation, and they have arrived with their own means of support. They would need land and pasture, but they would not be a burden on the royal stores. Pharaoh’s answer bears out the wisdom of this: he granted them Goshen and offered to place capable men among them over his own livestock (47:6).\n\nThe trade itself had a long and honourable history in the family. Abel was “a keeper of sheep” (4:2). Abraham and Isaac grew rich in flocks and herds. Jacob had served Laban twenty years as a shepherd, enduring heat by day and frost by night (31:38-40), and Joseph himself had been feeding the flock with his brothers when the story began (37:2). Later Moses kept Jethro’s flock in Midian (Exodus 3:1), and David was called from the sheepfolds to shepherd Israel (Psalm 78:70-71).\n\nThe image runs to the heart of the Bible’s portrait of God. Jacob would soon bless Joseph in the name of “the God which fed me all my life long” (48:15), using the verb for shepherding, and he would speak of “the shepherd, the stone of Israel” (49:24). David sang, “The LORD is my shepherd” (Psalm 23:1), and Jesus called himself the good shepherd who gives his life for the sheep (John 10:11). The occupation Egypt despised was the one God chose to describe himself.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "רֹעֵי צֹאן (roʿe tsoʾn) — shepherds",
+          "explanation": "The participle of raʿah, “to feed, pasture, tend,” with tsoʾn, “sheep and goats,” describes those who lead and care for flocks. The verb is used of God tending Jacob and of the coming ruler who would “feed his flock like a shepherd,” and it lies behind Jesus’ title of the good shepherd.",
+          "scriptureReferences": [
+            "Genesis 48:15",
+            "Isaiah 40:11",
+            "Ezekiel 34:23"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:33",
+      "bibleText": "And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 47:2-3",
+        "Daniel 1:8",
+        "John 17:15"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?” Joseph anticipates the king’s question. A ruler meeting new arrivals would naturally ask how they lived and what use they might be. Joseph prepares his brothers so that their answer will serve the family’s welfare and its calling.\n\nJoseph knew the Egyptian court from the inside. Pharaoh had taken a Hebrew slave and made him lord of the land; he might as easily have offered the brothers posts in his administration or estates near the capital. Such favour would have drawn the family into Egyptian society, its marriages, and its gods. Joseph had stayed faithful in that setting by God’s grace, but he had no illusions about what it could do to men whose characters had only recently been tested and changed. An honest answer about their trade would keep them at a distance from the court.\n\nThe question came just as Joseph expected. When Pharaoh asked it, the brothers answered, “Thy servants are shepherds, both we, and also our fathers” (47:3), and then asked to live in Goshen. They used the plain word “shepherds” rather than the gentler phrase Joseph had suggested, yet the result was the same, for the king granted their request. Preparation had made them ready, and God’s favour did the rest.\n\nThe principle reaches beyond Egypt. Daniel and his friends served in Babylon without surrendering their identity (Daniel 1:8), and Jesus prayed that his followers would remain in the world while being kept from its evil (John 17:15). Knowing in advance who one is and whom one serves makes the decisive answer easier when the question comes.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "מַה־מַּעֲשֵׂיכֶם (mah-maʿaseykhem) — What is your occupation?",
+          "explanation": "Maʿaseh, from ʿasah, “to do” or “to make,” means a deed, a work, or a way of life. Here it asks about livelihood. Pharaoh puts this very question to the brothers in the next chapter, and the same noun describes the work of Israel’s daily labour and of God’s own works.",
+          "scriptureReferences": [
+            "Genesis 47:3",
+            "Exodus 23:12"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "Genesis 46:34",
+      "bibleText": "That ye shall say, Thy servants' trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 43:32",
+        "Exodus 8:22-23",
+        "Exodus 8:26",
+        "1 Peter 2:9",
+        "Isaiah 53:3"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, and also our fathers.” The brothers are to answer plainly. Their family had kept livestock for generations, and they would say so. Joseph’s counsel contains no deception; it uses the truth to obtain the right result. The stated aim follows at once: “that ye may dwell in the land of Goshen.”\n\nThe reason given is striking: “for every shepherd is an abomination unto the Egyptians.” Whether these words belong to Joseph or are an explanation added by Moses for his readers, they describe a well-known prejudice. Egypt’s settled farmers and priestly elite looked down on herdsmen, and Egyptian art often shows them as unkempt and lowly. Genesis has already noted that Egyptians would not eat with Hebrews, “for that is an abomination unto the Egyptians” (43:32), and Moses later told Pharaoh that Israel’s sacrifices would be an abomination in Egyptian eyes (Exodus 8:26). Honest herdsmen would be welcome to graze the frontier pastures but would not be drawn into Egyptian society.\n\nThe arrangement served God’s purpose. In Goshen the family could keep its own worship and customs, marry among its own clans, and grow into a nation without being absorbed into Egypt. The district lay near the border, ready for the day God would bring them up. When judgment fell on Egypt, God made a distinction for the land of Goshen (Exodus 8:22-23). The contempt of the Egyptians became, under providence, a hedge around the people of promise.\n\nThe lesson runs through Scripture. God’s people are called to be “a peculiar people” (1 Peter 2:9), living in the world but not shaped by it. The despised shepherd also points to Christ, the Good Shepherd who was “despised and rejected of men” (Isaiah 53:3). Those who follow him need not fear the world’s disdain when faithfulness requires them to stand apart, for the shepherd whom the world scorned is the one through whom God keeps his flock.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "תּוֹעֲבַת מִצְרַיִם (toʿavat Mitsrayim) — an abomination unto the Egyptians",
+          "explanation": "Toʿevah denotes something detestable or offensive, whether to God or to people, according to the standards of the one who judges it. Here it reflects Egyptian social and religious attitudes, not God’s verdict. Elsewhere the same word describes what is detestable to the LORD, such as idolatry and dishonest weights.",
+          "scriptureReferences": [
+            "Genesis 43:32",
+            "Deuteronomy 7:25",
+            "Proverbs 11:1"
+          ]
+        },
+        {
+          "term": "אַנְשֵׁי מִקְנֶה (ʾanshe miqneh) — men of cattle",
+          "explanation": "The phrase, translated “their trade hath been to feed cattle” in verse 32 and “about cattle” here, describes people whose wealth and work lay in livestock. It names a whole way of life. Pharaoh later uses related language when he invites Joseph to make able men among them rulers over his cattle.",
+          "scriptureReferences": [
+            "Genesis 47:6",
+            "Genesis 26:14"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    }
+  ],
+  "symbols": [],
+  "charts": [],
+  "images": [],
+  "crossReferences": [
+    "Genesis 15:13-16",
+    "Genesis 28:15",
+    "Exodus 1:1-7",
+    "Deuteronomy 10:22",
+    "Deuteronomy 26:5",
+    "Acts 7:14-15",
+    "Hosea 11:1"
+  ],
+  "relatedConnections": [
+    {
+      "sourceText": "Genesis 46:3-4",
+      "relatedText": "Genesis 28:15",
+      "sources": []
+    },
+    {
+      "sourceText": "Genesis 46:27",
+      "relatedText": "Exodus 1:5-7",
+      "sources": []
+    },
+    {
+      "sourceText": "Genesis 46:30",
+      "relatedText": "Luke 2:29-30",
+      "sources": []
+    }
+  ],
+  "teachingNotes": {
+    "openingQuestion": "What would make an old man afraid to go where his beloved son is waiting for him?",
+    "mainPoint": "The God who met Jacob at the border promised to go down with him into Egypt, to make his family a nation there, and to bring him up again, so the move that looked like leaving the promise became the way God kept it.",
+    "keyVerses": [
+      "Genesis 46:3",
+      "Genesis 46:4",
+      "Genesis 46:27",
+      "Genesis 46:30"
+    ],
+    "importantTerms": [
+      "visions of the night (marʾot hallaylah)",
+      "great nation (goy gadol)",
+      "souls (nefesh) as persons",
+      "seventy (shivʿim)",
+      "Goshen",
+      "abomination (toʿevah)"
+    ],
+    "discussionQuestions": [
+      "Why did Jacob stop to sacrifice at Beer-sheba after he had already decided to go to Egypt?",
+      "What reasons from his family’s past might have made Jacob afraid to go down into Egypt?",
+      "How does the promise “I will go down with thee” compare with what God told Jacob at Bethel in Genesis 28:15?",
+      "Why does the list of names matter to the story, and how does Exodus 1:1-7 build on it?",
+      "Why did Joseph want his brothers to tell Pharaoh plainly that they kept livestock, even though Egyptians despised shepherds?"
+    ],
+    "commonMisunderstandings": [
+      "Stephen’s “threescore and fifteen” in Acts 7:14 does not contradict Genesis; he followed the Greek translation, which counts five more descendants of Joseph.",
+      "The “souls” of verses 15-27 are living persons counted in a household, not immortal parts separate from the body.",
+      "God’s command not to fear did not promise an easy stay; Abraham had already been told that his seed would be afflicted in a foreign land.",
+      "Jacob’s “Now let me die” is the contentment of a satisfied father, not a wish to end his life; he lived seventeen more years."
+    ],
+    "emphasis": "Stress the promise of presence: the God who had kept Jacob in Haran would keep his family in Egypt, multiply them there, and bring them back, a pattern that runs through the exodus to Christ, called out of Egypt as God’s Son.",
+    "closingAppeal": "Whatever road lies ahead of you, bring it first to God in worship, take him at his word that he goes with you, and trust him to bring you up again in his time."
+  },
+  "evangelisticNotes": {
+    "mainDoctrinalTheme": "God goes with his people into hard places, keeps his promises across generations, and will at last bring them up again, a hope fulfilled in Christ and completed at the resurrection.",
+    "keyBibleTexts": [
+      "Genesis 46:3-4",
+      "Matthew 28:20",
+      "Hosea 11:1",
+      "1 Thessalonians 4:16"
+    ],
+    "flow": [
+      "Jacob faced a move into a foreign land that his family history gave him reason to fear.",
+      "He brought the decision to God in worship, and God answered with “fear not” and a promise of presence.",
+      "God promised to make a nation in Egypt and to bring Jacob up again, both in his burial and in the exodus.",
+      "Christ retraced Israel’s path, called out of Egypt as God’s Son, and promises to be with his people always.",
+      "Those who trust him can face every descent, even death, with the assurance that he will bring them up at his coming."
+    ],
+    "simpleIllustrations": [
+      "A child is nervous about moving to a new city until her father says, “I am driving the truck, and I will be living there with you.”",
+      "A miner goes down the shaft without fear because the one who lowers him has promised to bring him up at the end of the shift."
+    ],
+    "appealQuestion": "Will you trust the God who says “I will go down with thee” to lead you through what lies ahead and to bring you up again?",
+    "cautions": [
+      "Do not promise that God’s presence removes hardship; Israel’s years in Egypt included bitter slavery before deliverance.",
+      "Do not allegorize every name in the list; let the list testify to God’s faithfulness in multiplying the family."
+    ],
+    "sources": []
+  },
+  "reflectionQuestions": [
+    "Do I bring my major decisions to God in worship before I act on them?",
+    "What fears about the future do I need to lay beside God’s promise to go with me?",
+    "Can I trust God to work out his purposes even in places that seem far from where I expected to be?",
+    "How does Jacob’s reunion with Joseph shape my hope of seeing those I have lost?",
+    "Am I willing to be honest about who I am and whom I serve, even when it costs me standing?"
+  ],
+  "sources": []
+}
